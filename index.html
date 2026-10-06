@@ -1,34 +1,10 @@
-<!doctype html>
-<html lang="fr">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-  <meta name="theme-color" content="#0b72c9">
-  <title>CHARLI ÉLUS</title>
-  <link rel="manifest" href="manifest.webmanifest">
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-<div class="app">
-  <header class="hero">
-    <div>
-      <div class="eyebrow">VILLE • SERVICES TECHNIQUES</div>
-      <h1>CHARLI <span>ÉLUS</span></h1>
-      <p>Pilotage des services techniques</p>
-    </div>
-    <div class="updated">Mis à jour<br><b id="updated">—</b></div>
-  </header>
-
-  <main id="view"></main>
-
-  <nav class="bottom">
-    <button data-view="home" class="active">⌂<span>Accueil</span></button>
-    <button data-view="planning">▣<span>Planning</span></button>
-    <button data-view="chantiers">▲<span>Chantiers</span></button>
-    <button data-view="equipes">●<span>Équipes</span></button>
-    <button data-view="alerts">•••<span>Plus</span></button>
-  </nav>
-</div>
-<script src="app.js"></script>
-</body>
-</html>
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Charli Élus — Moyens Techniques</title><link rel="stylesheet" href="style.css"></head><body>
+<header><div><h1>🏛️ Charli Élus</h1><p>Moyens Techniques — consultation</p></div><div id="stamp"></div></header>
+<nav><button data-view="dashboard" class="active">Tableau de bord</button><button data-view="planning">Planning</button><button data-view="chantiers">Chantiers</button><button data-view="codir">CODIR</button><button data-view="water">Eau</button></nav>
+<main><section id="dashboard" class="view active"><div id="kpis" class="kpis"></div><h2>⚠️ À retenir</h2><div id="attention" class="cards"></div><h2>📅 Cette semaine</h2><div id="weekSummary"></div><h2>🏗️ Chantiers</h2><div id="projectSummary" class="cards"></div></section>
+<section id="planning" class="view"><div class="sectionHead"><div><h2>📅 Planning hebdomadaire</h2><p id="weekLabel"></p></div><div class="filters"><button id="prevWeek">←</button><button id="todayWeek">Cette semaine</button><button id="nextWeek">→</button></div></div><div id="planningGrid"></div></section>
+<section id="chantiers" class="view"><h2>🏗️ Suivi des chantiers</h2><div id="projects" class="cards"></div></section>
+<section id="codir" class="view"><h2>📌 Points CODIR</h2><div id="codirList" class="cards"></div></section>
+<section id="water" class="view"><h2>💧 Surconsommations d’eau</h2><div id="waterList" class="cards"></div></section></main>
+<div id="modal" class="modal"><div class="modalBox"><button id="closeModal" class="close">×</button><div id="modalBody"></div></div></div>
+<footer>Charli Élus • lecture seule • aucune donnée ne peut être modifiée</footer><script src="app.js"></script></body></html>

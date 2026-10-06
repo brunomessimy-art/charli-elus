@@ -1,0 +1,9 @@
+{
+  "name": "CHARLI ÉLUS",
+  "short_name": "Charli Élus",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f9fc",
+  "theme_color": "#0b72c9",
+  "lang": "fr"
+}

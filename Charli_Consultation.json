@@ -1,0 +1,95 @@
+{
+  "schema": "charli-consultation-v1",
+  "generatedAt": "2026-10-06T14:38:00+02:00",
+  "missions": [
+    {
+      "title": "Fuites suite aux intempéries",
+      "team": "Bâtiment",
+      "location": "Salle du Riveral / Espace C. Urios",
+      "date": "2026-10-06",
+      "status": "À faire",
+      "priority": "Urgente",
+      "codir": true,
+      "watchLevel": "Vigilance"
+    },
+    {
+      "title": "Massif béton avenue Foch",
+      "team": "Voirie",
+      "location": "Avenue Foch",
+      "date": "2026-10-06",
+      "status": "En cours",
+      "priority": "Suivi",
+      "codir": true,
+      "progress": 45
+    },
+    {
+      "title": "Pose de parapluies – Octobre rose",
+      "team": "Festivités",
+      "location": "Salle Sonambule",
+      "date": "2026-10-07",
+      "status": "À faire",
+      "priority": "Normale",
+      "watchLevel": "Vigilance"
+    },
+    {
+      "title": "Peinture entrée médiathèque",
+      "team": "Bâtiment",
+      "location": "Médiathèque",
+      "date": "2026-10-06",
+      "status": "À faire",
+      "priority": "Normale"
+    },
+    {
+      "title": "Panneaux vidéosurveillance",
+      "team": "Voirie",
+      "location": "Centre-ville",
+      "date": "2026-10-07",
+      "status": "À faire",
+      "priority": "Normale"
+    },
+    {
+      "title": "Entretien cimetière",
+      "team": "Espaces verts",
+      "location": "Cimetière",
+      "date": "2026-10-06",
+      "status": "À faire",
+      "priority": "Normale"
+    },
+    {
+      "title": "Tonte et marquage terrain de foot",
+      "team": "Espaces verts",
+      "location": "Complexe sportif",
+      "date": "2026-10-08",
+      "status": "À faire",
+      "priority": "Normale"
+    }
+  ],
+  "chantiers": [
+    {
+      "title": "Reprise EP Rivelin",
+      "company": "Aqua Solutions",
+      "progress": 60,
+      "status": "En cours",
+      "watch": "Accès riverains à maintenir",
+      "nextStep": "Contrôle du réseau et reprise ponctuelle",
+      "deadline": "Semaine en cours"
+    },
+    {
+      "title": "Enrobé cour écoles",
+      "company": "Colas",
+      "progress": 80,
+      "status": "Bon avancement",
+      "nextStep": "Finitions et réception",
+      "deadline": "Vendredi"
+    },
+    {
+      "title": "Toiture Espace C. Urios",
+      "company": "Diagnostic en cours",
+      "progress": 30,
+      "status": "Vigilance",
+      "watch": "Infiltrations",
+      "nextStep": "Diagnostic toiture puis devis",
+      "deadline": "À programmer"
+    }
+  ]
+}

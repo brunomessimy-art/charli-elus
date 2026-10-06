@@ -1,21 +1,5 @@
 
-const fallback = {
- generatedAt:new Date().toISOString(),
- missions:[
- {title:"Fuites suite aux intempéries",team:"Bâtiment",location:"Salle du Riveral / Espace C. Urios",date:"2026-10-06",status:"À faire",priority:"Urgente",codir:true,watchLevel:"Vigilance"},
- {title:"Massif béton avenue Foch",team:"Voirie",location:"Avenue Foch",date:"2026-10-06",status:"En cours",priority:"Suivi",codir:true,progress:45},
- {title:"Pose de parapluies – Octobre rose",team:"Festivités",location:"Salle Sonambule",date:"2026-10-07",status:"À faire",priority:"Normale",watchLevel:"Vigilance"},
- {title:"Peinture entrée médiathèque",team:"Bâtiment",location:"Médiathèque",date:"2026-10-06",status:"À faire",priority:"Normale"},
- {title:"Panneaux vidéosurveillance",team:"Voirie",location:"Centre-ville",date:"2026-10-07",status:"À faire",priority:"Normale"},
- {title:"Entretien cimetière",team:"Espaces verts",location:"Cimetière",date:"2026-10-06",status:"À faire",priority:"Normale"},
- {title:"Tonte et marquage terrain de foot",team:"Espaces verts",location:"Complexe sportif",date:"2026-10-08",status:"À faire",priority:"Normale"}
- ],
- chantiers:[
- {title:"Reprise EP Rivelin",company:"Aqua Solutions",progress:60,status:"En cours",watch:"Accès riverains à maintenir"},
- {title:"Enrobé cour écoles",company:"Colas",progress:80,status:"Bon avancement"},
- {title:"Toiture Espace C. Urios",company:"Diagnostic en cours",progress:30,status:"Vigilance",watch:"Infiltrations"}
- ]
-};
+const fallback = { generatedAt:new Date().toISOString(), missions:[], chantiers:[] };
 let data=fallback, current="home";
 
 const esc=s=>String(s??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]));
@@ -26,7 +10,7 @@ function normalize(raw){
   return {
     generatedAt:raw.generatedAt||raw.generated_at||new Date().toISOString(),
     missions:Array.isArray(raw.missions)?raw.missions:[],
-    chantiers:Array.isArray(raw.chantiers)?raw.chantiers:(Array.isArray(raw.worksites)?raw.worksites:fallback.chantiers)
+    chantiers:Array.isArray(raw.chantiers)?raw.chantiers:(Array.isArray(raw.worksites)?raw.worksites:[])
   };
 }
 async function load(){
@@ -40,7 +24,9 @@ function missionRow(m){
  return `<div class="row">${tag}<div class="grow"><div class="title">${esc(m.title)}</div><div class="sub">${esc(m.location||m.team||"")}</div></div><div class="sub">${fmt(m.date)}</div></div>`;
 }
 function chantierRow(c){
- let p=Number(c.progress)||0; return `<div class="row"><div class="grow"><div class="title">${esc(c.title)}</div><div class="sub">${esc(c.company||"")}</div><div class="progress"><i style="width:${Math.max(0,Math.min(100,p))}%"></i></div></div><b>${p}%</b></div>`;
+ const hasProgress=c.progress!==undefined && c.progress!==null && c.progress!=="" && !Number.isNaN(Number(c.progress));
+ const p=hasProgress?Math.max(0,Math.min(100,Number(c.progress))):null;
+ return `<div class="row"><div class="grow"><div class="title">${esc(c.title)}</div><div class="sub">${esc(c.company||c.status||"")}</div>${hasProgress?`<div class="progress"><i style="width:${p}%"></i></div>`:""}</div>${hasProgress?`<b>${p}%</b>`:`<span class="pill info">${esc(c.status||"En cours")}</span>`}</div>`;
 }
 function home(){
  const urgent=data.missions.filter(m=>(m.priority||"").toLowerCase().includes("urgent")).length;
@@ -75,20 +61,10 @@ function planning(){
  }).join("")}`;
 }
 function chantiers(){
- return `<h2 class="headline">Chantiers en cours</h2>
- <div class="worksite-grid">${data.chantiers.length?data.chantiers.map(c=>{
-   const p=Math.max(0,Math.min(100,Number(c.progress)||0));
-   return `<article class="worksite-card">
-     <div class="worksite-top"><div><div class="worksite-label">CHANTIER</div><h3>${esc(c.title)}</h3></div><div class="percent">${p}%</div></div>
-     <div class="progress big"><i style="width:${p}%"></i></div>
-     <div class="worksite-details">
-       <div><small>Entreprise / intervenant</small><b>${esc(c.company||"Non renseigné")}</b></div>
-       <div><small>État</small><b>${esc(c.status||"En cours")}</b></div>
-       ${c.nextStep?`<div><small>Prochaine étape</small><b>${esc(c.nextStep)}</b></div>`:""}
-       ${c.deadline?`<div><small>Échéance</small><b>${esc(c.deadline)}</b></div>`:""}
-     </div>
-     ${c.watch?`<div class="worksite-watch"><span class="pill watch">Vigilance</span><span>${esc(c.watch)}</span></div>`:""}
-   </article>`;
+ return `<h2 class="headline">Chantiers en cours</h2><div class="worksite-grid">${data.chantiers.length?data.chantiers.map(c=>{
+ const hasProgress=c.progress!==undefined&&c.progress!==null&&c.progress!==""&&!Number.isNaN(Number(c.progress));
+ const p=hasProgress?Math.max(0,Math.min(100,Number(c.progress))):null;
+ return `<article class="worksite-card"><div class="worksite-top"><div><div class="worksite-label">CHANTIER</div><h3>${esc(c.title)}</h3></div>${hasProgress?`<div class="percent">${p}%</div>`:`<span class="pill info">${esc(c.status||"En cours")}</span>`}</div>${hasProgress?`<div class="progress big"><i style="width:${p}%"></i></div>`:""}<div class="worksite-details"><div><small>Entreprise / intervenant</small><b>${esc(c.company||"Non renseigné")}</b></div><div><small>État</small><b>${esc(c.status||"En cours")}</b></div>${c.nextStep?`<div><small>Prochaine étape</small><b>${esc(c.nextStep)}</b></div>`:""}${c.deadline?`<div><small>Échéance</small><b>${esc(c.deadline)}</b></div>`:""}</div>${c.watch?`<div class="worksite-watch"><span class="pill watch">Vigilance</span><span>${esc(c.watch)}</span></div>`:""}</article>`;
  }).join(""):`<div class="empty">Aucun chantier publié.</div>`}</div>`;
 }
 function equipes(){return `<h2 class="headline">Activité par équipe</h2>${teams.map(t=>section(`${teamIcon(t)} ${t}`,`<div class="card">${data.missions.filter(m=>m.team===t).slice(0,8).map(missionRow).join("")||`<div class="empty">Aucune mission.</div>`}</div>`)).join("")}`}

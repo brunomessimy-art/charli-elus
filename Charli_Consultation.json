@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-07T09:35:28.066Z",
+  "generatedAt": "2026-10-07T09:36:03.295Z",
   "agents": [
     {
       "id": "a0",
@@ -3162,7 +3162,9 @@
       "startTime": "08:00",
       "duration": 7.5,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a0"
+      ],
       "vehicles": [],
       "requester": "",
       "description": "Fabriquer des quilles de signalisation destinées à l'équipe Voirie. Journée complète.",
@@ -3184,7 +3186,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-05T19:44:45.316Z"
+      "updatedAt": "2026-10-07T09:36:03.280Z"
     },
     {
       "id": "mmur7golb326w7",

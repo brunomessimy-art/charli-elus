@@ -1,18 +1,84 @@
-let DATA={missions:[],chantiers:[],waterAlerts:[]}, weekStart=startMonday(new Date());
-const $=s=>document.querySelector(s), esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-function startMonday(d){d=new Date(d);d.setHours(0,0,0,0);let n=d.getDay()||7;d.setDate(d.getDate()-n+1);return d} function iso(d){return d.toISOString().slice(0,10)} function fr(d){return new Intl.DateTimeFormat('fr-FR',{weekday:'short',day:'2-digit',month:'2-digit'}).format(d)}
-fetch('Charli_Consultation.json',{cache:'no-store'}).then(r=>r.json()).then(d=>{DATA=d;renderAll()}).catch(()=>{$('#attention').innerHTML='<div class="card urgent">Impossible de charger Charli_Consultation.json. Vérifier que les deux fichiers sont dans le même dossier et lancer via un petit serveur Web.</div>'});
-function renderAll(){let g=new Date(DATA.generatedAt);$('#stamp').innerHTML=`Données actualisées<br><b>${isNaN(g)?esc(DATA.generatedAt):g.toLocaleString('fr-FR')}</b>`; renderDashboard();renderPlanning();renderProjects();renderCodir();renderWater()}
-function pct(m){return Number.isFinite(Number(m.progress))?Math.max(0,Math.min(100,Number(m.progress))):null} function badges(x){let a=[];if(x.priority==='Urgente')a.push('<span class="badge urgent">Urgente</span>');if(x.watchLevel)a.push(`<span class="badge ${x.watchLevel==='Critique'?'critical':''}">Vigilance ${esc(x.watchLevel)}</span>`);if(x.codir)a.push('<span class="badge codir">CODIR</span>');if(x.pinned)a.push('<span class="badge">Suivi prioritaire</span>');if(x.status==='Terminée')a.push('<span class="badge done">Terminée</span>');return a.join(' ')}
-function renderDashboard(){let ms=DATA.missions||[], ch=DATA.chantiers||[], ws=weekMissions();let urgent=ms.filter(x=>x.priority==='Urgente'&&x.status!=='Terminée'), watch=[...ms,...ch].filter(x=>x.watchLevel||x.pinned), cod=ms.filter(x=>x.codir);let vals=[[ws.length,'Missions cette semaine'],[ws.filter(x=>x.status==='Terminée').length,'Terminées cette semaine'],[urgent.length,'Urgences ouvertes'],[watch.length,'Vigilances / suivis'],[ch.length,'Chantiers suivis'],[cod.length,'Points CODIR']];$('#kpis').innerHTML=vals.map(v=>`<div class="kpi"><strong>${v[0]}</strong><span>${v[1]}</span></div>`).join('');let att=[...urgent,...watch].filter((x,i,a)=>a.indexOf(x)===i).slice(0,12);$('#attention').innerHTML=att.length?att.map(card).join(''):'<div class="card">Aucun point prioritaire renseigné.</div>';let by={};ws.forEach(x=>(by[x.team||'Non affecté']??=[]).push(x));$('#weekSummary').innerHTML='<div class="cards">'+Object.entries(by).map(([t,a])=>`<div class="card"><h3>${esc(t)}</h3><b>${a.length} mission${a.length>1?'s':''}</b><div class="meta">${a.filter(x=>x.status==='Terminée').length} terminée(s) • ${a.filter(x=>x.priority==='Urgente').length} urgente(s)</div></div>`).join('')+'</div>';$('#projectSummary').innerHTML=ch.slice(0,9).map(projectCard).join('')||'<div class="card">Aucun chantier.</div>'}
-function card(x){let p=pct(x);return `<div class="card" onclick="showMission('${esc(x.id)}')"><h3>${esc(x.title||x.name)}</h3>${badges(x)}<div class="meta">${esc(x.team||'Chantier')} ${x.location?'• '+esc(x.location):''} ${x.date?'• '+esc(x.date):''}</div>${p!==null?`<div class="progress"><i style="width:${p}%"></i></div><div class="meta">Avancement ${p}%</div>`:''}</div>`}
-function weekMissions(){let end=new Date(weekStart);end.setDate(end.getDate()+5);return (DATA.missions||[]).filter(x=>x.date&&x.date>=iso(weekStart)&&x.date<iso(end))}
-function renderPlanning(){let days=[0,1,2,3,4].map(i=>{let d=new Date(weekStart);d.setDate(d.getDate()+i);return d});$('#weekLabel').textContent=`Du ${days[0].toLocaleDateString('fr-FR')} au ${days[4].toLocaleDateString('fr-FR')}`;let teams=['Voirie','Espaces verts','Bâtiment','Propreté','Festivités','DMT','Moyens techniques'];let html='<div class="planning"><div class="planTable"><div class="cell head">Équipe</div>'+days.map(d=>`<div class="cell head">${fr(d)}</div>`).join('');for(let t of teams){html+=`<div class="cell team">${t}</div>`;for(let d of days){let a=(DATA.missions||[]).filter(x=>x.team===t&&x.date===iso(d));html+=`<div class="cell">${a.length?a.map(x=>`<div class="mission ${x.priority==='Urgente'?'urg':''} ${x.status==='Terminée'?'fin':''}" onclick="showMission('${x.id}')"><b>${esc(x.title)}</b>${x.location?esc(x.location):''}${pct(x)!==null?' • '+pct(x)+'%':''}</div>`).join(''):'<span class="empty">—</span>'}</div>`}}html+='</div></div>';$('#planningGrid').innerHTML=html}
-function projectCard(x){let p=pct(x);return `<div class="card" onclick="showProject('${x.id}')"><h3>${esc(x.name)}</h3>${badges(x)}<div class="meta">${esc(x.status||'')} ${x.location?'• '+esc(x.location):''}</div>${p!==null?`<div class="progress"><i style="width:${p}%"></i></div><b>${p}%</b>`:'<div class="meta">Avancement non renseigné</div>'}${x.nextAction?`<p><b>Prochaine action :</b> ${esc(x.nextAction)}</p>`:''}</div>`}
-function renderProjects(){$('#projects').innerHTML=(DATA.chantiers||[]).map(projectCard).join('')||'<div class="card">Aucun chantier renseigné.</div>'}
-function renderCodir(){let a=(DATA.missions||[]).filter(x=>x.codir);$('#codirList').innerHTML=a.length?a.map(card).join(''):'<div class="card">Aucun point CODIR renseigné.</div>'}
-function renderWater(){let a=DATA.waterAlerts||[];$('#waterList').innerHTML=a.length?a.map(x=>`<div class="card"><h3>${esc(x.title||x.name||'Alerte eau')}</h3><pre>${esc(JSON.stringify(x,null,2))}</pre></div>`).join(''):'<div class="card"><h3>💧 Aucune alerte en cours</h3><p class="meta">Aucune surconsommation d’eau n’est présente dans l’export actuel.</p></div>'}
-window.showMission=id=>{let x=DATA.missions.find(y=>y.id===id);if(!x)return;let p=pct(x);openModal(`<h2>${esc(x.title)}</h2>${badges(x)}<div class="detailGrid">${detail('Équipe',x.team)}${detail('Lieu',x.location)}${detail('Date',x.date)}${detail('Statut',x.status)}${detail('Priorité',x.priority)}${detail('Avancement',p===null?'Non renseigné':p+' %')}${detail('Projet',x.project)}${detail('Échéance',x.deadline)}${detail('Prochaine étape',x.nextStep)}${detail('Note de vigilance',x.watchNote)}</div>`)};
-window.showProject=id=>{let x=DATA.chantiers.find(y=>y.id===id);if(!x)return;let p=pct(x), phases=(x.phases||[]).map(q=>`<div class="phase"><b>${esc(q.name||'Phase')}</b><div class="meta">${esc(q.date||'Date non renseignée')} • ${esc(q.status||'')}</div>${q.watchLevel?badges(q):''}${q.watchNote?'<p>'+esc(q.watchNote)+'</p>':''}</div>`).join('');openModal(`<h2>${esc(x.name)}</h2>${badges(x)}${p!==null?`<div class="progress"><i style="width:${p}%"></i></div>`:''}<div class="detailGrid">${detail('Statut',x.status)}${detail('Avancement',p===null?'Non renseigné':p+' %')}${detail('Lieu',x.location)}${detail('Échéance',x.endDate)}${detail('Prochaine action',x.nextAction)}${detail('Vigilance',x.watchNote)}</div><h3>Phases</h3>${phases||'<p class="meta">Aucune phase renseignée.</p>'}`)};
-function detail(k,v){return `<div class="detail"><b>${k}</b><br>${esc(v||'Non renseigné')}</div>`} function openModal(h){$('#modalBody').innerHTML=h;$('#modal').classList.add('open')}
-$('#closeModal').onclick=()=>$('#modal').classList.remove('open');$('#modal').onclick=e=>{if(e.target.id==='modal')$('#modal').classList.remove('open')};document.querySelectorAll('nav button').forEach(b=>b.onclick=()=>{document.querySelectorAll('nav button,.view').forEach(x=>x.classList.remove('active'));b.classList.add('active');$('#'+b.dataset.view).classList.add('active')});$('#prevWeek').onclick=()=>{weekStart.setDate(weekStart.getDate()-7);renderPlanning()};$('#nextWeek').onclick=()=>{weekStart.setDate(weekStart.getDate()+7);renderPlanning()};$('#todayWeek').onclick=()=>{weekStart=startMonday(new Date());renderPlanning()};
+
+const fallback = { generatedAt:new Date().toISOString(), missions:[], chantiers:[] };
+let data=fallback, current="home";
+
+const esc=s=>String(s??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]));
+const fmt=d=>{try{return new Intl.DateTimeFormat("fr-FR",{day:"numeric",month:"short"}).format(new Date(d+"T12:00:00"))}catch{return d}};
+const teams=["Bâtiment","Voirie","Espaces verts","Propreté","Festivités","DMT","Moyens techniques"];
+const teamIcon=t=>({"Bâtiment":"⌂","Voirie":"▥","Espaces verts":"●","Propreté":"♣","Festivités":"✦"}[t]||"•");
+function normalize(raw){
+  return {
+    generatedAt:raw.generatedAt||raw.generated_at||new Date().toISOString(),
+    missions:Array.isArray(raw.missions)?raw.missions:[],
+    chantiers:Array.isArray(raw.chantiers)?raw.chantiers:(Array.isArray(raw.worksites)?raw.worksites:[])
+  };
+}
+async function load(){
+  try{const r=await fetch("Charli_Consultation.json?ts="+Date.now(),{cache:"no-store"});if(r.ok)data=normalize(await r.json())}catch(e){}
+  document.querySelector("#updated").textContent=new Date(data.generatedAt).toLocaleString("fr-FR",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"});
+  render();
+}
+function section(title,body,more=""){return `<section class="section"><div class="section-title"><h2>${title}</h2>${more?`<span class="link">${more}</span>`:""}</div>${body}</section>`}
+function missionRow(m){
+ const tag=(m.priority||"").toLowerCase().includes("urgent")?`<span class="pill urgent">Urgent</span>`:m.watchLevel?`<span class="pill watch">${esc(m.watchLevel)}</span>`:`<span class="pill info">${esc(m.status||"Info")}</span>`;
+ return `<div class="row">${tag}<div class="grow"><div class="title">${esc(m.title)}</div><div class="sub">${esc(m.location||m.team||"")}</div></div><div class="sub">${fmt(m.date)}</div></div>`;
+}
+function chantierRow(c){
+ const title=c.name||c.title||"Chantier sans nom";
+ const nextAction=c.nextAction||c.nextStep||"";
+ const watch=c.watchNote||c.watch||"";
+ const hasProgress=c.progress!==undefined && c.progress!==null && c.progress!=="" && !Number.isNaN(Number(c.progress));
+ const p=hasProgress?Math.max(0,Math.min(100,Number(c.progress))):null;
+ return `<div class="row"><div class="grow"><div class="title">${esc(title)}</div><div class="sub">${esc(c.location||c.company||c.status||"")}</div>${hasProgress?`<div class="progress"><i style="width:${p}%"></i></div>`:""}</div>${hasProgress?`<b>${p}%</b>`:`<span class="pill info">${esc(c.status||"En cours")}</span>`}</div>`;
+}
+function home(){
+ const urgent=data.missions.filter(m=>(m.priority||"").toLowerCase().includes("urgent")).length;
+ const watch=data.missions.filter(m=>m.watchLevel||m.watchNote).length;
+ const codir=data.missions.filter(m=>m.codir||m.watchLevel||(m.priority||"").toLowerCase().includes("urgent")).slice(0,5);
+ const counts=Object.fromEntries(teams.map(t=>[t,data.missions.filter(m=>m.team===t).length]));
+ return `<div class="kpis">
+  <div class="kpi"><b>${data.missions.length}</b><small>Missions</small></div>
+  <div class="kpi"><b>${data.chantiers.length}</b><small>Chantiers</small></div>
+  <div class="kpi"><b>${urgent}</b><small>Priorités</small></div>
+  <div class="kpi"><b>${watch}</b><small>Vigilances</small></div></div>
+  ${section("À RETENIR (CODIR)",`<div class="card">${(codir.length?codir:data.missions.slice(0,4)).map(missionRow).join("")}</div>`,"Voir tout →")}
+  ${section("CHANTIERS EN COURS",`<div class="card">${data.chantiers.slice(0,4).map(chantierRow).join("")}</div>`,"Voir tout →")}
+  ${section("ACTIVITÉ DES ÉQUIPES",`<div class="teamgrid">${teams.map(t=>`<div class="team"><div class="ico">${teamIcon(t)}</div><small>${t}</small><b>${counts[t]}</b><small>missions</small></div>`).join("")}</div>`)}
+  ${section("PROCHAINEMENT",`<div class="card">${[...data.missions].filter(m=>m.date).sort((a,b)=>a.date.localeCompare(b.date)).slice(0,5).map(missionRow).join("")}</div>`)}
+ `;
+}
+function planning(){
+ const ms=[...data.missions].filter(m=>m.date).sort((a,b)=>a.date.localeCompare(b.date));
+ const days=[...new Set(ms.map(m=>m.date))];
+ return `<h2 class="headline">Planning des équipes — semaine en cours</h2>
+ ${teams.map(t=>{
+   const tm=ms.filter(m=>m.team===t);
+   return `<section class="team-plan">
+     <div class="team-plan-head"><div><span class="team-big-icon">${teamIcon(t)}</span><b>${esc(t)}</b></div><span>${tm.length} mission${tm.length>1?"s":""}</span></div>
+     <div class="week-grid">${days.map(d=>{
+       const dm=tm.filter(m=>m.date===d);
+       return `<div class="day-card"><div class="day-name">${new Intl.DateTimeFormat("fr-FR",{weekday:"short",day:"numeric"}).format(new Date(d+"T12:00:00"))}</div>
+       ${dm.length?dm.map(m=>`<div class="mini-mission"><b>${esc(m.title)}</b><small>📍 ${esc(m.location||"Lieu non renseigné")}</small><small>${esc(m.status||"À faire")}${m.startTime?" • "+esc(m.startTime):""}</small></div>`).join(""):`<div class="no-mission">—</div>`}</div>`;
+     }).join("")}</div>
+   </section>`;
+ }).join("")}`;
+}
+function chantiers(){
+ return `<h2 class="headline">Chantiers en cours</h2><div class="worksite-grid">${data.chantiers.length?data.chantiers.map(c=>{
+ const title=c.name||c.title||"Chantier sans nom";
+ const nextAction=c.nextAction||c.nextStep||"";
+ const deadline=c.endDate||c.deadline||"";
+ const watch=c.watchNote||c.watch||"";
+ const hasProgress=c.progress!==undefined&&c.progress!==null&&c.progress!==""&&!Number.isNaN(Number(c.progress));
+ const p=hasProgress?Math.max(0,Math.min(100,Number(c.progress))):null;
+ return `<article class="worksite-card"><div class="worksite-top"><div><div class="worksite-label">CHANTIER</div><h3>${esc(title)}</h3></div>${hasProgress?`<div class="percent">${p}%</div>`:`<span class="pill info">${esc(c.status||"En cours")}</span>`}</div>${hasProgress?`<div class="progress big"><i style="width:${p}%"></i></div>`:""}<div class="worksite-details"><div><small>Entreprise / intervenant</small><b>${esc(c.company||"Non renseigné")}</b></div><div><small>État</small><b>${esc(c.status||"En cours")}</b></div>${nextAction?`<div><small>Prochaine étape</small><b>${esc(nextAction)}</b></div>`:""}${deadline?`<div><small>Échéance</small><b>${esc(deadline)}</b></div>`:""}${c.watchLevel?`<div><small>Vigilance</small><b>${esc(c.watchLevel)}</b></div>`:""}${Array.isArray(c.phases)&&c.phases.length?`<div><small>Phases</small><b>${c.phases.length} phase${c.phases.length>1?"s":""}</b></div>`:""}</div>${(c.watchLevel||watch)?`<div class="worksite-watch"><span class="pill watch">${esc(c.watchLevel||"Vigilance")}</span>${watch?`<span>${esc(watch)}</span>`:""}</div>`:""}</article>`;
+ }).join(""):`<div class="empty">Aucun chantier publié.</div>`}</div>`;
+}
+function equipes(){return `<h2 class="headline">Activité par équipe</h2>${teams.map(t=>section(`${teamIcon(t)} ${t}`,`<div class="card">${data.missions.filter(m=>m.team===t).slice(0,8).map(missionRow).join("")||`<div class="empty">Aucune mission.</div>`}</div>`)).join("")}`}
+function alerts(){const a=data.missions.filter(m=>m.watchLevel||m.watchNote||(m.priority||"").toLowerCase().includes("urgent"));return `<h2 class="headline">Priorités & vigilances</h2><div class="card">${a.length?a.map(missionRow).join(""):`<div class="empty">Aucune alerte publiée.</div>`}</div>`}
+function render(){
+ document.querySelector("#view").innerHTML=({home,planning,chantiers,equipes,alerts}[current])();
+ document.querySelectorAll(".bottom button").forEach(b=>b.classList.toggle("active",b.dataset.view===current));
+}
+document.querySelectorAll(".bottom button").forEach(b=>b.onclick=()=>{current=b.dataset.view;render();scrollTo(0,0)});
+load();

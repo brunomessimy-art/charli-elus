@@ -28,3 +28,5 @@ main{padding:14px}.kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:8px
 .chantier-link{touch-action:manipulation;-webkit-tap-highlight-color:rgba(8,120,207,.12)}
 .chantier-link::after{content:"Voir la fiche →";display:block;margin-top:10px;font-size:11px;font-weight:800;color:#0878cf}
 .row.chantier-link::after{margin-top:0;margin-left:4px;white-space:nowrap}
+
+.chantier-link{color:inherit;text-decoration:none}

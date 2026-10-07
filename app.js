@@ -29,7 +29,7 @@ function chantierRow(c){
  const watch=c.watchNote||c.watch||"";
  const hasProgress=c.progress!==undefined && c.progress!==null && c.progress!=="" && !Number.isNaN(Number(c.progress));
  const p=hasProgress?Math.max(0,Math.min(100,Number(c.progress))):null;
- return `<div class="row chantier-link" data-chantier="${esc(c.id||'')}" role="button" tabindex="0"><div class="grow"><div class="title">${esc(title)}</div><div class="sub">${esc(c.location||c.company||c.status||"")}</div>${hasProgress?`<div class="progress"><i style="width:${p}%"></i></div>`:""}</div>${hasProgress?`<b>${p}%</b>`:`<span class="pill info">${esc(c.status||"En cours")}</span>`}</div>`;
+ return `<a class="row chantier-link" href="#chantier=${encodeURIComponent(String(c.id||''))}" data-chantier="${esc(c.id||'')}"><div class="grow"><div class="title">${esc(title)}</div><div class="sub">${esc(c.location||c.company||c.status||"")}</div>${hasProgress?`<div class="progress"><i style="width:${p}%"></i></div>`:""}</div>${hasProgress?`<b>${p}%</b>`:`<span class="pill info">${esc(c.status||"En cours")}</span>`}</a>`;
 }
 function home(){
  const urgent=data.missions.filter(m=>(m.priority||"").toLowerCase().includes("urgent")).length;
@@ -79,7 +79,7 @@ function chantiers(){
  const watch=c.watchNote||c.watch||"";
  const hasProgress=c.progress!==undefined&&c.progress!==null&&c.progress!==""&&!Number.isNaN(Number(c.progress));
  const p=hasProgress?Math.max(0,Math.min(100,Number(c.progress))):null;
- return `<article class="worksite-card chantier-link" data-chantier="${esc(c.id||'')}" role="button" tabindex="0"><div class="worksite-top"><div><div class="worksite-label">CHANTIER</div><h3>${esc(title)}</h3></div>${hasProgress?`<div class="percent">${p}%</div>`:`<span class="pill info">${esc(c.status||"En cours")}</span>`}</div>${hasProgress?`<div class="progress big"><i style="width:${p}%"></i></div>`:""}<div class="worksite-details"><div><small>Entreprise / intervenant</small><b>${esc(c.company||"Non renseigné")}</b></div><div><small>État</small><b>${esc(c.status||"En cours")}</b></div>${nextAction?`<div><small>Prochaine étape</small><b>${esc(nextAction)}</b></div>`:""}${deadline?`<div><small>Échéance</small><b>${esc(deadline)}</b></div>`:""}${c.watchLevel?`<div><small>Vigilance</small><b>${esc(c.watchLevel)}</b></div>`:""}${Array.isArray(c.phases)&&c.phases.length?`<div><small>Phases</small><b>${c.phases.length} phase${c.phases.length>1?"s":""}</b></div>`:""}</div>${(c.watchLevel||watch)?`<div class="worksite-watch"><span class="pill watch">${esc(c.watchLevel||"Vigilance")}</span>${watch?`<span>${esc(watch)}</span>`:""}</div>`:""}</article>`;
+ return `<a class="worksite-card chantier-link" href="#chantier=${encodeURIComponent(String(c.id||''))}" data-chantier="${esc(c.id||'')}"><div class="worksite-top"><div><div class="worksite-label">CHANTIER</div><h3>${esc(title)}</h3></div>${hasProgress?`<div class="percent">${p}%</div>`:`<span class="pill info">${esc(c.status||"En cours")}</span>`}</div>${hasProgress?`<div class="progress big"><i style="width:${p}%"></i></div>`:""}<div class="worksite-details"><div><small>Entreprise / intervenant</small><b>${esc(c.company||"Non renseigné")}</b></div><div><small>État</small><b>${esc(c.status||"En cours")}</b></div>${nextAction?`<div><small>Prochaine étape</small><b>${esc(nextAction)}</b></div>`:""}${deadline?`<div><small>Échéance</small><b>${esc(deadline)}</b></div>`:""}${c.watchLevel?`<div><small>Vigilance</small><b>${esc(c.watchLevel)}</b></div>`:""}${Array.isArray(c.phases)&&c.phases.length?`<div><small>Phases</small><b>${c.phases.length} phase${c.phases.length>1?"s":""}</b></div>`:""}</div>${(c.watchLevel||watch)?`<div class="worksite-watch"><span class="pill watch">${esc(c.watchLevel||"Vigilance")}</span>${watch?`<span>${esc(watch)}</span>`:""}</div>`:""}</a>`;
  }).join(""):`<div class="empty">Aucun chantier publié.</div>`}</div>`;
 }
 function chantierDetail(id){
@@ -111,23 +111,19 @@ function render(){
  document.querySelectorAll(".bottom button").forEach(b=>b.classList.toggle("active",b.dataset.view===current));
  const back=document.querySelector("#backChantiers"); if(back)back.onclick=()=>{current="chantiers";render();window.scrollTo(0,0)};
 }
-// Délégation du clic : plus fiable sur Android/iPhone et après chaque re-rendu de la vue.
-const viewRoot=document.querySelector("#view");
-function openChantierFromElement(el){
- const id=el?.dataset?.chantier;
- if(!id) return;
- current="chantier:"+id;
- render();
- window.scrollTo(0,0);
+// Navigation chantier par URL (#chantier=ID). Les cartes sont de vrais liens HTML :
+// cela fonctionne même si un navigateur mobile bloque un gestionnaire tactile JavaScript.
+function routeFromHash(){
+ const h=location.hash||"";
+ if(h.startsWith("#chantier=")){
+   const id=decodeURIComponent(h.slice(10));
+   if(id){ current="chantier:"+id; render(); window.scrollTo(0,0); return; }
+ }
 }
-viewRoot.addEventListener("click",e=>{
- const el=e.target.closest("[data-chantier]");
- if(el && viewRoot.contains(el)){e.preventDefault();openChantierFromElement(el);}
+window.addEventListener("hashchange",routeFromHash);
+document.querySelectorAll(".bottom button").forEach(b=>b.onclick=()=>{
+ current=b.dataset.view;
+ if(location.hash) history.replaceState(null,"",location.pathname+location.search);
+ render();window.scrollTo(0,0);
 });
-viewRoot.addEventListener("keydown",e=>{
- if(e.key!=="Enter" && e.key!==" ") return;
- const el=e.target.closest("[data-chantier]");
- if(el && viewRoot.contains(el)){e.preventDefault();openChantierFromElement(el);}
-});
-document.querySelectorAll(".bottom button").forEach(b=>b.onclick=()=>{current=b.dataset.view;render();window.scrollTo(0,0)});
-load();
+load().then(routeFromHash);

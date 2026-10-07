@@ -49,7 +49,15 @@ function home(){
 }
 function planning(){
  const ms=[...data.missions].filter(m=>m.date).sort((a,b)=>a.date.localeCompare(b.date));
- const days=[...new Set(ms.map(m=>m.date))];
+ // Toujours afficher la semaine de travail civile : lundi -> vendredi.
+ // La semaine est déterminée à partir de la date de génération des données STM.
+ const ref=new Date(data.generatedAt||new Date());
+ const localRef=new Date(ref.getFullYear(),ref.getMonth(),ref.getDate(),12);
+ const day=localRef.getDay(); // 0=dimanche, 1=lundi...
+ const deltaToMonday=day===0?-6:1-day;
+ const monday=new Date(localRef); monday.setDate(localRef.getDate()+deltaToMonday);
+ const isoLocal=d=>`${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,"0")}-${String(d.getDate()).padStart(2,"0")}`;
+ const days=Array.from({length:5},(_,i)=>{const d=new Date(monday);d.setDate(monday.getDate()+i);return isoLocal(d)});
  return `<h2 class="headline">Planning des équipes — semaine en cours</h2>
  ${teams.map(t=>{
    const tm=ms.filter(m=>m.team===t);

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-07T09:36:32.192Z",
+  "generatedAt": "2026-10-07T09:36:54.214Z",
   "agents": [
     {
       "id": "a0",
@@ -3276,7 +3276,9 @@
       "startTime": "08:00",
       "duration": 7.5,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a0"
+      ],
       "vehicles": [],
       "requester": "",
       "description": "Poursuivre la maintenance, la réparation et la révision des extincteurs dans les bâtiments communaux. Journée complète jusqu'à 17h.",
@@ -3298,7 +3300,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-02T16:56:42.623Z"
+      "updatedAt": "2026-10-07T09:36:54.198Z"
     },
     {
       "id": "mmur7golbkki1t",

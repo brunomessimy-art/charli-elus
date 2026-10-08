@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T13:08:14.919Z",
+  "generatedAt": "2026-10-08T13:08:48.947Z",
   "agents": [
     {
       "id": "a0",
@@ -5891,6 +5891,46 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-08T13:07:19.644Z"
+    },
+    {
+      "id": "mmuzjy0rv8n3on",
+      "title": "Mise en place d'un caïboutis",
+      "bt": "",
+      "team": "Voirie",
+      "activity": "Mobilier urbain",
+      "location": "RUE MASSALAT",
+      "date": "2026-10-13",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 2,
+      "agentCount": 3,
+      "agents": [
+        "a17",
+        "a18",
+        "a16"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "Installation d'un caïboutis rue Massalat par l'équipe voirie.",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Dictée IA : Mise en place d'un caïboutis rue Massalat par l'équipe voirie.",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-08T13:08:48.912Z"
     }
   ],
   "chantiers": [

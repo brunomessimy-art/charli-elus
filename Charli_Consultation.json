@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T08:25:38.304Z",
+  "generatedAt": "2026-10-08T08:25:47.622Z",
   "agents": [
     {
       "id": "a0",
@@ -3079,11 +3079,11 @@
       "requester": "",
       "description": "Effectuer la maintenance, la réparation et la révision des extincteurs dans les bâtiments communaux. Journée complète jusqu'à 17h.",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Missions préparées Charli",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -3096,7 +3096,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-07T09:36:32.176Z"
+      "updatedAt": "2026-10-08T08:25:47.590Z"
     },
     {
       "id": "mmur7golb0dzcc",
@@ -3337,11 +3337,11 @@
       "requester": "Paco SEIGNERT",
       "description": "Bonjour, \nJ'ai une poignée du congèle du haut qui et coupant, une agent c'est coupé en essayant d'ouvrir celui ci\n\nJe vous remercie\n\nPaco\n\nMainti4 000006272\nDélai / urgence : Du 02/10/2026 13:59 au 02/10/2026 14:59\nDemande du : 02/10/2026\nDemandeur : Paco SEIGNERT\nÉtat Mainti4 : En attente",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Demandes",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -3354,7 +3354,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-05T06:13:21.511Z"
+      "updatedAt": "2026-10-08T08:25:45.900Z"
     },
     {
       "id": "mmus3sm5j2yfey",

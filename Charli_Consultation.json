@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T09:40:06.358Z",
+  "generatedAt": "2026-10-08T09:40:12.599Z",
   "agents": [
     {
       "id": "a0",
@@ -1520,11 +1520,11 @@
       "requester": "",
       "description": "Curage de fosses.",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import PDF",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -1537,7 +1537,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T09:40:06.341Z"
+      "updatedAt": "2026-10-08T09:40:12.583Z"
     },
     {
       "id": "mmuqx7kehfjpyq",

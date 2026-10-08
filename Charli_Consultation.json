@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T11:09:02.064Z",
+  "generatedAt": "2026-10-08T11:09:08.715Z",
   "agents": [
     {
       "id": "a0",
@@ -3782,11 +3782,11 @@
       "requester": "",
       "description": "Point sur les mails et les demandes d'intervention.",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Missions préparées Charli",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -3799,7 +3799,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T11:09:02.034Z"
+      "updatedAt": "2026-10-08T11:09:08.687Z"
     },
     {
       "id": "mmuvc0ohem7zwd",

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T08:24:58.496Z",
+  "generatedAt": "2026-10-08T08:25:08.012Z",
   "agents": [
     {
       "id": "a0",
@@ -3600,11 +3600,11 @@
       "requester": "",
       "description": "problème d'infiltration au niveau de la police municipale voir les causes s'il s'agit de surcharge du aux évacuations bouchées ou autre",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Charli Terrain",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "Alerte",
       "watchNote": "",
       "pinned": true,
@@ -3617,7 +3617,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-05T19:24:30.731Z"
+      "updatedAt": "2026-10-08T08:25:07.978Z"
     },
     {
       "id": "mmuv6e8ueconc2",

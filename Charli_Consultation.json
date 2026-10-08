@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T08:25:47.622Z",
+  "generatedAt": "2026-10-08T08:25:57.062Z",
   "agents": [
     {
       "id": "a0",
@@ -3117,11 +3117,11 @@
       "requester": "",
       "description": "Poursuivre la maintenance, la réparation et la révision des extincteurs dans les bâtiments communaux. Journée complète jusqu'à 17h.",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Missions préparées Charli",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -3134,7 +3134,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-07T09:36:54.198Z"
+      "updatedAt": "2026-10-08T08:25:53.515Z"
     },
     {
       "id": "mmur7golbkki1t",
@@ -3261,11 +3261,11 @@
       "requester": "",
       "description": "Fabriquer le rack destiné au rangement des feuilles de loto au Quai de la Gare. Journée complète.",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Missions préparées Charli",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -3278,7 +3278,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-02T16:56:42.623Z"
+      "updatedAt": "2026-10-08T08:25:54.602Z"
     },
     {
       "id": "mmus3sm5i3hw2p",
@@ -4250,11 +4250,11 @@
       "requester": "",
       "description": "À partir de jeudi 8 octobre, réalisation des coffres pour le voteau au quai de la gare.",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Missions préparées Charli",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -4267,7 +4267,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-07T09:37:18.129Z"
+      "updatedAt": "2026-10-08T08:25:57.030Z"
     },
     {
       "id": "mmuvosrvhskdqf",

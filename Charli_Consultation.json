@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T07:02:03.301Z",
+  "generatedAt": "2026-10-08T07:02:44.799Z",
   "agents": [
     {
       "id": "a0",
@@ -957,17 +957,22 @@
       "title": "fauchage route",
       "bt": "000006187",
       "team": "Espaces verts",
-      "activity": "Autre",
+      "activity": "Débroussaillement",
       "location": "MAS D'AVELLAN BAS",
-      "date": "",
+      "date": "2026-10-13",
       "slot": "Personnalisé",
       "startTime": "",
-      "duration": 1,
-      "agentCount": 1,
-      "agents": [],
+      "duration": 2,
+      "agentCount": 4,
+      "agents": [
+        "a5",
+        "a6",
+        "a7",
+        "a4"
+      ],
       "vehicles": [],
       "requester": "ADMINISTRE",
-      "description": "Le fauchage  de notre route n'ayant  pas été  fait  cette année \r\nGermain  Tarsot \r\nMas d'avellan  bas\r\n0675053021\n\nMainti4 000006187\nDélai / urgence : SOUS 7 JOURS\nDemande du : 07/09/2026\nDemandeur : ADMINISTRE\nÉtat Mainti4 : En attente",
+      "description": "Le fauchage  de notre route n'ayant  pas été  fait  cette année \nGermain  Tarsot \nMas d'avellan  bas\n0675053021\n\nMainti4 000006187\nDélai / urgence : SOUS 7 JOURS\nDemande du : 07/09/2026\nDemandeur : ADMINISTRE\nÉtat Mainti4 : En attente",
       "report": "",
       "status": "À faire",
       "priority": "Normale",
@@ -986,7 +991,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": ""
+      "updatedAt": "2026-10-08T07:02:44.781Z"
     },
     {
       "id": "mmupa7maw6unlf",

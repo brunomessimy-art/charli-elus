@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T11:08:23.014Z",
+  "generatedAt": "2026-10-08T11:08:27.487Z",
   "agents": [
     {
       "id": "a0",
@@ -1438,11 +1438,11 @@
       "requester": "",
       "description": "Fabrication et pose portail coulissant cours ALAE - vu avec Sandrine GUSMAROLI - equipe",
       "report": "Travail à la charge de Benjamin: \nOrdre de priorité: \n1 Finir les quilles\n2 Vérification des extincteurs\n3 Portail du Foot \n4 Barrières ALAE",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import PDF",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -1455,7 +1455,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": ""
+      "updatedAt": "2026-10-08T11:08:27.460Z"
     },
     {
       "id": "mmuqx7keh9sy2y",

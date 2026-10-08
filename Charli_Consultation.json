@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T14:09:47.353Z",
+  "generatedAt": "2026-10-08T14:14:41.666Z",
   "agents": [
     {
       "id": "a0",
@@ -6001,6 +6001,44 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-08T13:43:03.761Z"
+    },
+    {
+      "id": "mmuzm5j077hd28",
+      "title": "RECALIFICATION DE L'ESPACE VERT LE LONG DU BD DU MOULIN",
+      "bt": "",
+      "team": "Espaces verts",
+      "activity": "Plantation",
+      "location": "BOULEVARD DU MOULIN",
+      "date": "2026-10-12",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 3.5,
+      "agentCount": 1,
+      "agents": [
+        "a4"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "2026-11-02",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-08T14:14:41.633Z"
     }
   ],
   "chantiers": [

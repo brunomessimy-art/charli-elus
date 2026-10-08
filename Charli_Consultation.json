@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T09:20:47.730Z",
+  "generatedAt": "2026-10-08T09:21:34.852Z",
   "agents": [
     {
       "id": "a0",
@@ -4619,17 +4619,19 @@
       "title": "balayeuse",
       "bt": "000006283",
       "team": "Propreté",
-      "activity": "Autre",
+      "activity": "Lavage",
       "location": "IMPASSE DES COURLIS",
-      "date": "",
+      "date": "2026-10-09",
       "slot": "Personnalisé",
       "startTime": "",
-      "duration": 1,
+      "duration": 1.5,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a12"
+      ],
       "vehicles": [],
       "requester": "ADMINISTRE",
-      "description": "passage balayeuse 5 impasse des courlis 2 ème relance.\r\nBonjour, madame diaz, c'est madame Matthieu au loutissement adresse, 5 impasse des courlis   ça fait deux relances que je fais pour omvien  passer la balayeuse  devant chez moi dans l'chemin, c'est pourri, c'est vraiment pourri il ua debma boue voyer les\n\nMainti4 000006283\nDélai / urgence : SOUS 7 JOURS\nDemande du : 06/10/2026\nDemandeur : ADMINISTRE\nÉtat Mainti4 : En attente",
+      "description": "passage balayeuse 5 impasse des courlis 2 ème relance.\nBonjour, madame diaz, c'est madame Matthieu au loutissement adresse, 5 impasse des courlis   ça fait deux relances que je fais pour omvien  passer la balayeuse  devant chez moi dans l'chemin, c'est pourri, c'est vraiment pourri il ua debma boue voyer les\n\nMainti4 000006283\nDélai / urgence : SOUS 7 JOURS\nDemande du : 06/10/2026\nDemandeur : ADMINISTRE\nÉtat Mainti4 : En attente",
       "report": "",
       "status": "À faire",
       "priority": "Normale",
@@ -4648,7 +4650,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T08:27:18.280Z"
+      "updatedAt": "2026-10-08T09:21:34.835Z"
     },
     {
       "id": "mmuz9wl7dww7wd",

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T13:41:41.068Z",
+  "generatedAt": "2026-10-08T13:41:49.151Z",
   "agents": [
     {
       "id": "a0",
@@ -4364,7 +4364,9 @@
       "startTime": "",
       "duration": 1,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a4"
+      ],
       "vehicles": [],
       "requester": "Lucie AMBROSI",
       "description": "Bonjour,\nSerait-il possible de venir remplacer la glycine du jardin qui a rendu l'âme cet été ? \nPourriez-vous également prévoir l'achat d'une plante verte (entre 80 et 90 cm de hauteur, pot compris) pour empêcher un passage près d'une des portes automatiques.\nMerci !\n\nMainti4 000006290\nDélai / urgence : Du 07/10/2026 16:46 au 07/10/2026 17:46\nDemande du : 07/10/2026\nDemandeur : Lucie AMBROSI\nÉtat Mainti4 : En attente",
@@ -4386,7 +4388,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T13:41:41.036Z"
+      "updatedAt": "2026-10-08T13:41:49.119Z"
     },
     {
       "id": "mmuz9wl7bihb7a",

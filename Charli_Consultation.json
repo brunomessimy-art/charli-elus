@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T07:07:28.971Z",
+  "generatedAt": "2026-10-08T07:09:23.551Z",
   "agents": [
     {
       "id": "a0",
@@ -1002,8 +1002,8 @@
       "location": "BOULEVARD DE L'ESPLANADE",
       "date": "2026-10-13",
       "slot": "Personnalisé",
-      "startTime": "",
-      "duration": 1,
+      "startTime": "08:00",
+      "duration": 0.5,
       "agentCount": 3,
       "agents": [
         "a16",
@@ -1031,7 +1031,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T07:05:14.414Z"
+      "updatedAt": "2026-10-08T07:09:23.535Z"
     },
     {
       "id": "mmupa7mawmbd44",

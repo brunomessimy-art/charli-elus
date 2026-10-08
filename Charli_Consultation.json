@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T07:56:53.662Z",
+  "generatedAt": "2026-10-08T07:57:43.353Z",
   "agents": [
     {
       "id": "a0",
@@ -3475,15 +3475,17 @@
       "id": "mmus3sm5kkkqf4",
       "title": "SIGNALISATION MAISON THERESE",
       "bt": "000006265",
-      "team": "Voirie",
+      "team": "DMT",
       "activity": "Autre",
       "location": "BATIMENTS ASSOCIATIONS",
       "date": "",
       "slot": "Personnalisé",
       "startTime": "",
-      "duration": 1,
+      "duration": 0.25,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a8"
+      ],
       "vehicles": [],
       "requester": "Joëlle SOREL",
       "description": "BONJOUR JOELLE SOREL DEMANDE DE FAIRE UNE SIGNALISATION DE LA MAISON THERESE AUTRE QUE CELLE CI L'ENTREE NE SE VOIT PAS .\n\nMainti4 000006265\nDélai / urgence : SOUS 7 JOURS\nDemande du : 01/10/2026\nDemandeur : Joëlle SOREL\nÉtat Mainti4 : En attente",
@@ -3501,11 +3503,11 @@
       "projectStatus": "",
       "nextStep": "",
       "decision": "",
-      "deadline": "",
+      "deadline": "2026-10-12",
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-05T06:29:51.893Z"
+      "updatedAt": "2026-10-08T07:57:43.323Z"
     },
     {
       "id": "mmus3sm5kcflqb",

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T07:03:40.596Z",
+  "generatedAt": "2026-10-08T07:05:14.433Z",
   "agents": [
     {
       "id": "a0",
@@ -995,17 +995,21 @@
     },
     {
       "id": "mmupa7maw6unlf",
-      "title": "STATION CANINE ST PIERRE A DEPLACER",
+      "title": "STATION CANINE ST PIERRE A DEPLACER (ENLEVER)",
       "bt": "000006182",
-      "team": "Bâtiment",
-      "activity": "Autre",
+      "team": "Voirie",
+      "activity": "Signalisation verticale",
       "location": "BOULEVARD DE L'ESPLANADE",
-      "date": "",
+      "date": "2026-10-13",
       "slot": "Personnalisé",
       "startTime": "",
       "duration": 1,
-      "agentCount": 1,
-      "agents": [],
+      "agentCount": 3,
+      "agents": [
+        "a16",
+        "a17",
+        "a18"
+      ],
       "vehicles": [],
       "requester": "ADMINISTRE",
       "description": "UN USAGER EST VENU SE PLAINDRE A CAUSE DES ODEURS DE LA STATION CANINE ET DES POUBELLES QUE LES GENS LAISSENT A COTE DE SON APPARTEMENT SI POSSIBLE LA DEPLACER.\n\nMainti4 000006182\nDélai / urgence : SOUS 7 JOURS\nDemande du : 07/09/2026\nDemandeur : ADMINISTRE\nÉtat Mainti4 : En attente",
@@ -1027,7 +1031,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": ""
+      "updatedAt": "2026-10-08T07:05:14.414Z"
     },
     {
       "id": "mmupa7mawmbd44",

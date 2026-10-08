@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T09:38:08.919Z",
+  "generatedAt": "2026-10-08T09:39:25.991Z",
   "agents": [
     {
       "id": "a0",
@@ -3189,11 +3189,11 @@
       "requester": "",
       "description": "Finir les travaux de peinture de l'entrée de la médiathèque. Journée complète.",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Missions préparées Charli",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -3206,7 +3206,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-02T16:56:42.623Z"
+      "updatedAt": "2026-10-08T09:39:25.974Z"
     },
     {
       "id": "mmur7golbr3nbm",

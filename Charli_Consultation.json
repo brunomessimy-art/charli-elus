@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T06:28:09.767Z",
+  "generatedAt": "2026-10-08T06:30:19.323Z",
   "agents": [
     {
       "id": "a0",
@@ -4472,6 +4472,46 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": ""
+    },
+    {
+      "id": "mmuz5p34s8a3p1",
+      "title": "GIRATOIRE CAMALCE",
+      "bt": "",
+      "team": "Espaces verts",
+      "activity": "Tonte",
+      "location": "",
+      "date": "2026-10-08",
+      "slot": "Personnalisé",
+      "startTime": "06:00",
+      "duration": 2,
+      "agentCount": 3,
+      "agents": [
+        "a7",
+        "a6",
+        "a4"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-08T06:30:19.302Z"
     }
   ],
   "chantiers": [

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T09:19:34.832Z",
+  "generatedAt": "2026-10-08T09:19:53.513Z",
   "agents": [
     {
       "id": "a0",
@@ -4545,7 +4545,7 @@
       "team": "Voirie",
       "activity": "Signalisation verticale",
       "location": "GENDARMERIE",
-      "date": "",
+      "date": "2026-10-08",
       "slot": "Personnalisé",
       "startTime": "",
       "duration": 1,
@@ -4574,7 +4574,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T09:19:34.814Z"
+      "updatedAt": "2026-10-08T09:19:53.497Z"
     },
     {
       "id": "mmuz9wl7dbmbqg",

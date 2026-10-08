@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T13:41:13.374Z",
+  "generatedAt": "2026-10-08T13:41:18.814Z",
   "agents": [
     {
       "id": "a0",
@@ -5981,9 +5981,7 @@
       "startTime": "",
       "duration": 3.5,
       "agentCount": 1,
-      "agents": [
-        "a4"
-      ],
+      "agents": [],
       "vehicles": [],
       "requester": "",
       "description": "",
@@ -6005,7 +6003,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T13:40:51.630Z"
+      "updatedAt": "2026-10-08T13:41:18.781Z"
     }
   ],
   "chantiers": [

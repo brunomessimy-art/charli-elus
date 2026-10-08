@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T08:25:08.012Z",
+  "generatedAt": "2026-10-08T08:25:13.470Z",
   "agents": [
     {
       "id": "a0",
@@ -3636,11 +3636,11 @@
       "requester": "",
       "description": "Vérifier les évacuations des cours intérieures des presbytères.",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Missions préparées Charli",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": true,
@@ -3653,7 +3653,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-05T19:42:10.631Z"
+      "updatedAt": "2026-10-08T08:25:13.439Z"
     },
     {
       "id": "mmuv6e8uecpx85",

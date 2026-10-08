@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T06:25:26.224Z",
+  "generatedAt": "2026-10-08T06:26:18.773Z",
   "agents": [
     {
       "id": "a0",
@@ -845,14 +845,17 @@
       "title": "POT  DE FLEUR QUI GENE MR DELVALLE 8 BD PASTEUR",
       "bt": "000006217",
       "team": "Espaces verts",
-      "activity": "Autre",
+      "activity": "Plantation",
       "location": "RUE DES JARDINS",
-      "date": "",
+      "date": "2026-10-12",
       "slot": "Personnalisé",
       "startTime": "",
       "duration": 1,
-      "agentCount": 1,
-      "agents": [],
+      "agentCount": 2,
+      "agents": [
+        "a4",
+        "a5"
+      ],
       "vehicles": [],
       "requester": "ADMINISTRE",
       "description": "MR DELVALLE EST VENU POUR SIGNALER QUE LE POT DE FLEUR QUI EST RUE DES JARDINS ET RUE DOCTEU FABRE LE GENE DESSOUS SA FENETRE LE DEPLACER SI POSSIBLE LES GENS EN RECULANT L'ONT POUSSE . MR DELVALLE 067907736\n\nMainti4 000006217\nDélai / urgence : SOUS 7 JOURS\nDemande du : 15/09/2026\nDemandeur : ADMINISTRE\nÉtat Mainti4 : En attente",
@@ -874,7 +877,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": ""
+      "updatedAt": "2026-10-08T06:26:18.748Z"
     },
     {
       "id": "mmupa7mawrkdyk",

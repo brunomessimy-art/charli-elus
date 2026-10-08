@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T11:34:49.044Z",
+  "generatedAt": "2026-10-08T12:49:08.295Z",
   "agents": [
     {
       "id": "a0",
@@ -5814,6 +5814,45 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": ""
+    },
+    {
+      "id": "mmuzj8i4n04luz",
+      "title": "transport dechets verts",
+      "bt": "",
+      "team": "Voirie",
+      "activity": "Autre",
+      "location": "",
+      "date": "2026-10-07",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 4,
+      "agentCount": 2,
+      "agents": [
+        "a17",
+        "a18"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-08T12:49:08.260Z"
     }
   ],
   "chantiers": [

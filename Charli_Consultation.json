@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T08:25:13.470Z",
+  "generatedAt": "2026-10-08T08:25:18.583Z",
   "agents": [
     {
       "id": "a0",
@@ -3041,11 +3041,11 @@
       "requester": "",
       "description": "Poursuivre la fabrication de quilles de signalisation destinées à l'équipe Voirie. Journée complète.",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Missions préparées Charli",
-      "progress": 25,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -3058,7 +3058,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-07T09:36:19.157Z"
+      "updatedAt": "2026-10-08T08:25:18.551Z"
     },
     {
       "id": "mmur7golbf0ylr",

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T08:03:50.848Z",
+  "generatedAt": "2026-10-08T08:22:16.770Z",
   "agents": [
     {
       "id": "a0",
@@ -3400,18 +3400,20 @@
       "id": "mmus3sm5j0assk",
       "title": "FUITE",
       "bt": "000006270",
-      "team": "Moyens techniques",
-      "activity": "Autre",
+      "team": "Bâtiment",
+      "activity": "Plomberie",
       "location": "RESTAURANT SCOLAIRE",
-      "date": "",
-      "slot": "Personnalisé",
-      "startTime": "",
-      "duration": 1,
+      "date": "2026-10-06",
+      "slot": "Matin",
+      "startTime": "08:00",
+      "duration": 4,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a3"
+      ],
       "vehicles": [],
       "requester": "Paco SEIGNERT",
-      "description": "Bonjour,\r\nJ'ai une fuite d'eau a légumerie et juste au dessus au niveau de la patateuse\r\n\r\nJe vous remercie\n\nMainti4 000006270\nDélai / urgence : Du 02/10/2026 08:45 au 29/11/2026 09:45\nDemande du : 02/10/2026\nDemandeur : Paco SEIGNERT\nÉtat Mainti4 : En attente",
+      "description": "Bonjour,\nJ'ai une fuite d'eau a légumerie et juste au dessus au niveau de la patateuse\n\nJe vous remercie\n\nMainti4 000006270\nDélai / urgence : Du 02/10/2026 08:45 au 29/11/2026 09:45\nDemande du : 02/10/2026\nDemandeur : Paco SEIGNERT\nÉtat Mainti4 : En attente",
       "report": "",
       "status": "À faire",
       "priority": "Normale",
@@ -3430,7 +3432,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-03T09:07:56.696Z"
+      "updatedAt": "2026-10-08T08:22:16.740Z"
     },
     {
       "id": "mmus3sm5jpqy0w",

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T11:09:08.715Z",
+  "generatedAt": "2026-10-08T11:09:13.818Z",
   "agents": [
     {
       "id": "a0",
@@ -3818,11 +3818,11 @@
       "requester": "",
       "description": "Point avec René pour la mise en place du massif béton de l'avenue Foch.",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Missions préparées Charli",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -3835,7 +3835,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-05T14:15:18.770Z"
+      "updatedAt": "2026-10-08T11:09:11.370Z"
     },
     {
       "id": "mmuvc0ohekv7bi",
@@ -3854,11 +3854,11 @@
       "requester": "",
       "description": "Réunion CODIR de 9h30 à 11h00.",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Missions préparées Charli",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -3871,7 +3871,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-05T14:15:18.770Z"
+      "updatedAt": "2026-10-08T11:09:13.791Z"
     },
     {
       "id": "mmuvc0ohex89os",

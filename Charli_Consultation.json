@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T09:47:47.253Z",
+  "generatedAt": "2026-10-08T09:48:04.675Z",
   "agents": [
     {
       "id": "a0",
@@ -2065,11 +2065,11 @@
       "requester": "",
       "description": "Tournée en binôme Simon / Philippe - AGENT: Simon - DATE: 09/02/2026 - DUREE: 7 h 30",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import PDF",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -2082,7 +2082,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": ""
+      "updatedAt": "2026-10-08T09:47:59.678Z"
     },
     {
       "id": "mmur0l0i0q6hz7",
@@ -2331,11 +2331,11 @@
       "requester": "",
       "description": "Grande balayeuse en binôme Simon / Bruno - AGENT: Simon - DATE: 10/02/2026 - DUREE: 7 h",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import PDF",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -2348,7 +2348,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": ""
+      "updatedAt": "2026-10-08T09:47:54.407Z"
     },
     {
       "id": "mmur0l0i0cb2qc",
@@ -2408,11 +2408,11 @@
       "requester": "",
       "description": "Grande balayeuse en binôme Mickael / Bruno - AGENT: Mickael N. - DATE: 10/02/2026 -",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import PDF",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -2425,7 +2425,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": ""
+      "updatedAt": "2026-10-08T09:47:50.185Z"
     },
     {
       "id": "mmur0l0i0pddio",
@@ -2449,11 +2449,11 @@
       "requester": "",
       "description": "Mairie + cours des écoles - AGENT: Simon - DATE: 11/02/2026 - DUREE: 3 h 00",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import PDF",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -2466,7 +2466,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": ""
+      "updatedAt": "2026-10-08T09:47:51.050Z"
     },
     {
       "id": "mmur0l0i0d0w6w",
@@ -2598,11 +2598,11 @@
       "requester": "",
       "description": "Goupil en binôme Simon / Fabrice - AGENT: Simon - DATE: 12/02/2026 - DUREE: 4 h 00",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import PDF",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -2615,7 +2615,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": ""
+      "updatedAt": "2026-10-08T09:47:55.626Z"
     },
     {
       "id": "mmur0l0i0jus1j",
@@ -2709,11 +2709,11 @@
       "requester": "",
       "description": "Cimetière - AGENT: Fabrice - DATE: 12/02/2026 - DUREE: 3 h 30",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import PDF",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -2726,7 +2726,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": ""
+      "updatedAt": "2026-10-08T09:47:57.324Z"
     },
     {
       "id": "mmur0l0i0gomio",
@@ -2855,11 +2855,11 @@
       "requester": "",
       "description": "WC publics - AGENT: Fabrice - DATE: 13/02/2026 - DUREE: 2 h 30",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import PDF",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -2872,7 +2872,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": ""
+      "updatedAt": "2026-10-08T09:48:01.201Z"
     },
     {
       "id": "mmur0l0i0uz7ox",
@@ -2929,11 +2929,11 @@
       "requester": "",
       "description": "Grande balayeuse - préparation marché - AGENT: Bruno M. - DATE: 13/02/2026 - DUREE: 7 h",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import PDF",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -2946,7 +2946,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": ""
+      "updatedAt": "2026-10-08T09:48:02.738Z"
     },
     {
       "id": "mmur1y5sgrsm5a",
@@ -4597,11 +4597,11 @@
       "requester": "ADMINISTRE",
       "description": "passage balayeuse 5 impasse des courlis 2 ème relance.\nBonjour, madame diaz, c'est madame Matthieu au loutissement adresse, 5 impasse des courlis   ça fait deux relances que je fais pour omvien  passer la balayeuse  devant chez moi dans l'chemin, c'est pourri, c'est vraiment pourri il ua debma boue voyer les\n\nMainti4 000006283\nDélai / urgence : SOUS 7 JOURS\nDemande du : 06/10/2026\nDemandeur : ADMINISTRE\nÉtat Mainti4 : En attente",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Demandes",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -4614,7 +4614,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T09:21:34.835Z"
+      "updatedAt": "2026-10-08T09:48:04.646Z"
     },
     {
       "id": "mmuz9wl7dww7wd",
@@ -4973,11 +4973,11 @@
       "requester": "",
       "description": "équipe propreté nettoyer les délaissés autour de l'école maternelle",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Charli Terrain",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -4990,7 +4990,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": ""
+      "updatedAt": "2026-10-08T09:47:52.783Z"
     },
     {
       "id": "mmuzcmampakft9",

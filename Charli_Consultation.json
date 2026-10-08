@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T07:58:10.162Z",
+  "generatedAt": "2026-10-08T07:59:17.817Z",
   "agents": [
     {
       "id": "a0",
@@ -3511,10 +3511,10 @@
       "id": "mmus3sm5kcflqb",
       "title": "INFILTRATION  CANIVEAU SOUS GOUTTIERE A REBOUCHER",
       "bt": "000006249",
-      "team": "Bâtiment",
+      "team": "DMT",
       "activity": "Autre",
       "location": "RUE SAINT MICHEL",
-      "date": "",
+      "date": "2026-10-12",
       "slot": "Personnalisé",
       "startTime": "",
       "duration": 1,
@@ -3522,7 +3522,7 @@
       "agents": [],
       "vehicles": [],
       "requester": "ADMINISTRE",
-      "description": "Bonjour,\r\nLors des dernières grosses pluies, j'ai eu une infiltration dans ma cave, qui se trouve en dessous du niveau de la rue. Il s'agit d'une impasse rue Saint Michel fermée par un portail (la première à droite en partant de la place de Verdun).\r\nVeuillez trouver ci-joint 1 photo. Le ciment sous la gouttière est bien abîmé ce qui me paraît être à l'origine de l'entrée d'eau.\r\nJe reste disponible pour tout complément d'informations. \r\nCordialement. \r\nFlorence Valour\n\nMainti4 000006249\nDélai / urgence : SOUS 7 JOURS\nDemande du : 30/09/2026\nDemandeur : ADMINISTRE\nÉtat Mainti4 : En attente",
+      "description": "Bonjour,\nLors des dernières grosses pluies, j'ai eu une infiltration dans ma cave, qui se trouve en dessous du niveau de la rue. Il s'agit d'une impasse rue Saint Michel fermée par un portail (la première à droite en partant de la place de Verdun).\nVeuillez trouver ci-joint 1 photo. Le ciment sous la gouttière est bien abîmé ce qui me paraît être à l'origine de l'entrée d'eau.\nJe reste disponible pour tout complément d'informations. \nCordialement. \nFlorence Valour\n\nMainti4 000006249\nDélai / urgence : SOUS 7 JOURS\nDemande du : 30/09/2026\nDemandeur : ADMINISTRE\nÉtat Mainti4 : En attente",
       "report": "",
       "status": "À faire",
       "priority": "Normale",
@@ -3532,7 +3532,7 @@
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
-      "codir": false,
+      "codir": true,
       "project": "",
       "projectStatus": "",
       "nextStep": "",
@@ -3541,7 +3541,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-03T08:01:53.236Z"
+      "updatedAt": "2026-10-08T07:59:17.787Z"
     },
     {
       "id": "mmus3sm5kokrb2",

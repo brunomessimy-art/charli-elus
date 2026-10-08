@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T07:05:14.433Z",
+  "generatedAt": "2026-10-08T07:06:12.652Z",
   "agents": [
     {
       "id": "a0",
@@ -1040,15 +1040,17 @@
       "team": "Bâtiment",
       "activity": "Autre",
       "location": "SCO-MATERNELLE",
-      "date": "",
+      "date": "2026-10-13",
       "slot": "Personnalisé",
       "startTime": "",
       "duration": 1,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a1"
+      ],
       "vehicles": [],
       "requester": "DIRECTION ECOLE MATERNELLE",
-      "description": "Bonjour\r\n\r\nIl faudrait monter les seuils de porte côté intérieur de la porte de la classe 6 et de la porte qui donne à la tisanerie.\r\nC'est pour pouvoir adapter le trajet à un de nos élèves en fauteuil roulant.\r\nJe vous remercie\r\nCordialement\r\nMagali Dolain\n\nMainti4 000006179\nDélai / urgence : Du 04/09/2026 16:53 au 04/09/2026 17:53\nDemande du : 04/09/2026\nDemandeur : DIRECTION ECOLE MATERNELLE\nÉtat Mainti4 : En attente",
+      "description": "Bonjour\n\nIl faudrait monter les seuils de porte côté intérieur de la porte de la classe 6 et de la porte qui donne à la tisanerie.\nC'est pour pouvoir adapter le trajet à un de nos élèves en fauteuil roulant.\nJe vous remercie\nCordialement\nMagali Dolain\n\nMainti4 000006179\nDélai / urgence : Du 04/09/2026 16:53 au 04/09/2026 17:53\nDemande du : 04/09/2026\nDemandeur : DIRECTION ECOLE MATERNELLE\nÉtat Mainti4 : En attente",
       "report": "",
       "status": "À faire",
       "priority": "Normale",
@@ -1067,7 +1069,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-03T09:07:56.696Z"
+      "updatedAt": "2026-10-08T07:06:12.634Z"
     },
     {
       "id": "mmupa7mawu0g5t",

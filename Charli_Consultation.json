@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T06:26:51.207Z",
+  "generatedAt": "2026-10-08T06:27:35.528Z",
   "agents": [
     {
       "id": "a0",
@@ -668,7 +668,7 @@
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Demandes",
-      "progress": null,
+      "progress": 55,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -681,7 +681,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-02T12:28:16.999Z"
+      "updatedAt": "2026-10-08T06:27:35.507Z"
     },
     {
       "id": "mmupa7mawnrhe9",

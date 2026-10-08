@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T07:00:25.389Z",
+  "generatedAt": "2026-10-08T07:02:03.301Z",
   "agents": [
     {
       "id": "a0",
@@ -920,10 +920,10 @@
       "id": "mmupa7mawu4ao0",
       "title": "nouvel arbre du département",
       "bt": "000006204",
-      "team": "Espaces verts",
+      "team": "DMT",
       "activity": "Autre",
       "location": "LE MESCLADIS",
-      "date": "",
+      "date": "2026-10-12",
       "slot": "Personnalisé",
       "startTime": "",
       "duration": 1,
@@ -950,7 +950,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T07:00:25.382Z"
+      "updatedAt": "2026-10-08T07:02:03.275Z"
     },
     {
       "id": "mmupa7mawijqon",

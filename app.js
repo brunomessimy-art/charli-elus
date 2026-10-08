@@ -1,5 +1,5 @@
 
-const fallback = { generatedAt:new Date().toISOString(), missions:[], chantiers:[] };
+const fallback = { generatedAt:null, missions:[], chantiers:[] };
 let data=fallback, current="home";
 
 const esc=s=>String(s??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]));
@@ -8,17 +8,24 @@ const teams=["Bâtiment","Voirie","Espaces verts","Propreté","Festivités","DMT
 const teamIcon=t=>({"Bâtiment":"⌂","Voirie":"▥","Espaces verts":"●","Propreté":"♣","Festivités":"✦"}[t]||"•");
 function normalize(raw){
   return {
-    generatedAt:raw.generatedAt||raw.generated_at||new Date().toISOString(),
+    generatedAt:raw.generatedAt||raw.generated_at||null,
     missions:Array.isArray(raw.missions)?raw.missions:[],
     chantiers:Array.isArray(raw.chantiers)?raw.chantiers:(Array.isArray(raw.worksites)?raw.worksites:[])
   };
 }
+let loadError="";
 async function load(){
-  try{const r=await fetch("Charli_Consultation.json?ts="+Date.now(),{cache:"no-store"});if(r.ok)data=normalize(await r.json())}catch(e){}
-  document.querySelector("#updated").textContent=new Date(data.generatedAt).toLocaleString("fr-FR",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"});
-  render();
+ try{const r=await fetch("Charli_Consultation.json?ts="+Date.now(),{cache:"no-store"});if(!r.ok)throw Error("HTTP "+r.status);data=normalize(await r.json());loadError=""}
+ catch(e){loadError="Données indisponibles : vérifiez la publication STM."}
+ const d=data.generatedAt?new Date(data.generatedAt):null;
+ document.querySelector("#updated").textContent=d&&!isNaN(d)?d.toLocaleString("fr-FR",{day:"2-digit",month:"2-digit",year:"numeric",hour:"2-digit",minute:"2-digit"}):"Non disponible";
+ render();
 }
-function section(title,body,more=""){return `<section class="section"><div class="section-title"><h2>${title}</h2>${more?`<span class="link">${more}</span>`:""}</div>${body}</section>`}
+function section(title,body,more="",target=""){return `<section class="section"><div class="section-title"><h2>${title}</h2>${more?`<a class="link" href="#vue=${encodeURIComponent(target)}">${more}</a>`:""}</div>${body}</section>`}
+const isCodir=m=>m.codir===true||m.codir===1||m.codir==="true";
+const codirMissions=()=>data.missions.filter(isCodir);
+const futureMissions=()=>{const today=new Date().toLocaleDateString("en-CA");return data.missions.filter(m=>m.date&&m.date>=today&&m.status!=="Terminée").sort((a,b)=>a.date.localeCompare(b.date))};
+const empty=msg=>`<div class="empty">${esc(msg)}</div>`;
 function missionRow(m){
  const tag=(m.priority||"").toLowerCase().includes("urgent")?`<span class="pill urgent">Urgent</span>`:m.watchLevel?`<span class="pill watch">${esc(m.watchLevel)}</span>`:`<span class="pill info">${esc(m.status||"Info")}</span>`;
  return `<div class="row">${tag}<div class="grow"><div class="title">${esc(m.title)}</div><div class="sub">${esc(m.location||m.team||"")}</div></div><div class="sub">${fmt(m.date)}</div></div>`;
@@ -34,19 +41,21 @@ function chantierRow(c){
 function home(){
  const urgent=data.missions.filter(m=>(m.priority||"").toLowerCase().includes("urgent")).length;
  const watch=data.missions.filter(m=>m.watchLevel||m.watchNote).length;
- const codir=data.missions.filter(m=>m.codir||m.watchLevel||(m.priority||"").toLowerCase().includes("urgent")).slice(0,5);
+ const codir=codirMissions();
  const counts=Object.fromEntries(teams.map(t=>[t,data.missions.filter(m=>m.team===t).length]));
- return `<div class="kpis">
-  <div class="kpi"><b>${data.missions.length}</b><small>Missions</small></div>
-  <div class="kpi"><b>${data.chantiers.length}</b><small>Chantiers</small></div>
-  <div class="kpi"><b>${urgent}</b><small>Priorités</small></div>
-  <div class="kpi"><b>${watch}</b><small>Vigilances</small></div></div>
-  ${section("À RETENIR (CODIR)",`<div class="card">${(codir.length?codir:data.missions.slice(0,4)).map(missionRow).join("")}</div>`,"Voir tout →")}
-  ${section("CHANTIERS EN COURS",`<div class="card">${data.chantiers.slice(0,4).map(chantierRow).join("")}</div>`,"Voir tout →")}
-  ${section("ACTIVITÉ DES ÉQUIPES",`<div class="teamgrid">${teams.map(t=>`<div class="team"><div class="ico">${teamIcon(t)}</div><small>${t}</small><b>${counts[t]}</b><small>missions</small></div>`).join("")}</div>`)}
-  ${section("PROCHAINEMENT",`<div class="card">${[...data.missions].filter(m=>m.date).sort((a,b)=>a.date.localeCompare(b.date)).slice(0,5).map(missionRow).join("")}</div>`)}
- `;
+ const upcoming=futureMissions();
+ return `${loadError?`<div class="error-banner">${esc(loadError)}</div>`:""}<div class="kpis">
+ <div class="kpi"><b>${data.missions.length}</b><small>Missions</small></div>
+ <div class="kpi"><b>${data.chantiers.length}</b><small>Chantiers</small></div>
+ <div class="kpi"><b>${urgent}</b><small>Priorités</small></div>
+ <div class="kpi"><b>${watch}</b><small>Vigilances</small></div></div>
+ ${section("À RETENIR (CODIR)",`<div class="card">${codir.length?codir.slice(0,5).map(missionRow).join(""):empty("Aucune mission cochée CODIR dans STM.")}</div>`,"Voir tout →","codir")}
+ ${section("CHANTIERS EN COURS",`<div class="card">${data.chantiers.length?data.chantiers.slice(0,4).map(chantierRow).join(""):empty("Aucun chantier publié.")}</div>`,"Voir tout →","chantiers")}
+ ${section("ACTIVITÉ DES ÉQUIPES",`<div class="teamgrid">${teams.map(t=>`<a href="#vue=equipes" class="team"><div class="ico">${teamIcon(t)}</div><small>${t}</small><b>${counts[t]}</b><small>missions</small></a>`).join("")}</div>`,"Voir tout →","equipes")}
+ ${section("PROCHAINEMENT",`<div class="card">${upcoming.length?upcoming.slice(0,5).map(missionRow).join(""):empty("Aucune mission à venir.")}</div>`,"Voir tout →","prochainement")}`;
 }
+function codirPage(){const ms=codirMissions();return `<h2 class="headline">Missions remontées au CODIR</h2><div class="card">${ms.length?ms.map(missionRow).join(""):empty("Aucune mission cochée CODIR dans STM.")}</div>`}
+function prochainement(){const ms=futureMissions();return `<h2 class="headline">Missions à venir</h2><div class="card">${ms.length?ms.map(missionRow).join(""):empty("Aucune mission à venir.")}</div>`}
 function planning(){
  const ms=[...data.missions].filter(m=>m.date).sort((a,b)=>a.date.localeCompare(b.date));
  // Toujours afficher la semaine de travail civile : lundi -> vendredi.
@@ -107,7 +116,7 @@ function alerts(){const a=data.missions.filter(m=>m.watchLevel||m.watchNote||(m.
 function render(){
  const view=document.querySelector("#view");
  if(current.startsWith("chantier:")) view.innerHTML=chantierDetail(current.slice(9));
- else view.innerHTML=({home,planning,chantiers,equipes,alerts}[current])();
+ else view.innerHTML=({home,planning,chantiers,equipes,alerts,codir:codirPage,prochainement}[current]||home)();
  document.querySelectorAll(".bottom button").forEach(b=>b.classList.toggle("active",b.dataset.view===current));
  const back=document.querySelector("#backChantiers"); if(back)back.onclick=()=>{current="chantiers";render();window.scrollTo(0,0)};
 }
@@ -115,15 +124,10 @@ function render(){
 // cela fonctionne même si un navigateur mobile bloque un gestionnaire tactile JavaScript.
 function routeFromHash(){
  const h=location.hash||"";
- if(h.startsWith("#chantier=")){
-   const id=decodeURIComponent(h.slice(10));
-   if(id){ current="chantier:"+id; render(); window.scrollTo(0,0); return; }
- }
+ if(h.startsWith("#chantier=")){const id=decodeURIComponent(h.slice(10));if(id){current="chantier:"+id;render();window.scrollTo(0,0);return}}
+ if(h.startsWith("#vue=")){const v=decodeURIComponent(h.slice(5));if(["home","planning","chantiers","equipes","alerts","codir","prochainement"].includes(v)){current=v;render();window.scrollTo(0,0);return}}
+ current="home";render();
 }
 window.addEventListener("hashchange",routeFromHash);
-document.querySelectorAll(".bottom button").forEach(b=>b.onclick=()=>{
- current=b.dataset.view;
- if(location.hash) history.replaceState(null,"",location.pathname+location.search);
- render();window.scrollTo(0,0);
-});
+document.querySelectorAll(".bottom button").forEach(b=>b.onclick=()=>{location.hash="vue="+b.dataset.view;routeFromHash()});
 load().then(routeFromHash);

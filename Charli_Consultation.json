@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T09:10:43.345Z",
+  "generatedAt": "2026-10-08T09:13:14.098Z",
   "agents": [
     {
       "id": "a0",
@@ -4504,15 +4504,17 @@
       "id": "mmuz9wl7c5qnwh",
       "title": "nettoyage feuille presbytere",
       "bt": "000006286",
-      "team": "Propreté",
+      "team": "Bâtiment",
       "activity": "Autre",
       "location": "PRESBYTERE",
-      "date": "",
+      "date": "2026-10-13",
       "slot": "Personnalisé",
       "startTime": "",
-      "duration": 1,
+      "duration": 2,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a3"
+      ],
       "vehicles": [],
       "requester": "Gilles COUGOUREUX",
       "description": "a la demande de gilles merci de déboucher la grille qui permet à l'eau de s'écouler dans le puits perdu dans la cour du presbytère lors des pluies.\n\nMainti4 000006286\nDélai / urgence : DANS LA JOURNÉE\nDemande du : 06/10/2026\nDemandeur : Gilles COUGOUREUX\nÉtat Mainti4 : En attente",
@@ -4534,7 +4536,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T08:27:18.280Z"
+      "updatedAt": "2026-10-08T09:13:14.081Z"
     },
     {
       "id": "mmuz9wl7dnhzqx",

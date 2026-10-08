@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T11:07:07.793Z",
+  "generatedAt": "2026-10-08T11:08:11.083Z",
   "agents": [
     {
       "id": "a0",
@@ -1168,11 +1168,11 @@
       "requester": "",
       "description": "Clim écoles (Dortoirs et Véranda) - equipe DMT",
       "report": "Clim dortoir réalisée\nClim cantine vacance Toussaint",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import PDF",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -1185,7 +1185,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-04T16:02:38.143Z"
+      "updatedAt": "2026-10-08T11:08:09.501Z"
     },
     {
       "id": "mmuqvgmmrf9dbc",
@@ -1206,11 +1206,11 @@
       "requester": "",
       "description": "Remplacement fenêtre couloir accès sous-sol cantine - equipe DMT",
       "report": "Devis validé transmis à l'entreprise \nVenue mercredi 30/09 pour mesure complémentaires\nEn attente date de livraison",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import PDF",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -1223,7 +1223,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": ""
+      "updatedAt": "2026-10-08T11:08:11.056Z"
     },
     {
       "id": "mmuqvgmmrivt3t",

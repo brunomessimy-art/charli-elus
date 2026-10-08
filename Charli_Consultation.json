@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T08:22:16.770Z",
+  "generatedAt": "2026-10-08T08:24:21.823Z",
   "agents": [
     {
       "id": "a0",
@@ -3415,11 +3415,11 @@
       "requester": "Paco SEIGNERT",
       "description": "Bonjour,\nJ'ai une fuite d'eau a légumerie et juste au dessus au niveau de la patateuse\n\nJe vous remercie\n\nMainti4 000006270\nDélai / urgence : Du 02/10/2026 08:45 au 29/11/2026 09:45\nDemande du : 02/10/2026\nDemandeur : Paco SEIGNERT\nÉtat Mainti4 : En attente",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Demandes",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -3432,7 +3432,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T08:22:16.740Z"
+      "updatedAt": "2026-10-08T08:24:21.792Z"
     },
     {
       "id": "mmus3sm5jpqy0w",

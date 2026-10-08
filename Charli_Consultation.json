@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T06:30:19.323Z",
+  "generatedAt": "2026-10-08T06:32:41.600Z",
   "agents": [
     {
       "id": "a0",
@@ -922,15 +922,17 @@
       "id": "mmupa7mawc5mbm",
       "title": "5 avenue de lodeve demande création avaloir",
       "bt": "000006207",
-      "team": "Voirie",
+      "team": "DMT",
       "activity": "Autre",
       "location": "AVENUE DE LODEVE",
-      "date": "",
+      "date": "2026-10-12",
       "slot": "Personnalisé",
       "startTime": "",
       "duration": 1,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a8"
+      ],
       "vehicles": [],
       "requester": "ADMINISTRE",
       "description": "mr gechter 5 avenue de lodève demande une création d'avaloir car quand  il pleut soucis d'eau voir avec gilles .\nje laisse son numéro merci de le contacter 0620275302\n\nMainti4 000006207\nDélai / urgence : SOUS 7 JOURS\nDemande du : 10/09/2026\nDemandeur : ADMINISTRE\nÉtat Mainti4 : En attente",
@@ -952,7 +954,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-05T06:12:21.202Z"
+      "updatedAt": "2026-10-08T06:32:41.582Z"
     },
     {
       "id": "mmupa7mawu4ao0",

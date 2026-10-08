@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T13:06:46.454Z",
+  "generatedAt": "2026-10-08T13:07:19.679Z",
   "agents": [
     {
       "id": "a0",
@@ -5853,6 +5853,44 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-08T12:49:08.260Z"
+    },
+    {
+      "id": "mmuzjw5gjyyf71",
+      "title": "Remise en place des plaques à l'espace sportif",
+      "bt": "",
+      "team": "Bâtiment",
+      "activity": "Autre",
+      "location": "ESPACE SPORTIF",
+      "date": "2026-10-13",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 3,
+      "agentCount": 1,
+      "agents": [
+        "a3"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "Remise en place des plaques à l'espace sportif",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Dictée IA : Pour l'équipe bâtiment, Wilfried, remise en place des plaques à l'espace sportif.",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-08T13:07:19.644Z"
     }
   ],
   "chantiers": [

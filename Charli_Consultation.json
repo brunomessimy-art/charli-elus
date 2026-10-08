@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T11:08:19.658Z",
+  "generatedAt": "2026-10-08T11:08:23.014Z",
   "agents": [
     {
       "id": "a0",
@@ -1320,7 +1320,7 @@
       "requester": "",
       "description": "Câblage Salle des mariages et salles annexes - equipe DMT",
       "report": "Intervention réalisées en régie :\nAccueil mairie OK\nSalle La Serane OK\nServeur étage Problème de connexion nous n'avons pas la compétence (orange alimente ces box par le rj45)  Orange devait voir avec Sylvie (possibilité de mettre un câble du commerce en régie) \n\nSalle Georges Brassens Problème de connexion nous n'avons pas la compétence (orange alimente ces box par le rj45)  Orange devait voir avec Sylvie (possibilité de brancher les ordi en fillère depuis la prise)",
-      "status": "Terminée",
+      "status": "À faire",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import PDF",
@@ -1337,7 +1337,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T11:08:19.631Z"
+      "updatedAt": "2026-10-08T11:08:22.987Z"
     },
     {
       "id": "mmuqvgmmrimev7",

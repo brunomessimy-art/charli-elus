@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T07:59:17.817Z",
+  "generatedAt": "2026-10-08T07:59:41.786Z",
   "agents": [
     {
       "id": "a0",
@@ -3547,10 +3547,10 @@
       "id": "mmus3sm5kokrb2",
       "title": "relevé index  eau importante halle des sports",
       "bt": "000006114",
-      "team": "Bâtiment",
+      "team": "DMT",
       "activity": "Autre",
       "location": "HALLE DES SPORTS",
-      "date": "",
+      "date": "2026-10-12",
       "slot": "Personnalisé",
       "startTime": "",
       "duration": 1,
@@ -3558,7 +3558,7 @@
       "agents": [],
       "vehicles": [],
       "requester": "ADMINISTRE",
-      "description": "Objet : Forte consommation d’eau potable 18/08/2026\r\nVotre référence contrat : 114341702 \r\nAdresse desservie : \r\nCHEMIN DE L' ECOSITE \r\nHALLE DES SPORTS \r\n34150 GIGNAC\r\nBonjour,\r\nCOMMUNE DE GIGNAC \r\n \r\n,\r\nLe service des eaux a procédé à la relève de votre index compteur, situé CHEMIN DE L' ECOSITE \r\nHALLE DES SPORTS \r\n34150 GIGNAC. \r\nA la lecture de celui-ci, il apparait une forte consommation, soit 308 m³ (index de votre consommation relevé : 315).\r\nL’augmentation du volume d’eau consommé est considérée anormale, si le volume d’eau consommé depuis le dernier relevé, excède le double du volume d’eau moyen consommé pendant une période équivalente au cours des trois années précédentes (loi n°2012-525 du 17/05/2011).\r\nSauf si cette consommation anormale est induite par un usage exceptionnel (arrosage, remplissage de piscine, travaux, modification des rythmes de vie…), dans un premier temps, je vous invite à vérifier le bon fonctionnement de votre installation privée comme suit : \r\n- Relever l’index de votre compteur \r\n- Ne pas faire couler d’eau durant deux heures minimum \r\n- Relever à nouveau l’index du compteur.\r\nSi celui-ci a changé, c’est qu’il y a une fuite, je vous conseille de faire vérifier l’ensemble de votre installation de distribution d’eau privative par un plombier de votre choix.\r\nLe service relation clientèle reste à votre disposition pour tout complément d’information au 04.67.57.36.26. Lors de tout contact, je vous invite à indiquer la référence de votre contrat PDS (Point De Service).\r\nJe vous prie d'agréer, , l'expression de mes salutations distinguées.\r\nLe Service Relation Administratif et Abonnés\n\nMainti4 000006114\nDélai / urgence : DANS LA JOURNÉE\nDemande du : 18/08/2026\nDemandeur : ADMINISTRE\nÉtat Mainti4 : En attente",
+      "description": "Objet : Forte consommation d’eau potable 18/08/2026\nVotre référence contrat : 114341702 \nAdresse desservie : \nCHEMIN DE L' ECOSITE \nHALLE DES SPORTS \n34150 GIGNAC\nBonjour,\nCOMMUNE DE GIGNAC \n \n,\nLe service des eaux a procédé à la relève de votre index compteur, situé CHEMIN DE L' ECOSITE \nHALLE DES SPORTS \n34150 GIGNAC. \nA la lecture de celui-ci, il apparait une forte consommation, soit 308 m³ (index de votre consommation relevé : 315).\nL’augmentation du volume d’eau consommé est considérée anormale, si le volume d’eau consommé depuis le dernier relevé, excède le double du volume d’eau moyen consommé pendant une période équivalente au cours des trois années précédentes (loi n°2012-525 du 17/05/2011).\nSauf si cette consommation anormale est induite par un usage exceptionnel (arrosage, remplissage de piscine, travaux, modification des rythmes de vie…), dans un premier temps, je vous invite à vérifier le bon fonctionnement de votre installation privée comme suit : \n- Relever l’index de votre compteur \n- Ne pas faire couler d’eau durant deux heures minimum \n- Relever à nouveau l’index du compteur.\nSi celui-ci a changé, c’est qu’il y a une fuite, je vous conseille de faire vérifier l’ensemble de votre installation de distribution d’eau privative par un plombier de votre choix.\nLe service relation clientèle reste à votre disposition pour tout complément d’information au 04.67.57.36.26. Lors de tout contact, je vous invite à indiquer la référence de votre contrat PDS (Point De Service).\nJe vous prie d'agréer, , l'expression de mes salutations distinguées.\nLe Service Relation Administratif et Abonnés\n\nMainti4 000006114\nDélai / urgence : DANS LA JOURNÉE\nDemande du : 18/08/2026\nDemandeur : ADMINISTRE\nÉtat Mainti4 : En attente",
       "report": "",
       "status": "À faire",
       "priority": "Urgente",
@@ -3577,7 +3577,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-03T08:01:53.236Z"
+      "updatedAt": "2026-10-08T07:59:41.757Z"
     },
     {
       "id": "mmuux986eiq7n9",

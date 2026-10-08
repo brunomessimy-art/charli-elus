@@ -32,3 +32,5 @@ main{padding:14px}.kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:8px
 .chantier-link{color:inherit;text-decoration:none}
 
 .section-title .link{font-weight:750;text-decoration:none;padding:8px;display:inline-block}.team{text-decoration:none;color:inherit}.error-banner{background:#fff1e8;color:#a33b10;border-radius:12px;padding:12px;margin-bottom:12px;font-size:13px}
+
+.week-navigation{background:#fff;border-radius:15px;padding:12px;margin:0 0 14px;box-shadow:0 3px 14px #16324b12}.week-period{text-align:center;font-size:13px;font-weight:800;margin-bottom:10px}.week-actions{display:grid;grid-template-columns:1fr 1fr 1fr;gap:6px}.week-actions button{border:1px solid #c8dcee;background:#edf6ff;color:#0865ac;border-radius:10px;padding:11px 4px;font-size:12px;font-weight:750;cursor:pointer;min-height:42px}.week-actions .week-today{background:#0878cf;color:white;border-color:#0878cf}

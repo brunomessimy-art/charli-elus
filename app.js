@@ -1,6 +1,6 @@
 
 const fallback = { generatedAt:null, missions:[], chantiers:[] };
-let data=fallback, current="home";
+let data=fallback, current="home", weekOffset=0;
 
 const esc=s=>String(s??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]));
 const fmt=d=>{try{return new Intl.DateTimeFormat("fr-FR",{day:"numeric",month:"short"}).format(new Date(d+"T12:00:00"))}catch{return d}};
@@ -58,18 +58,19 @@ function codirPage(){const ms=codirMissions();return `<h2 class="headline">Missi
 function prochainement(){const ms=futureMissions();return `<h2 class="headline">Missions à venir</h2><div class="card">${ms.length?ms.map(missionRow).join(""):empty("Aucune mission à venir.")}</div>`}
 function planning(){
  const ms=[...data.missions].filter(m=>m.date).sort((a,b)=>a.date.localeCompare(b.date));
- // Toujours afficher la semaine de travail civile : lundi -> vendredi.
- // La semaine est déterminée à partir de la date de génération des données STM.
- const ref=new Date(data.generatedAt||new Date());
- const localRef=new Date(ref.getFullYear(),ref.getMonth(),ref.getDate(),12);
- const day=localRef.getDay(); // 0=dimanche, 1=lundi...
- const deltaToMonday=day===0?-6:1-day;
- const monday=new Date(localRef); monday.setDate(localRef.getDate()+deltaToMonday);
+ // Semaine civile locale, calculée à partir de la date réelle de consultation.
+ const now=new Date();
+ const localRef=new Date(now.getFullYear(),now.getMonth(),now.getDate(),12);
+ const day=localRef.getDay();
+ const monday=new Date(localRef); monday.setDate(localRef.getDate()+(day===0?-6:1-day)+7*weekOffset);
+ const friday=new Date(monday);friday.setDate(monday.getDate()+4);
+ const weekLabel=`Du ${new Intl.DateTimeFormat("fr-FR",{day:"numeric",month:"long"}).format(monday)} au ${new Intl.DateTimeFormat("fr-FR",{day:"numeric",month:"long",year:"numeric"}).format(friday)}`;
  const isoLocal=d=>`${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,"0")}-${String(d.getDate()).padStart(2,"0")}`;
  const days=Array.from({length:5},(_,i)=>{const d=new Date(monday);d.setDate(monday.getDate()+i);return isoLocal(d)});
- return `<h2 class="headline">Planning des équipes — semaine en cours</h2>
+ return `<h2 class="headline">Planning des équipes</h2>
+ <div class="week-navigation"><div class="week-period">${weekLabel}</div><div class="week-actions"><button type="button" data-week="prev">← Précédente</button><button type="button" data-week="today" class="week-today">Aujourd’hui</button><button type="button" data-week="next">Suivante →</button></div></div>
  ${teams.map(t=>{
-   const tm=ms.filter(m=>m.team===t);
+   const tm=ms.filter(m=>m.team===t&&days.includes(m.date));
    return `<section class="team-plan">
      <div class="team-plan-head"><div><span class="team-big-icon">${teamIcon(t)}</span><b>${esc(t)}</b></div><span>${tm.length} mission${tm.length>1?"s":""}</span></div>
      <div class="week-grid">${days.map(d=>{
@@ -118,6 +119,7 @@ function render(){
  if(current.startsWith("chantier:")) view.innerHTML=chantierDetail(current.slice(9));
  else view.innerHTML=({home,planning,chantiers,equipes,alerts,codir:codirPage,prochainement}[current]||home)();
  document.querySelectorAll(".bottom button").forEach(b=>b.classList.toggle("active",b.dataset.view===current));
+ document.querySelectorAll("[data-week]").forEach(b=>b.onclick=()=>{weekOffset=b.dataset.week==="today"?0:weekOffset+(b.dataset.week==="next"?1:-1);render()});
  const back=document.querySelector("#backChantiers"); if(back)back.onclick=()=>{current="chantiers";render();window.scrollTo(0,0)};
 }
 // Navigation chantier par URL (#chantier=ID). Les cartes sont de vrais liens HTML :

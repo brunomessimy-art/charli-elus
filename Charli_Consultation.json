@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T13:10:09.043Z",
+  "generatedAt": "2026-10-08T13:11:55.254Z",
   "agents": [
     {
       "id": "a0",
@@ -5931,6 +5931,44 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-08T13:08:48.912Z"
+    },
+    {
+      "id": "mmuzk0h1toeyc8",
+      "title": "Réparation des toilettes cassées à l'école primaire",
+      "bt": "",
+      "team": "Bâtiment",
+      "activity": "Plomberie",
+      "location": "RUE DES ECOLES",
+      "date": "2026-10-14",
+      "slot": "Matin",
+      "startTime": "",
+      "duration": 4,
+      "agentCount": 1,
+      "agents": [
+        "a3"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "Réparer les toilettes cassées à l'école primaire.",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Dictée IA : Équipe bâtiment Wilfried réparer les toilettes cassées à l'école primaire.",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-08T13:11:55.219Z"
     }
   ],
   "chantiers": [

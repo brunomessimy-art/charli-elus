@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T06:38:53.298Z",
+  "generatedAt": "2026-10-08T06:39:38.476Z",
   "agents": [
     {
       "id": "a0",
@@ -259,46 +259,6 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": ""
-    },
-    {
-      "id": "mmupa7mawt63kr",
-      "title": "reseau pluvial bouche",
-      "bt": "000006260",
-      "team": "Voirie",
-      "activity": "Réseaux",
-      "location": "BOULEVARD DU MOULIN",
-      "date": "2026-10-01",
-      "slot": "Après-midi",
-      "startTime": "13:30",
-      "duration": 3,
-      "agentCount": 3,
-      "agents": [
-        "a17",
-        "a16",
-        "a18"
-      ],
-      "vehicles": [],
-      "requester": "ADMINISTRE",
-      "description": "857 bd du moulin réseau pluvial bouché a voir si c'est nous ou ccvh\n\nMainti4 000006260\nDélai / urgence : DANS LA JOURNÉE\nDemande du : 30/09/2026\nDemandeur : ADMINISTRE\nÉtat Mainti4 : En attente",
-      "report": "S O",
-      "status": "Terminée",
-      "priority": "Urgente",
-      "kind": "Ponctuelle",
-      "source": "Import Mainti4 Demandes",
-      "progress": null,
-      "watchLevel": "",
-      "watchNote": "",
-      "pinned": false,
-      "codir": false,
-      "project": "",
-      "projectStatus": "",
-      "nextStep": "",
-      "decision": "",
-      "deadline": "",
-      "terrainProblem": false,
-      "terrainComment": "S O",
-      "terrainProblemReport": "",
-      "updatedAt": "2026-10-01T14:42:12.926Z"
     },
     {
       "id": "mmupa7mawy58bp",

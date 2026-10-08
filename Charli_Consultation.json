@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T09:19:53.513Z",
+  "generatedAt": "2026-10-08T09:20:47.730Z",
   "agents": [
     {
       "id": "a0",
@@ -4580,18 +4580,20 @@
       "id": "mmuz9wl7dbmbqg",
       "title": "infiltration eau sous la toiture bureaux",
       "bt": "000006284",
-      "team": "Moyens techniques",
+      "team": "Bâtiment",
       "activity": "Autre",
       "location": "GENDARMERIE",
-      "date": "",
+      "date": "2026-10-12",
       "slot": "Personnalisé",
       "startTime": "",
-      "duration": 1,
+      "duration": 2,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a3"
+      ],
       "vehicles": [],
       "requester": "ADJUDANT-CHEF SOUCHON Thierry",
-      "description": "Bonjour,\r\nMerci de prendre en compte la demande d'intervention ci-après :\r\nAdresse : Gendarmerie - 576 chemin Ste Claire Roqueyrol 34150 GIGNAC\r\nLocal concerné : Bureaux\r\nOccupant : Major Thierry SOUCHON - tél : 0626107488\r\nDescriptif : Gouttière : infiltrations d'eau sous la toiture - une dalle de plafond dégradée\r\nObservations : néant\n\nMainti4 000006284\nDélai / urgence : DANS LA JOURNÉE\nDemande du : 06/10/2026\nDemandeur : ADJUDANT-CHEF SOUCHON Thierry\nÉtat Mainti4 : En attente",
+      "description": "Bonjour,\nMerci de prendre en compte la demande d'intervention ci-après :\nAdresse : Gendarmerie - 576 chemin Ste Claire Roqueyrol 34150 GIGNAC\nLocal concerné : Bureaux\nOccupant : Major Thierry SOUCHON - tél : 0626107488\nDescriptif : Gouttière : infiltrations d'eau sous la toiture - une dalle de plafond dégradée\nObservations : néant\n\nMainti4 000006284\nDélai / urgence : DANS LA JOURNÉE\nDemande du : 06/10/2026\nDemandeur : ADJUDANT-CHEF SOUCHON Thierry\nÉtat Mainti4 : En attente",
       "report": "",
       "status": "À faire",
       "priority": "Urgente",
@@ -4610,7 +4612,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T08:27:18.280Z"
+      "updatedAt": "2026-10-08T09:20:47.715Z"
     },
     {
       "id": "mmuz9wl7dd77vr",

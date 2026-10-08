@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T09:46:42.006Z",
+  "generatedAt": "2026-10-08T09:47:02.014Z",
   "agents": [
     {
       "id": "a0",
@@ -2026,11 +2026,11 @@
       "requester": "",
       "description": "Tournée en binôme Simon / Philippe - AGENT: Philippe - DATE: 09/02/2026 - DUREE: 7 h 30",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import PDF",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -2043,7 +2043,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": ""
+      "updatedAt": "2026-10-08T09:47:00.910Z"
     },
     {
       "id": "mmur0l0i0vdqbp",
@@ -2103,11 +2103,11 @@
       "requester": "",
       "description": "Tournée Goupil seul - AGENT: Fabrice - DATE: 09/02/2026 - DUREE: 5 h 00",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import PDF",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -2120,7 +2120,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": ""
+      "updatedAt": "2026-10-08T09:47:01.983Z"
     },
     {
       "id": "mmur0l0i0toxt8",

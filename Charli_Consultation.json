@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T06:59:31.592Z",
+  "generatedAt": "2026-10-08T07:00:25.389Z",
   "agents": [
     {
       "id": "a0",
@@ -931,7 +931,7 @@
       "agents": [],
       "vehicles": [],
       "requester": "Charlène GAURICHON",
-      "description": "Bonjour,\r\n\r\nsi lorsque vous obtenez des arbres du département, il est possible d'en mettre un dans le jardin des familles, et qui à terme fasse de l'ombre, ce serait chouette!\r\n\r\nMerci\r\nCordialement\r\nCharlène GAURICHON\r\n06 76 32 85 59\n\nMainti4 000006204\nDélai / urgence : Du 09/09/2026 13:42 au 09/09/2026 14:42\nDemande du : 09/09/2026\nDemandeur : Charlène GAURICHON\nÉtat Mainti4 : En attente",
+      "description": "Bonjour,\n\nsi lorsque vous obtenez des arbres du département, il est possible d'en mettre un dans le jardin des familles, et qui à terme fasse de l'ombre, ce serait chouette!\n\nMerci\nCordialement\nCharlène GAURICHON\n06 76 32 85 59\n\nMainti4 000006204\nDélai / urgence : Du 09/09/2026 13:42 au 09/09/2026 14:42\nDemande du : 09/09/2026\nDemandeur : Charlène GAURICHON\nÉtat Mainti4 : En attente",
       "report": "",
       "status": "À faire",
       "priority": "Normale",
@@ -941,7 +941,7 @@
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
-      "codir": false,
+      "codir": true,
       "project": "",
       "projectStatus": "",
       "nextStep": "",
@@ -950,7 +950,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-03T09:07:56.696Z"
+      "updatedAt": "2026-10-08T07:00:25.382Z"
     },
     {
       "id": "mmupa7mawijqon",

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T09:09:56.864Z",
+  "generatedAt": "2026-10-08T09:10:43.345Z",
   "agents": [
     {
       "id": "a0",
@@ -4466,18 +4466,20 @@
       "id": "mmuz9wl7c12hf6",
       "title": "friperie étagère décrochée du mur",
       "bt": "000006287",
-      "team": "Moyens techniques",
-      "activity": "Autre",
+      "team": "Bâtiment",
+      "activity": "Menuiserie",
       "location": "BATIMENTS ASSOCIATIONS",
-      "date": "",
+      "date": "2026-10-12",
       "slot": "Personnalisé",
       "startTime": "",
       "duration": 1,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a3"
+      ],
       "vehicles": [],
       "requester": "Amandine GOBERT",
-      "description": "Bonjour,\r\n\r\nEst-ce qu’il serait possible de prévoir une intervention à la Friperie car 1 étagère s’est décrochée du mur ?\r\nMerci\n\nMainti4 000006287\nDélai / urgence : SOUS 7 JOURS\nDemande du : 07/10/2026\nDemandeur : Amandine GOBERT\nÉtat Mainti4 : En attente",
+      "description": "Bonjour,\n\nEst-ce qu’il serait possible de prévoir une intervention à la Friperie car 1 étagère s’est décrochée du mur ?\nMerci\n\nMainti4 000006287\nDélai / urgence : SOUS 7 JOURS\nDemande du : 07/10/2026\nDemandeur : Amandine GOBERT\nÉtat Mainti4 : En attente",
       "report": "",
       "status": "À faire",
       "priority": "Normale",
@@ -4496,7 +4498,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T08:27:18.280Z"
+      "updatedAt": "2026-10-08T09:10:43.328Z"
     },
     {
       "id": "mmuz9wl7c5qnwh",

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T11:09:25.971Z",
+  "generatedAt": "2026-10-08T11:09:31.044Z",
   "agents": [
     {
       "id": "a0",
@@ -4070,11 +4070,11 @@
       "requester": "",
       "description": "Contact avec l'entreprise Aqua Solutions. Message laissé.",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Missions préparées Charli",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -4087,7 +4087,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-05T14:15:18.770Z"
+      "updatedAt": "2026-10-08T11:09:28.595Z"
     },
     {
       "id": "mmuvc0oheshcy1",
@@ -4106,11 +4106,11 @@
       "requester": "",
       "description": "Préparation des évaluations des agents de 15h00 à 16h30.",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Missions préparées Charli",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -4123,7 +4123,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-05T14:15:18.770Z"
+      "updatedAt": "2026-10-08T11:09:31.016Z"
     },
     {
       "id": "mmuvc0oheto3sb",

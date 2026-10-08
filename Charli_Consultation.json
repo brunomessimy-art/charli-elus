@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T07:06:12.652Z",
+  "generatedAt": "2026-10-08T07:07:04.310Z",
   "agents": [
     {
       "id": "a0",
@@ -1075,18 +1075,20 @@
       "id": "mmupa7mawu0g5t",
       "title": "CIMETIERE",
       "bt": "000006159",
-      "team": "Moyens techniques",
+      "team": "DMT",
       "activity": "Autre",
       "location": "GIGNAC",
-      "date": "",
+      "date": "2026-10-14",
       "slot": "Personnalisé",
       "startTime": "",
       "duration": 1,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a8"
+      ],
       "vehicles": [],
       "requester": "Sylvie BONNIER",
-      "description": "Bonjour,\r\n\r\nci-dessous les heures d'ouverture indiqués dans le réglement du cimetière. Merci de faire de beaux panneaux d'informations avec ces horaires :\r\n- de 8 heures à 18 heures du 1er septembre au 31 mars\r\n- de 7 heures à 20 heures du 1er avril au 31 août \r\net, ensuite, enlever tout ce qui est \"moche\".\r\nMerci d'avance.\r\nSylvie BONNIER\n\nMainti4 000006159\nDélai / urgence : Du 31/08/2026 08:50 au 31/08/2026 09:50\nDemande du : 31/08/2026\nDemandeur : Sylvie BONNIER\nÉtat Mainti4 : En attente",
+      "description": "Bonjour,\n\nci-dessous les heures d'ouverture indiqués dans le réglement du cimetière. Merci de faire de beaux panneaux d'informations avec ces horaires :\n- de 8 heures à 18 heures du 1er septembre au 31 mars\n- de 7 heures à 20 heures du 1er avril au 31 août \net, ensuite, enlever tout ce qui est \"moche\".\nMerci d'avance.\nSylvie BONNIER\n\nMainti4 000006159\nDélai / urgence : Du 31/08/2026 08:50 au 31/08/2026 09:50\nDemande du : 31/08/2026\nDemandeur : Sylvie BONNIER\nÉtat Mainti4 : En attente",
       "report": "",
       "status": "À faire",
       "priority": "Normale",
@@ -1105,7 +1107,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-03T09:07:56.696Z"
+      "updatedAt": "2026-10-08T07:07:04.286Z"
     },
     {
       "id": "mmupa7mawjk42d",

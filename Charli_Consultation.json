@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T09:21:34.852Z",
+  "generatedAt": "2026-10-08T09:22:18.275Z",
   "agents": [
     {
       "id": "a0",
@@ -4656,15 +4656,17 @@
       "id": "mmuz9wl7dww7wd",
       "title": "PROBLEME D'OUVERTURE D'UN COFFRET",
       "bt": "000006282",
-      "team": "Moyens techniques",
-      "activity": "Autre",
+      "team": "Bâtiment",
+      "activity": "Serrurerie",
       "location": "PARC LA MEUSE",
-      "date": "",
+      "date": "2026-10-08",
       "slot": "Personnalisé",
       "startTime": "",
-      "duration": 1,
+      "duration": 0.5,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a3"
+      ],
       "vehicles": [],
       "requester": "ROISNET",
       "description": "Le coffret ne s'ouvre plus. Même en insérant la clé, il n'est pas possible d'ouvrir.\n\nMainti4 000006282\nDélai / urgence : DANS LA JOURNÉE\nDemande du : 06/10/2026\nDemandeur : ROISNET\nÉtat Mainti4 : En attente",
@@ -4686,7 +4688,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T08:27:18.280Z"
+      "updatedAt": "2026-10-08T09:22:18.258Z"
     },
     {
       "id": "mmuz9wl7d9kcax",

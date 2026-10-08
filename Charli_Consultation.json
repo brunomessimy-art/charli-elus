@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T09:47:26.648Z",
+  "generatedAt": "2026-10-08T09:47:47.253Z",
   "agents": [
     {
       "id": "a0",
@@ -2217,11 +2217,11 @@
       "requester": "",
       "description": "Grande balayeuse - axes + lycée - AGENT: Bruno M. - DATE: 09/02/2026 - DUREE: 4 h 30",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import PDF",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -2234,7 +2234,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": ""
+      "updatedAt": "2026-10-08T09:47:41.014Z"
     },
     {
       "id": "mmur0l0i0l6055",
@@ -2255,11 +2255,11 @@
       "requester": "",
       "description": "Nettoyage parking mairie + Karcher parvis - AGENT: Bruno M. - DATE: 09/02/2026 - DUREE: 3",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import PDF",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -2272,7 +2272,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": ""
+      "updatedAt": "2026-10-08T09:47:42.376Z"
     },
     {
       "id": "mmur0l0i06wg7d",
@@ -2293,11 +2293,11 @@
       "requester": "",
       "description": "Tournée 2 - AGENT: Philippe - DATE: 10/02/2026 - DUREE: 7 h 30",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import PDF",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -2310,7 +2310,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": ""
+      "updatedAt": "2026-10-08T09:47:43.865Z"
     },
     {
       "id": "mmur0l0i01gr3u",
@@ -2370,11 +2370,11 @@
       "requester": "",
       "description": "Goupil en binôme Simon / Fabrice - AGENT: Fabrice - DATE: 10/02/2026 - DUREE: 4 h 00",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import PDF",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -2387,7 +2387,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": ""
+      "updatedAt": "2026-10-08T09:47:45.147Z"
     },
     {
       "id": "mmur0l0i0i8t4c",
@@ -2559,11 +2559,11 @@
       "requester": "",
       "description": "Grande balayeuse - lotissements - AGENT: Bruno M. - DATE: 11/02/2026 - DUREE: 7 h 30",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import PDF",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -2576,7 +2576,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-02T14:26:45.562Z"
+      "updatedAt": "2026-10-08T09:47:47.221Z"
     },
     {
       "id": "mmur0l0i07c7qp",

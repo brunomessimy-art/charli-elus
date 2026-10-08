@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T09:45:32.490Z",
+  "generatedAt": "2026-10-08T09:46:05.950Z",
   "agents": [
     {
       "id": "a0",
@@ -1936,7 +1936,7 @@
       "team": "Espaces verts",
       "activity": "Abattage",
       "location": "BOULEVARD DU MOULIN",
-      "date": "2026-10-09",
+      "date": "2026-11-02",
       "slot": "Personnalisé",
       "startTime": "13:30",
       "duration": 3.5,
@@ -1968,7 +1968,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": ""
+      "updatedAt": "2026-10-08T09:46:05.924Z"
     },
     {
       "id": "mmuqzpe71fp9j7",

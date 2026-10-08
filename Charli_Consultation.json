@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T08:49:34.228Z",
+  "generatedAt": "2026-10-08T08:50:42.837Z",
   "agents": [
     {
       "id": "a0",
@@ -4393,9 +4393,9 @@
       "title": "Service Espaces verts",
       "bt": "000006290",
       "team": "Espaces verts",
-      "activity": "Tonte",
+      "activity": "Plantation",
       "location": "MEDIATHEQUE",
-      "date": "2026-10-08",
+      "date": "2026-10-15",
       "slot": "Personnalisé",
       "startTime": "",
       "duration": 1,
@@ -4424,7 +4424,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T08:49:34.209Z"
+      "updatedAt": "2026-10-08T08:50:42.818Z"
     },
     {
       "id": "mmuz9wl7bihb7a",

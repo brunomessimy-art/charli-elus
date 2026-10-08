@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T11:03:53.272Z",
+  "generatedAt": "2026-10-08T11:07:07.793Z",
   "agents": [
     {
       "id": "a0",
@@ -1974,15 +1974,17 @@
       "id": "mmuqzpe71fp9j7",
       "title": "enlever la boue du barrage",
       "bt": "",
-      "team": "Moyens techniques",
-      "activity": "Autre",
+      "team": "Voirie",
+      "activity": "Réseaux",
       "location": "barrage",
-      "date": "2026-10-06",
+      "date": "2026-10-15",
       "slot": "Personnalisé",
       "startTime": "08:00",
-      "duration": 7.5,
+      "duration": 4,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a18"
+      ],
       "vehicles": [],
       "requester": "",
       "description": "",
@@ -2004,7 +2006,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": ""
+      "updatedAt": "2026-10-08T11:07:07.768Z"
     },
     {
       "id": "mmur0l0i0zqiz4",

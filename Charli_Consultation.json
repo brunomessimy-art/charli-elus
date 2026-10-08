@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T08:50:42.837Z",
+  "generatedAt": "2026-10-08T08:51:33.534Z",
   "agents": [
     {
       "id": "a0",
@@ -4390,7 +4390,7 @@
     },
     {
       "id": "mmuz9wl7brst3c",
-      "title": "Service Espaces verts",
+      "title": "Service Espaces verts remplacer la glycine",
       "bt": "000006290",
       "team": "Espaces verts",
       "activity": "Plantation",
@@ -4424,7 +4424,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T08:50:42.818Z"
+      "updatedAt": "2026-10-08T08:51:33.518Z"
     },
     {
       "id": "mmuz9wl7bihb7a",

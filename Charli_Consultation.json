@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T09:40:20.556Z",
+  "generatedAt": "2026-10-08T09:40:34.986Z",
   "agents": [
     {
       "id": "a0",
@@ -4521,11 +4521,11 @@
       "requester": "ADMINISTRE",
       "description": "merci d'enlever la benne mise à disposition à la gendarmerie pour les végétaux et la remettre pour la suite ...\n\nMainti4 000006285\nDélai / urgence : SOUS 7 JOURS\nDemande du : 06/10/2026\nDemandeur : ADMINISTRE\nÉtat Mainti4 : En attente",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Demandes",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -4538,7 +4538,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T09:19:53.497Z"
+      "updatedAt": "2026-10-08T09:40:34.970Z"
     },
     {
       "id": "mmuz9wl7dbmbqg",

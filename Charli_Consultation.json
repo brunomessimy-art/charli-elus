@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T11:08:42.917Z",
+  "generatedAt": "2026-10-08T11:08:46.770Z",
   "agents": [
     {
       "id": "a0",
@@ -3746,11 +3746,11 @@
       "requester": "",
       "description": "Point avec les chefs d'équipe de 8h00 à 8h30.",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Missions préparées Charli",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -3763,7 +3763,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-05T14:15:18.769Z"
+      "updatedAt": "2026-10-08T11:08:46.740Z"
     },
     {
       "id": "mmuvc0ohe6twp7",

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T09:44:14.484Z",
+  "generatedAt": "2026-10-08T09:45:32.490Z",
   "agents": [
     {
       "id": "a0",
@@ -5119,14 +5119,14 @@
       "team": "Espaces verts",
       "activity": "Désherbage",
       "location": "parc par les espaces verts",
-      "date": "2026-10-08",
+      "date": "2026-10-14",
       "slot": "Matin",
       "startTime": "08:00",
-      "duration": 4,
+      "duration": 7.5,
       "agentCount": 4,
       "agents": [
-        "a4",
         "a5",
+        "a4",
         "a6",
         "a7"
       ],
@@ -5151,7 +5151,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": ""
+      "updatedAt": "2026-10-08T09:45:32.463Z"
     }
   ],
   "chantiers": [

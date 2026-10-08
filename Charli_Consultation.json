@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T11:09:17.676Z",
+  "generatedAt": "2026-10-08T11:09:25.971Z",
   "agents": [
     {
       "id": "a0",
@@ -3962,11 +3962,11 @@
       "requester": "",
       "description": "Point avec les équipes de propreté.",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Missions préparées Charli",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -3979,7 +3979,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-05T14:15:18.770Z"
+      "updatedAt": "2026-10-08T11:09:21.716Z"
     },
     {
       "id": "mmuvc0ohexdc54",
@@ -3998,11 +3998,11 @@
       "requester": "",
       "description": "Point de suivi sur les chantiers en cours.",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Missions préparées Charli",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -4015,7 +4015,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-05T14:15:18.770Z"
+      "updatedAt": "2026-10-08T11:09:23.565Z"
     },
     {
       "id": "mmuvc0oheuuleq",
@@ -4034,11 +4034,11 @@
       "requester": "",
       "description": "Reprise des points de la réunion CODIR afin d'établir les bons de travaux.",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Missions préparées Charli",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -4051,7 +4051,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-05T14:15:18.770Z"
+      "updatedAt": "2026-10-08T11:09:25.944Z"
     },
     {
       "id": "mmuvc0ohe6h8x5",

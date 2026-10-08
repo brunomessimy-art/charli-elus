@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T09:13:14.098Z",
+  "generatedAt": "2026-10-08T09:19:34.832Z",
   "agents": [
     {
       "id": "a0",
@@ -4542,15 +4542,17 @@
       "id": "mmuz9wl7dnhzqx",
       "title": "bennes à enlever végétaux",
       "bt": "000006285",
-      "team": "Festivités",
-      "activity": "Autre",
+      "team": "Voirie",
+      "activity": "Signalisation verticale",
       "location": "GENDARMERIE",
       "date": "",
       "slot": "Personnalisé",
       "startTime": "",
       "duration": 1,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a18"
+      ],
       "vehicles": [],
       "requester": "ADMINISTRE",
       "description": "merci d'enlever la benne mise à disposition à la gendarmerie pour les végétaux et la remettre pour la suite ...\n\nMainti4 000006285\nDélai / urgence : SOUS 7 JOURS\nDemande du : 06/10/2026\nDemandeur : ADMINISTRE\nÉtat Mainti4 : En attente",
@@ -4572,7 +4574,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T08:27:18.280Z"
+      "updatedAt": "2026-10-08T09:19:34.814Z"
     },
     {
       "id": "mmuz9wl7dbmbqg",

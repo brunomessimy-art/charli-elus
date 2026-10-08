@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-08T08:25:18.583Z",
+  "generatedAt": "2026-10-08T08:25:38.304Z",
   "agents": [
     {
       "id": "a0",
@@ -4212,11 +4212,11 @@
       "requester": "",
       "description": "Intervention à partir de 8h00 sur le circuit de chauffage du sportif.",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Missions préparées Charli",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -4229,7 +4229,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-05T14:15:18.770Z"
+      "updatedAt": "2026-10-08T08:25:38.272Z"
     },
     {
       "id": "mmuvc0ohegq0xd",

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-09T09:24:06.677Z",
+  "generatedAt": "2026-10-09T09:24:56.864Z",
   "agents": [
     {
       "id": "a0",
@@ -7899,44 +7899,6 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-08T08:25:45.900Z"
-    },
-    {
-      "id": "mmv0qi72p8l5c5",
-      "title": "FUITE",
-      "bt": "",
-      "team": "Bâtiment",
-      "activity": "Plomberie",
-      "location": "RESTAURANT SCOLAIRE",
-      "date": "2026-10-13",
-      "slot": "Matin",
-      "startTime": "08:00",
-      "duration": 4,
-      "agentCount": 1,
-      "agents": [
-        "a3"
-      ],
-      "vehicles": [],
-      "requester": "Paco SEIGNERT",
-      "description": "Bonjour,\nJ'ai une fuite d'eau a légumerie et juste au dessus au niveau de la patateuse\n\nJe vous remercie\n\nMainti4 000006270\nDélai / urgence : Du 02/10/2026 08:45 au 29/11/2026 09:45\nDemande du : 02/10/2026\nDemandeur : Paco SEIGNERT\nÉtat Mainti4 : En attente",
-      "report": "",
-      "status": "À faire",
-      "priority": "Normale",
-      "kind": "Ponctuelle",
-      "source": "Copie S41 → S42",
-      "progress": 100,
-      "watchLevel": "",
-      "watchNote": "",
-      "pinned": false,
-      "codir": false,
-      "project": "",
-      "projectStatus": "",
-      "nextStep": "",
-      "decision": "",
-      "deadline": "",
-      "terrainProblem": false,
-      "terrainComment": "",
-      "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T08:24:21.792Z"
     },
     {
       "id": "mmv0qi72paoj10",

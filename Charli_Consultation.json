@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-09T08:35:41.999Z",
+  "generatedAt": "2026-10-09T08:38:59.175Z",
   "agents": [
     {
       "id": "a0",
@@ -6226,6 +6226,45 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-09T08:35:01.703Z"
+    },
+    {
+      "id": "mmv0pp9dhowpfv",
+      "title": "tournee goupil du mercredi",
+      "bt": "",
+      "team": "Propreté",
+      "activity": "Balayage",
+      "location": "",
+      "date": "2026-10-07",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 4.5,
+      "agentCount": 2,
+      "agents": [
+        "a10",
+        "a11"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-09T08:38:59.143Z"
     }
   ],
   "chantiers": [

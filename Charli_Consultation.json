@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-09T14:10:04.632Z",
+  "generatedAt": "2026-10-09T14:10:28.035Z",
   "agents": [
     {
       "id": "a0",
@@ -4891,7 +4891,7 @@
       "team": "Voirie",
       "activity": "Mobilier urbain",
       "location": "RUE MASSALAT",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "slot": "Personnalisé",
       "startTime": "",
       "duration": 2,
@@ -4922,7 +4922,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T13:08:48.912Z"
+      "updatedAt": "2026-10-09T14:10:28.000Z"
     },
     {
       "id": "mmuzm5j077hd28",

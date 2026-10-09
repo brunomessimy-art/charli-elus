@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-09T13:39:39.990Z",
+  "generatedAt": "2026-10-09T13:39:59.698Z",
   "agents": [
     {
       "id": "a0",
@@ -9099,6 +9099,44 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-09T13:39:39.954Z"
+    },
+    {
+      "id": "mmv10ievw7jsm0",
+      "title": "MAINTENANCE ET ENTRETIEN DES EXTINCTEURS",
+      "bt": "",
+      "team": "Bâtiment",
+      "activity": "Maintenance",
+      "location": "BATIMENT",
+      "date": "2026-10-15",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 7.5,
+      "agentCount": 1,
+      "agents": [
+        "a0"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-09T13:39:59.663Z"
     }
   ],
   "chantiers": [

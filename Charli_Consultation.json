@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-09T09:40:46.051Z",
+  "generatedAt": "2026-10-09T12:53:27.469Z",
   "agents": [
     {
       "id": "a0",
@@ -8794,6 +8794,44 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-09T09:34:49.836Z"
+    },
+    {
+      "id": "mmv0ysapg3kk5w",
+      "title": "URGENT REPARER LE VOLET ROULEMENT DE LA CLASSE DE LA DIRECTRICE PRMIERE HEURE LUNDI",
+      "bt": "",
+      "team": "Bâtiment",
+      "activity": "Plomberie",
+      "location": "ECOLE MATERNELLE",
+      "date": "2026-10-12",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 2,
+      "agentCount": 1,
+      "agents": [
+        "a3"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-09T12:53:27.435Z"
     }
   ],
   "chantiers": [

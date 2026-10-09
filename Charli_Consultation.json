@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-09T13:35:15.761Z",
+  "generatedAt": "2026-10-09T13:35:27.504Z",
   "agents": [
     {
       "id": "a0",
@@ -9028,7 +9028,7 @@
       "title": "PEINTURE ENTREE MEDIATHEQUE",
       "bt": "",
       "team": "Bâtiment",
-      "activity": "Plomberie",
+      "activity": "Peinture",
       "location": "",
       "date": "2026-10-12",
       "slot": "Personnalisé",
@@ -9059,7 +9059,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-09T13:32:31.666Z"
+      "updatedAt": "2026-10-09T13:35:27.467Z"
     },
     {
       "id": "mmv109ooio0n6d",

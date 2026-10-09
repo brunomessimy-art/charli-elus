@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-09T13:35:27.504Z",
+  "generatedAt": "2026-10-09T13:35:39.939Z",
   "agents": [
     {
       "id": "a0",
@@ -8610,7 +8610,7 @@
       "title": "INTERVENTIONS URGENTES TOUT CORPS D'ETAT + ELEC",
       "bt": "",
       "team": "Bâtiment",
-      "activity": "Plomberie",
+      "activity": "Autre",
       "location": "",
       "date": "2026-10-13",
       "slot": "Personnalisé",
@@ -8641,7 +8641,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-09T09:33:24.832Z"
+      "updatedAt": "2026-10-09T13:35:39.900Z"
     },
     {
       "id": "mmv0rpnf16yv9r",

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-09T14:15:28.467Z",
+  "generatedAt": "2026-10-09T14:16:19.556Z",
   "agents": [
     {
       "id": "a0",
@@ -6150,7 +6150,7 @@
     },
     {
       "id": "mmv0qi72oig5fn",
-      "title": "VOIRIE",
+      "title": "CENDRIER OU PEINTURE PONS",
       "bt": "",
       "team": "Voirie",
       "activity": "Signalisation verticale",
@@ -6159,11 +6159,10 @@
       "slot": "Personnalisé",
       "startTime": "08:00",
       "duration": 7.5,
-      "agentCount": 3,
+      "agentCount": 2,
       "agents": [
         "a16",
-        "a17",
-        "a18"
+        "a17"
       ],
       "vehicles": [],
       "requester": "",
@@ -6186,7 +6185,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": ""
+      "updatedAt": "2026-10-09T14:16:19.524Z"
     },
     {
       "id": "mmv0qi72ouyqoi",

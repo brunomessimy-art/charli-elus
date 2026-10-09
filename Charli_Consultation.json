@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-09T14:06:39.406Z",
+  "generatedAt": "2026-10-09T14:08:13.779Z",
   "agents": [
     {
       "id": "a0",
@@ -1578,16 +1578,12 @@
       "team": "Voirie",
       "activity": "Signalisation verticale",
       "location": "Fontaine du square du Sautarel",
-      "date": "2026-10-08",
+      "date": "2026-10-13",
       "slot": "Personnalisé",
       "startTime": "08:00",
       "duration": 7.5,
-      "agentCount": 3,
-      "agents": [
-        "a16",
-        "a17",
-        "a18"
-      ],
+      "agentCount": 1,
+      "agents": [],
       "vehicles": [],
       "requester": "",
       "description": "Mise en place d'un puits d'infiltration a la fontaine du square du Sautarel.",
@@ -1609,7 +1605,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": ""
+      "updatedAt": "2026-10-09T14:08:13.742Z"
     },
     {
       "id": "mmuqx7kehuprel",

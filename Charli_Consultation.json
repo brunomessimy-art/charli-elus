@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-09T14:11:40.313Z",
+  "generatedAt": "2026-10-09T14:13:44.974Z",
   "agents": [
     {
       "id": "a0",
@@ -8828,6 +8828,46 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-09T14:06:39.369Z"
+    },
+    {
+      "id": "mmv11o36gtewe4",
+      "title": "SONDAGE ESPACE NATURE",
+      "bt": "",
+      "team": "Voirie",
+      "activity": "Autre",
+      "location": "RT DE PELICAN",
+      "date": "2026-10-14",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 4.5,
+      "agentCount": 3,
+      "agents": [
+        "a16",
+        "a17",
+        "a18"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-09T14:13:44.937Z"
     }
   ],
   "chantiers": [

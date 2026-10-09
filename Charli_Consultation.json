@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-09T14:16:44.004Z",
+  "generatedAt": "2026-10-09T14:17:37.216Z",
   "agents": [
     {
       "id": "a0",
@@ -1338,7 +1338,7 @@
     },
     {
       "id": "mmuqvgmmr2wgm8",
-      "title": "Pose cendriers CME",
+      "title": "Pose cendriers CME OU PEINTURE PONS",
       "bt": "261002007",
       "team": "Voirie",
       "activity": "Signalisation verticale",
@@ -1346,7 +1346,7 @@
       "date": "2026-10-16",
       "slot": "Personnalisé",
       "startTime": "",
-      "duration": 4,
+      "duration": 7.5,
       "agentCount": 3,
       "agents": [
         "a16",
@@ -1374,7 +1374,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-09T14:00:44.562Z"
+      "updatedAt": "2026-10-09T14:17:37.179Z"
     },
     {
       "id": "mmuqvgmmrwluwy",

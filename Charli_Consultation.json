@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-09T08:51:22.819Z",
+  "generatedAt": "2026-10-09T08:52:23.863Z",
   "agents": [
     {
       "id": "a0",
@@ -572,17 +572,15 @@
       "id": "mmupa7mawpg8i7",
       "title": "double clé",
       "bt": "000006251",
-      "team": "Bâtiment",
-      "activity": "Serrurerie",
+      "team": "DMT",
+      "activity": "Autre",
       "location": "LE MESCLADIS",
       "date": "2026-10-05",
       "slot": "Personnalisé",
       "startTime": "08:00",
       "duration": 1,
       "agentCount": 1,
-      "agents": [
-        "a3"
-      ],
+      "agents": [],
       "vehicles": [],
       "requester": "Charlène GAURICHON",
       "description": "Bonjour Estelle,\n \nsuite à une mise à disposition de la Maison des Jeunes pour l'association \"Tous Capables\", j'ai besoin d'un exemplaire de la clef pour leur remettre svp.\n\nMainti4 000006251\nDélai / urgence : SOUS 7 JOURS\nDemande du : 30/09/2026\nDemandeur : Charlène GAURICHON\nÉtat Mainti4 : En attente",
@@ -604,7 +602,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": ""
+      "updatedAt": "2026-10-09T08:52:23.833Z"
     },
     {
       "id": "mmupa7maw4yypf",

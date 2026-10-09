@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-09T14:03:28.733Z",
+  "generatedAt": "2026-10-09T14:03:37.595Z",
   "agents": [
     {
       "id": "a0",
@@ -6183,45 +6183,6 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-08T11:08:27.460Z"
-    },
-    {
-      "id": "mmv0qi72oisqtr",
-      "title": "VOIRIE",
-      "bt": "",
-      "team": "Voirie",
-      "activity": "Enrobé à froid",
-      "location": "Cour des ecoles puis fosses",
-      "date": "2026-10-14",
-      "slot": "Personnalisé",
-      "startTime": "08:00",
-      "duration": 7.5,
-      "agentCount": 2,
-      "agents": [
-        "a17",
-        "a18"
-      ],
-      "vehicles": [],
-      "requester": "",
-      "description": "Mise en place d'enrobe dans la cour des ecoles a l'emplacement de l'arbre tombe,",
-      "report": "",
-      "status": "À faire",
-      "priority": "Normale",
-      "kind": "Ponctuelle",
-      "source": "Copie S41 → S42",
-      "progress": 100,
-      "watchLevel": "",
-      "watchNote": "",
-      "pinned": false,
-      "codir": false,
-      "project": "",
-      "projectStatus": "",
-      "nextStep": "",
-      "decision": "",
-      "deadline": "",
-      "terrainProblem": false,
-      "terrainComment": "",
-      "terrainProblemReport": "",
-      "updatedAt": "2026-10-09T07:33:35.937Z"
     },
     {
       "id": "mmv0qi72oig5fn",

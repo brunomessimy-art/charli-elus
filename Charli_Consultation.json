@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-09T14:10:28.035Z",
+  "generatedAt": "2026-10-09T14:10:48.122Z",
   "agents": [
     {
       "id": "a0",
@@ -1582,8 +1582,12 @@
       "slot": "Personnalisé",
       "startTime": "08:00",
       "duration": 7.5,
-      "agentCount": 1,
-      "agents": [],
+      "agentCount": 3,
+      "agents": [
+        "a16",
+        "a17",
+        "a18"
+      ],
       "vehicles": [],
       "requester": "",
       "description": "Mise en place d'un puits d'infiltration a la fontaine du square du Sautarel.",
@@ -1605,7 +1609,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-09T14:08:13.742Z"
+      "updatedAt": "2026-10-09T14:10:48.084Z"
     },
     {
       "id": "mmuqx7kehuprel",

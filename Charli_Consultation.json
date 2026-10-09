@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-09T14:03:41.138Z",
+  "generatedAt": "2026-10-09T14:03:50.685Z",
   "agents": [
     {
       "id": "a0",
@@ -7049,44 +7049,6 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-08T09:44:14.457Z"
-    },
-    {
-      "id": "mmv0qi72q0fx50",
-      "title": "bennes à enlever végétaux",
-      "bt": "",
-      "team": "Voirie",
-      "activity": "Signalisation verticale",
-      "location": "GENDARMERIE",
-      "date": "2026-10-15",
-      "slot": "Personnalisé",
-      "startTime": "",
-      "duration": 1,
-      "agentCount": 1,
-      "agents": [
-        "a18"
-      ],
-      "vehicles": [],
-      "requester": "ADMINISTRE",
-      "description": "merci d'enlever la benne mise à disposition à la gendarmerie pour les végétaux et la remettre pour la suite ...\n\nMainti4 000006285\nDélai / urgence : SOUS 7 JOURS\nDemande du : 06/10/2026\nDemandeur : ADMINISTRE\nÉtat Mainti4 : En attente",
-      "report": "",
-      "status": "À faire",
-      "priority": "Normale",
-      "kind": "Ponctuelle",
-      "source": "Copie S41 → S42",
-      "progress": 100,
-      "watchLevel": "",
-      "watchNote": "",
-      "pinned": false,
-      "codir": false,
-      "project": "",
-      "projectStatus": "",
-      "nextStep": "",
-      "decision": "",
-      "deadline": "",
-      "terrainProblem": false,
-      "terrainComment": "",
-      "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T09:40:34.970Z"
     },
     {
       "id": "mmv0qi72ql67cq",

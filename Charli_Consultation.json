@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-09T14:08:13.779Z",
+  "generatedAt": "2026-10-09T14:09:39.524Z",
   "agents": [
     {
       "id": "a0",
@@ -995,7 +995,7 @@
       "team": "Voirie",
       "activity": "Signalisation verticale",
       "location": "BOULEVARD DE L'ESPLANADE",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "slot": "Personnalisé",
       "startTime": "08:00",
       "duration": 0.5,
@@ -1026,7 +1026,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T07:09:23.535Z"
+      "updatedAt": "2026-10-09T14:09:39.489Z"
     },
     {
       "id": "mmupa7mawu0g5t",

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-09T06:24:38.927Z",
+  "generatedAt": "2026-10-09T06:25:07.345Z",
   "agents": [
     {
       "id": "a0",
@@ -692,7 +692,7 @@
       "date": "2026-10-07",
       "slot": "Personnalisé",
       "startTime": "13:30",
-      "duration": 3.5,
+      "duration": 4.5,
       "agentCount": 3,
       "agents": [
         "a5",
@@ -720,7 +720,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-09T06:19:43.128Z"
+      "updatedAt": "2026-10-09T06:25:07.296Z"
     },
     {
       "id": "mmupa7mawi1rjt",

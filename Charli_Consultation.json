@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-09T06:18:30.457Z",
+  "generatedAt": "2026-10-09T06:18:49.153Z",
   "agents": [
     {
       "id": "a0",
@@ -358,11 +358,11 @@
       "requester": "ADMINISTRE",
       "description": "A LA DEMANDE DE ESPLANADE DES FROMAGES ELAGAGE DE L'ARBRE DEVANT LE GARAGE DU MAGASIN + PARKING BOUCHARD TEL AU 0614150028 OU VOIR AVEC EUX SUR PLACE. MERCI DE RAMASSER LES BRANCHES QUI RESTENT DERRIERE\n\nMainti4 000006257\nDélai / urgence : SOUS 7 JOURS\nDemande du : 30/09/2026\nDemandeur : ADMINISTRE\nÉtat Mainti4 : En attente",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Demandes",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -375,7 +375,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": ""
+      "updatedAt": "2026-10-09T06:18:49.112Z"
     },
     {
       "id": "mmupa7maw7gmvc",

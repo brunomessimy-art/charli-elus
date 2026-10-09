@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-09T08:57:40.532Z",
+  "generatedAt": "2026-10-09T08:57:46.670Z",
   "agents": [
     {
       "id": "a0",
@@ -3150,11 +3150,11 @@
       "requester": "",
       "description": "Poursuivre et terminer la maintenance, la réparation et la révision des extincteurs dans les bâtiments communaux. Journée complète jusqu'à 17h.",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Missions préparées Charli",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -3167,7 +3167,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-02T16:56:42.623Z"
+      "updatedAt": "2026-10-09T08:57:46.636Z"
     },
     {
       "id": "mmur7golb4q1fa",
@@ -4632,11 +4632,11 @@
       "requester": "ROISNET",
       "description": "Le coffret ne s'ouvre plus. Même en insérant la clé, il n'est pas possible d'ouvrir.\n\nMainti4 000006282\nDélai / urgence : DANS LA JOURNÉE\nDemande du : 06/10/2026\nDemandeur : ROISNET\nÉtat Mainti4 : En attente",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Urgente",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Demandes",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -4649,7 +4649,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T09:22:18.258Z"
+      "updatedAt": "2026-10-09T08:57:43.094Z"
     },
     {
       "id": "mmuz9wl7d9kcax",
@@ -4670,11 +4670,11 @@
       "requester": "ROISNET",
       "description": "Mainti4 000006281\nDélai / urgence : DANS LA JOURNÉE\nDemande du : 06/10/2026\nDemandeur : ROISNET\nÉtat Mainti4 : En attente",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Urgente",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Demandes",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -4687,7 +4687,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T09:23:09.519Z"
+      "updatedAt": "2026-10-09T08:57:43.784Z"
     },
     {
       "id": "mmuz9wl7dfk7o8",
@@ -4708,11 +4708,11 @@
       "requester": "ROISNET",
       "description": "L'interrupteur du haut au fond de la salle est défectueux et nécessite un remplacement.\n\nMainti4 000006280\nDélai / urgence : DANS LA JOURNÉE\nDemande du : 06/10/2026\nDemandeur : ROISNET\nÉtat Mainti4 : En attente",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Urgente",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Demandes",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -4725,7 +4725,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T09:36:25.712Z"
+      "updatedAt": "2026-10-09T08:57:44.521Z"
     },
     {
       "id": "mmuz9wl7e00bdh",

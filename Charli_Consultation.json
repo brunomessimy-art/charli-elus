@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-09T09:38:37.992Z",
+  "generatedAt": "2026-10-09T09:39:52.995Z",
   "agents": [
     {
       "id": "a0",
@@ -3631,11 +3631,11 @@
       "requester": "",
       "description": "Enlever la quille en plastique qui a été écrasée à l'ancienne gare des cars.",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Missions préparées Charli",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -3648,7 +3648,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-05T11:39:23.935Z"
+      "updatedAt": "2026-10-09T09:39:52.957Z"
     },
     {
       "id": "mmuv6e8ufrpde0",

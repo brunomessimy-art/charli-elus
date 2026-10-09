@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-09T14:09:39.524Z",
+  "generatedAt": "2026-10-09T14:10:04.632Z",
   "agents": [
     {
       "id": "a0",
@@ -3282,7 +3282,7 @@
       "team": "Voirie",
       "activity": "Autre",
       "location": "RUE DU VIEUX MOULIN",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "slot": "Personnalisé",
       "startTime": "08:30",
       "duration": 0.5,
@@ -3313,7 +3313,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T07:10:18.298Z"
+      "updatedAt": "2026-10-09T14:10:04.597Z"
     },
     {
       "id": "mmus3sm5j0assk",

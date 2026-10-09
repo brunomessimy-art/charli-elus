@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-09T06:45:13.396Z",
+  "generatedAt": "2026-10-09T06:52:51.861Z",
   "agents": [
     {
       "id": "a0",
@@ -6078,6 +6078,42 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-08T14:32:17.167Z"
+    },
+    {
+      "id": "mmv0lvkrnnshn5",
+      "title": "Aire de repos rt de montpellier",
+      "bt": "",
+      "team": "Espaces verts",
+      "activity": "Tonte",
+      "location": "ROUTE DE MONTPELLIER",
+      "date": "2026-10-05",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 4,
+      "agentCount": 1,
+      "agents": [],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-09T06:52:51.818Z"
     }
   ],
   "chantiers": [

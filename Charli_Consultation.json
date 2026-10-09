@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-09T06:20:34.896Z",
+  "generatedAt": "2026-10-09T06:24:27.332Z",
   "agents": [
     {
       "id": "a0",
@@ -849,10 +849,11 @@
       "slot": "Personnalisé",
       "startTime": "08:00",
       "duration": 1,
-      "agentCount": 2,
+      "agentCount": 3,
       "agents": [
         "a6",
-        "a7"
+        "a7",
+        "a5"
       ],
       "vehicles": [],
       "requester": "ADMINISTRE",
@@ -862,7 +863,7 @@
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Demandes",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -875,7 +876,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-02T12:40:05.577Z"
+      "updatedAt": "2026-10-09T06:24:27.300Z"
     },
     {
       "id": "mmupa7mawc5mbm",

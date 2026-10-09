@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-09T14:05:24.459Z",
+  "generatedAt": "2026-10-09T14:06:39.406Z",
   "agents": [
     {
       "id": "a0",
@@ -8789,6 +8789,45 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-09T13:43:25.011Z"
+    },
+    {
+      "id": "mmv11ff357y0bm",
+      "title": "ENROBE A FROID",
+      "bt": "",
+      "team": "Voirie",
+      "activity": "Autre",
+      "location": "VOIRIE",
+      "date": "2026-10-12",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 6.5,
+      "agentCount": 2,
+      "agents": [
+        "a16",
+        "a17"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-09T14:06:39.369Z"
     }
   ],
   "chantiers": [

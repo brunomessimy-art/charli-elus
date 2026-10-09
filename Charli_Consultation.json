@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-09T06:52:51.861Z",
+  "generatedAt": "2026-10-09T06:54:50.567Z",
   "agents": [
     {
       "id": "a0",
@@ -6114,6 +6114,42 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-09T06:52:51.818Z"
+    },
+    {
+      "id": "mmv0m0krkkt09g",
+      "title": "Rambier tonte debroussaillage",
+      "bt": "",
+      "team": "Espaces verts",
+      "activity": "Tonte",
+      "location": "",
+      "date": "2026-10-06",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 3.5,
+      "agentCount": 1,
+      "agents": [],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-09T06:54:50.531Z"
     }
   ],
   "chantiers": [

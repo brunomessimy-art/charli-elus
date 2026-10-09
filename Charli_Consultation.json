@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-09T06:19:43.173Z",
+  "generatedAt": "2026-10-09T06:19:59.001Z",
   "agents": [
     {
       "id": "a0",
@@ -1867,11 +1867,11 @@
       "requester": "",
       "description": "Verifier les murets des ecoles.",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import PDF",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -1884,7 +1884,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T06:27:56.008Z"
+      "updatedAt": "2026-10-09T06:19:58.961Z"
     },
     {
       "id": "mmuqybj89tu57o",

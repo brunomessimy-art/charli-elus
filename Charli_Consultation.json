@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-09T06:18:49.153Z",
+  "generatedAt": "2026-10-09T06:18:58.664Z",
   "agents": [
     {
       "id": "a0",
@@ -510,11 +510,11 @@
       "requester": "ADMINISTRE",
       "description": "Bonjour,\n \nCe matin il a été constaté par la patrouille de notre service une branche cassée d'un arbre qui menace de tomber sur le chemin de Rouires à Gignac.\n \nPhoto + localisation Google Maps en pièces-jointes. \n \nNous sollicitons votre intervention pour sécuriser les lieux à votre initiative.\n \nCordialement. \n \nGB BATTESTI Samir\nPM DE GIGNAC\n06-75-21-58-36\n\nMainti4 000006253\nDélai / urgence : DANS LA JOURNÉE\nDemande du : 30/09/2026\nDemandeur : ADMINISTRE\nÉtat Mainti4 : En attente",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Urgente",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Demandes",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -527,7 +527,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": ""
+      "updatedAt": "2026-10-09T06:18:58.618Z"
     },
     {
       "id": "mmupa7mawpcpxu",

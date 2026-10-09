@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-09T08:43:57.364Z",
+  "generatedAt": "2026-10-09T08:44:37.887Z",
   "agents": [
     {
       "id": "a0",
@@ -6380,6 +6380,44 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-09T08:43:57.332Z"
+    },
+    {
+      "id": "mmv0pxzrhwhtz3",
+      "title": "TOURNEE SOLO",
+      "bt": "",
+      "team": "Propreté",
+      "activity": "Balayage",
+      "location": "",
+      "date": "2026-10-08",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 7.5,
+      "agentCount": 1,
+      "agents": [
+        "a13"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-09T08:44:37.856Z"
     }
   ],
   "chantiers": [

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-09T14:02:47.433Z",
+  "generatedAt": "2026-10-09T14:02:51.602Z",
   "agents": [
     {
       "id": "a0",
@@ -6223,46 +6223,6 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-08T11:08:27.460Z"
-    },
-    {
-      "id": "mmv0qi72ng2hp3",
-      "title": "VOIRIE",
-      "bt": "",
-      "team": "Voirie",
-      "activity": "Réseaux",
-      "location": "Fosses - secteur a definir",
-      "date": "2026-10-12",
-      "slot": "Après-midi",
-      "startTime": "13:30",
-      "duration": 3.5,
-      "agentCount": 3,
-      "agents": [
-        "a16",
-        "a17",
-        "a18"
-      ],
-      "vehicles": [],
-      "requester": "",
-      "description": "Curage de fosses.",
-      "report": "",
-      "status": "À faire",
-      "priority": "Normale",
-      "kind": "Ponctuelle",
-      "source": "Copie S41 → S42",
-      "progress": 100,
-      "watchLevel": "",
-      "watchNote": "",
-      "pinned": false,
-      "codir": false,
-      "project": "",
-      "projectStatus": "",
-      "nextStep": "",
-      "decision": "",
-      "deadline": "",
-      "terrainProblem": false,
-      "terrainComment": "",
-      "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T09:40:12.583Z"
     },
     {
       "id": "mmv0qi72n7tlf0",

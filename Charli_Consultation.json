@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-09T09:00:00.719Z",
+  "generatedAt": "2026-10-09T09:00:05.954Z",
   "agents": [
     {
       "id": "a0",
@@ -9089,44 +9089,6 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-09T07:01:37.931Z"
-    },
-    {
-      "id": "mmv0qi72qut7c5",
-      "title": "Petite balayeuse",
-      "bt": "",
-      "team": "Propreté",
-      "activity": "Autre",
-      "location": "Non précisé",
-      "date": "2026-10-13",
-      "slot": "Personnalisé",
-      "startTime": "07:00",
-      "duration": 7.5,
-      "agentCount": 1,
-      "agents": [
-        "a10"
-      ],
-      "vehicles": [],
-      "requester": "",
-      "description": "Petite balayeuse - AGENT: Mickael N. - DATE: 09/02/2026 - DUREE: 3 h 00",
-      "report": "",
-      "status": "À faire",
-      "priority": "Normale",
-      "kind": "Ponctuelle",
-      "source": "Copie S41 → S42",
-      "progress": 100,
-      "watchLevel": "",
-      "watchNote": "",
-      "pinned": false,
-      "codir": false,
-      "project": "",
-      "projectStatus": "",
-      "nextStep": "",
-      "decision": "",
-      "deadline": "",
-      "terrainProblem": false,
-      "terrainComment": "",
-      "terrainProblemReport": "",
-      "updatedAt": "2026-10-09T08:47:19.146Z"
     },
     {
       "id": "mmv0qi72q3f30r",

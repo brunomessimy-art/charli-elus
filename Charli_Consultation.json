@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-09T08:39:22.515Z",
+  "generatedAt": "2026-10-09T08:41:33.950Z",
   "agents": [
     {
       "id": "a0",
@@ -6265,6 +6265,45 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-09T08:39:22.479Z"
+    },
+    {
+      "id": "mmv0pto9b3uzs4",
+      "title": "tournee binome du mercredi",
+      "bt": "",
+      "team": "Propreté",
+      "activity": "Balayage",
+      "location": "",
+      "date": "2026-10-07",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 4.5,
+      "agentCount": 2,
+      "agents": [
+        "a14",
+        "a13"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-09T08:41:33.919Z"
     }
   ],
   "chantiers": [

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-09T09:00:17.475Z",
+  "generatedAt": "2026-10-09T09:00:25.412Z",
   "agents": [
     {
       "id": "a0",
@@ -9204,44 +9204,6 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-09T08:47:28.438Z"
-    },
-    {
-      "id": "mmv0qi72rzbysi",
-      "title": "PETITE BALAYEUSE",
-      "bt": "",
-      "team": "Propreté",
-      "activity": "Balayage",
-      "location": "",
-      "date": "2026-10-16",
-      "slot": "Personnalisé",
-      "startTime": "",
-      "duration": 7.5,
-      "agentCount": 1,
-      "agents": [
-        "a10"
-      ],
-      "vehicles": [],
-      "requester": "",
-      "description": "",
-      "report": "",
-      "status": "À faire",
-      "priority": "Normale",
-      "kind": "Ponctuelle",
-      "source": "Copie S41 → S42",
-      "progress": 100,
-      "watchLevel": "",
-      "watchNote": "",
-      "pinned": false,
-      "codir": false,
-      "project": "",
-      "projectStatus": "",
-      "nextStep": "",
-      "decision": "",
-      "deadline": "",
-      "terrainProblem": false,
-      "terrainComment": "",
-      "terrainProblemReport": "",
-      "updatedAt": "2026-10-09T08:47:30.793Z"
     },
     {
       "id": "mmv0qi72rxuu4t",

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-09T14:01:25.168Z",
+  "generatedAt": "2026-10-09T14:02:47.433Z",
   "agents": [
     {
       "id": "a0",
@@ -6223,48 +6223,6 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-08T11:08:27.460Z"
-    },
-    {
-      "id": "mmv0qi72n96zsi",
-      "title": "VOIRIE",
-      "bt": "",
-      "team": "Voirie",
-      "activity": "Signalisation verticale",
-      "location": "Boulevard Foch",
-      "date": "2026-10-12",
-      "slot": "Matin",
-      "startTime": "08:00",
-      "duration": 4,
-      "agentCount": 3,
-      "agents": [
-        "a16",
-        "a17",
-        "a18"
-      ],
-      "vehicles": [
-        "v20"
-      ],
-      "requester": "",
-      "description": "Mise en place du massif pour l'affichage communal.",
-      "report": "",
-      "status": "À faire",
-      "priority": "Normale",
-      "kind": "Ponctuelle",
-      "source": "Copie S41 → S42",
-      "progress": null,
-      "watchLevel": "",
-      "watchNote": "",
-      "pinned": false,
-      "codir": false,
-      "project": "",
-      "projectStatus": "Terminé",
-      "nextStep": "",
-      "decision": "",
-      "deadline": "",
-      "terrainProblem": false,
-      "terrainComment": "",
-      "terrainProblemReport": "",
-      "updatedAt": "2026-10-05T18:49:18.775Z"
     },
     {
       "id": "mmv0qi72ng2hp3",

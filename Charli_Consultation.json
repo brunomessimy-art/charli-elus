@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-09T08:47:01.199Z",
+  "generatedAt": "2026-10-09T08:47:19.176Z",
   "agents": [
     {
       "id": "a0",
@@ -6208,7 +6208,7 @@
       "requester": "",
       "description": "Petite balayeuse - AGENT: Mickael N. - DATE: 09/02/2026 - DUREE: 3 h 00",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import PDF",
@@ -6225,7 +6225,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-09T08:35:01.703Z"
+      "updatedAt": "2026-10-09T08:47:19.146Z"
     },
     {
       "id": "mmv0pp9dhowpfv",

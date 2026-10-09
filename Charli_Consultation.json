@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-09T13:47:46.501Z",
+  "generatedAt": "2026-10-09T14:00:44.600Z",
   "agents": [
     {
       "id": "a0",
@@ -1343,10 +1343,10 @@
       "team": "Voirie",
       "activity": "Signalisation verticale",
       "location": "CME",
-      "date": "2026-10-12",
+      "date": "2026-10-16",
       "slot": "Personnalisé",
-      "startTime": "09:00",
-      "duration": 7.5,
+      "startTime": "",
+      "duration": 4,
       "agentCount": 3,
       "agents": [
         "a16",
@@ -1374,7 +1374,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": ""
+      "updatedAt": "2026-10-09T14:00:44.562Z"
     },
     {
       "id": "mmuqvgmmrwluwy",

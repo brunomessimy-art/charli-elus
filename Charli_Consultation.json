@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-09T09:24:56.864Z",
+  "generatedAt": "2026-10-09T09:26:39.062Z",
   "agents": [
     {
       "id": "a0",
@@ -7601,44 +7601,6 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-08T08:24:58.468Z"
-    },
-    {
-      "id": "mmv0qi72pw1i0j",
-      "title": "Fabrication de quilles de signalisation pour la Voirie",
-      "bt": "",
-      "team": "Bâtiment",
-      "activity": "Plomberie",
-      "location": "Ateliers municipaux",
-      "date": "2026-10-13",
-      "slot": "Journée",
-      "startTime": "08:00",
-      "duration": 7.5,
-      "agentCount": 1,
-      "agents": [
-        "a0"
-      ],
-      "vehicles": [],
-      "requester": "",
-      "description": "Poursuivre la fabrication de quilles de signalisation destinées à l'équipe Voirie. Journée complète.",
-      "report": "",
-      "status": "À faire",
-      "priority": "Normale",
-      "kind": "Ponctuelle",
-      "source": "Copie S41 → S42",
-      "progress": 100,
-      "watchLevel": "",
-      "watchNote": "",
-      "pinned": false,
-      "codir": false,
-      "project": "Non",
-      "projectStatus": "",
-      "nextStep": "",
-      "decision": "",
-      "deadline": "",
-      "terrainProblem": false,
-      "terrainComment": "",
-      "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T08:25:18.551Z"
     },
     {
       "id": "mmv0qi72pk76z2",

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-09T14:19:48.753Z",
+  "generatedAt": "2026-10-09T14:20:42.827Z",
   "agents": [
     {
       "id": "a0",
@@ -2924,11 +2924,11 @@
       "requester": "",
       "description": "Grande balayeuse en binôme Simon / Bruno - AGENT: Simon - DATE: 10/02/2026 - DUREE: 7 h",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Liée",
       "source": "Import PDF",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -2941,7 +2941,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": ""
+      "updatedAt": "2026-10-09T14:20:42.797Z"
     },
     {
       "id": "mmur7golbfi2wz",
@@ -8885,11 +8885,11 @@
       "requester": "Cédric DELMAS",
       "description": "Mainti4 000017571\nResponsable : Cédric DELMAS\nType de travaux : ENTRETIEN PERIODIQUE\nÉtat Mainti4 : À réaliser",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Bons de travaux",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -8902,7 +8902,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-09T14:19:48.719Z"
+      "updatedAt": "2026-10-09T14:20:41.930Z"
     },
     {
       "id": "mmv11xdvw5ejth",
@@ -8957,11 +8957,11 @@
       "requester": "Cédric DELMAS",
       "description": "Mainti4 000017568\nResponsable : Cédric DELMAS\nType de travaux : PRO-ENTRETIEN\nÉtat Mainti4 : À réaliser",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Bons de travaux",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -8974,7 +8974,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-09T14:19:48.720Z"
+      "updatedAt": "2026-10-09T14:20:41.162Z"
     },
     {
       "id": "mmv11xdvwbs9za",
@@ -9029,11 +9029,11 @@
       "requester": "Cédric DELMAS",
       "description": "Mainti4 000017561\nResponsable : Cédric DELMAS\nType de travaux : DEVIS\nÉtat Mainti4 : À réaliser",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Bons de travaux",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -9046,7 +9046,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-09T14:19:48.720Z"
+      "updatedAt": "2026-10-09T14:20:39.961Z"
     },
     {
       "id": "mmv11xdvw99vlj",

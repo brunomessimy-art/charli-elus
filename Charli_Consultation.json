@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-09T09:00:05.954Z",
+  "generatedAt": "2026-10-09T09:00:09.906Z",
   "agents": [
     {
       "id": "a0",
@@ -7299,44 +7299,6 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-08T09:47:45.147Z"
-    },
-    {
-      "id": "mmv0qi72o0q8yi",
-      "title": "petite balayeuse",
-      "bt": "",
-      "team": "Propreté",
-      "activity": "Autre",
-      "location": "Non précisé",
-      "date": "2026-10-14",
-      "slot": "Personnalisé",
-      "startTime": "09:00",
-      "duration": 5.5,
-      "agentCount": 1,
-      "agents": [
-        "a12"
-      ],
-      "vehicles": [],
-      "requester": "",
-      "description": "Grande balayeuse en binôme Mickael / Bruno - AGENT: Mickael N. - DATE: 10/02/2026 -",
-      "report": "",
-      "status": "À faire",
-      "priority": "Normale",
-      "kind": "Ponctuelle",
-      "source": "Copie S41 → S42",
-      "progress": 100,
-      "watchLevel": "",
-      "watchNote": "",
-      "pinned": false,
-      "codir": false,
-      "project": "",
-      "projectStatus": "",
-      "nextStep": "",
-      "decision": "",
-      "deadline": "",
-      "terrainProblem": false,
-      "terrainComment": "",
-      "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T09:47:50.185Z"
     },
     {
       "id": "mmv0qi72osasvi",

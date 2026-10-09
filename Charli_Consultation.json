@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-09T14:02:56.058Z",
+  "generatedAt": "2026-10-09T14:03:12.881Z",
   "agents": [
     {
       "id": "a0",
@@ -5764,46 +5764,6 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-09T06:18:58.618Z"
-    },
-    {
-      "id": "mmv0qi72nb0zti",
-      "title": "8 boulevard du moulin",
-      "bt": "",
-      "team": "Voirie",
-      "activity": "Autre",
-      "location": "BOULEVARD DU MOULIN",
-      "date": "2026-10-13",
-      "slot": "Personnalisé",
-      "startTime": "08:00",
-      "duration": 1,
-      "agentCount": 3,
-      "agents": [
-        "a16",
-        "a17",
-        "a18"
-      ],
-      "vehicles": [],
-      "requester": "ADMINISTRE",
-      "description": "Mme TRICOT souhaiterait une intervention du service espace vert au 8 boulevard du Rivelin car les racines des arbres soulèvent la chaussée et vient empêcher l’écoulement de ses EP. VOIR AVEC BC\n\n06.84.78.02.02\n\nMerci\n\nMainti4 000006252\nDélai / urgence : SOUS 7 JOURS\nDemande du : 30/09/2026\nDemandeur : ADMINISTRE\nÉtat Mainti4 : En attente",
-      "report": "",
-      "status": "À faire",
-      "priority": "Normale",
-      "kind": "Ponctuelle",
-      "source": "Copie S41 → S42",
-      "progress": null,
-      "watchLevel": "",
-      "watchNote": "",
-      "pinned": false,
-      "codir": false,
-      "project": "",
-      "projectStatus": "",
-      "nextStep": "",
-      "decision": "",
-      "deadline": "",
-      "terrainProblem": false,
-      "terrainComment": "",
-      "terrainProblemReport": "",
-      "updatedAt": "2026-10-01T12:19:24.865Z"
     },
     {
       "id": "mmv0qi72n7yt9i",

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-09T08:54:39.748Z",
+  "generatedAt": "2026-10-09T08:55:08.267Z",
   "agents": [
     {
       "id": "a0",
@@ -6614,7 +6614,7 @@
       "team": "Bâtiment",
       "activity": "Plomberie",
       "location": "",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "slot": "Personnalisé",
       "startTime": "",
       "duration": 1,
@@ -6643,7 +6643,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-09T08:54:39.714Z"
+      "updatedAt": "2026-10-09T08:55:08.235Z"
     }
   ],
   "chantiers": [

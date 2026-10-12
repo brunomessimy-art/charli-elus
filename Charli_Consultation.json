@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-12T07:02:08.989Z",
+  "generatedAt": "2026-10-12T07:02:26.213Z",
   "agents": [
     {
       "id": "a0",
@@ -6288,7 +6288,7 @@
       "requester": "",
       "description": "Entretien du parc des aventures.",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S41 → S42",
@@ -6305,7 +6305,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-09T06:19:28.163Z"
+      "updatedAt": "2026-10-12T07:02:26.178Z"
     },
     {
       "id": "mmv0qi72onburq",

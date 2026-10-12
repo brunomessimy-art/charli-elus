@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-12T07:02:30.412Z",
+  "generatedAt": "2026-10-12T07:02:57.255Z",
   "agents": [
     {
       "id": "a0",
@@ -5822,7 +5822,7 @@
       "requester": "ROISNET",
       "description": "Bonjour,\n\nje me permets de vous recontacter au sujet du concert de musique baroque qui aura lieu le 11 octobre 2026 à l'église de Notre-Dame-de-Grâce, organisé par Les Muses en Dialogue.\n\nSerait-il possible de nettoyer le champ, chemin de Notre Dame, pour le parking des véhicules?\n\nVous pouvez me contacter soit par téléphone au 0613631095, soit par retour de mail.\n\nCordialement\nFrance NICOLAS\nRégie générale des Muses en Dialogue.\n\nMainti4 000006246\nDélai / urgence : Jusqu'au 09/10/2026 08:00\nDemande du : 28/09/2026\nDemandeur : ROISNET\nÉtat Mainti4 : En attente",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S41 → S42",
@@ -5839,7 +5839,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-09T06:25:07.296Z"
+      "updatedAt": "2026-10-12T07:02:57.219Z"
     },
     {
       "id": "mmv0qi72niiocx",

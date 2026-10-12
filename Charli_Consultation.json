@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-12T09:41:17.518Z",
+  "generatedAt": "2026-10-12T09:45:42.167Z",
   "agents": [
     {
       "id": "a0",
@@ -9317,15 +9317,15 @@
     {
       "id": "chmuv6ldkk8eh90",
       "name": "CLIMATISATION DORTOIR + CANTINE",
-      "location": "",
-      "description": "",
-      "manager": "",
+      "location": "CANTINE + DORTOIR",
+      "description": "Fourniture et mise en place de clim par l'entreprise Eco elek",
+      "manager": "Bruno CIALDELLA",
       "status": "À préparer",
-      "priority": "Normale",
+      "priority": "Haute",
       "progress": 50,
       "watchLevel": "",
-      "watchNote": "",
-      "pinned": false,
+      "watchNote": "Secteur scolaire",
+      "pinned": true,
       "codir": false,
       "startDate": "",
       "endDate": "",
@@ -9335,9 +9335,45 @@
       "nextAction": "",
       "blockers": "",
       "decision": "",
-      "updatedAt": "2026-10-05T19:21:36.504Z",
-      "companies": [],
-      "phases": []
+      "updatedAt": "2026-10-12T09:45:42.132Z",
+      "companies": [
+        {
+          "id": "comv52e8ymu65ww",
+          "name": "ECO ELEK",
+          "contact": "",
+          "phone": "",
+          "email": "",
+          "specialty": "",
+          "forecast": 0,
+          "actual": 0
+        }
+      ],
+      "phases": [
+        {
+          "id": "phmv52evmrpftva",
+          "name": "",
+          "date": "2026-09-16",
+          "companyId": "comv52e8ymu65ww",
+          "mission": "CLIM DORTOIR",
+          "status": "Terminée",
+          "duration": "",
+          "report": "",
+          "watchLevel": "",
+          "watchNote": ""
+        },
+        {
+          "id": "phmv52fu8760qfv",
+          "name": "",
+          "date": "2026-10-14",
+          "companyId": "comv52e8ymu65ww",
+          "mission": "CLIM CANTINE",
+          "status": "À venir",
+          "duration": "1 JOUR",
+          "report": "",
+          "watchLevel": "",
+          "watchNote": ""
+        }
+      ]
     },
     {
       "id": "chmuv85vbmnqx7t",

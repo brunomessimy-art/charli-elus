@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-12T06:53:34.182Z",
+  "generatedAt": "2026-10-12T06:54:36.516Z",
   "agents": [
     {
       "id": "a0",
@@ -9155,6 +9155,44 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-09T14:19:48.720Z"
+    },
+    {
+      "id": "mmv4wblmhb2d2d",
+      "title": "Infiltration à la gendarmerie",
+      "bt": "",
+      "team": "Bâtiment",
+      "activity": "Autre",
+      "location": "",
+      "date": "2026-10-12",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 0.5,
+      "agentCount": 1,
+      "agents": [
+        "a3"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "Mission d'infiltration à la gendarmerie pour l'équipe Bâtiment.",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Dictée IA : Une mission pour l'équipe bâtiment, Wilfried, aujourd'hui, infiltration à la gendarmerie.",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-12T06:54:36.482Z"
     }
   ],
   "chantiers": [

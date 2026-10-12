@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-12T07:03:01.012Z",
+  "generatedAt": "2026-10-12T07:03:41.088Z",
   "agents": [
     {
       "id": "a0",
@@ -5782,7 +5782,7 @@
       "requester": "ADMINISTRE",
       "description": "Bonjour,\nVeuillez trouver ci-joint la cartographie indiquant les différents points identifiés lors de la collecte de ce matin, nécessitant une intervention d’élagage afin de permettre le passage des véhicules de collecte dans de bonnes conditions.\nJe vous remercie par avance pour la prise en compte de ces éléments et reste à votre disposition pour toute information complémentaire.\nCordialement,\n\n\nJulien ROSIER\nChef Adjoint d’équipe - Unité collecte\nService de gestion des déchets ménagers\nPôle aménagement environnement\nCommunauté de communes Vallée de l'Hérault\nChemin de l'Ecosite - BP 15 - 34150 Gignac\n📞 06 42 42 89 29\n✉️ julien.rosier@cc-vallee-herault.fr\n\nMainti4 000006250\nDélai / urgence : SOUS 7 JOURS\nDemande du : 30/09/2026\nDemandeur : ADMINISTRE\nÉtat Mainti4 : En attente",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S41 → S42",
@@ -5799,7 +5799,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-09T06:20:17.212Z"
+      "updatedAt": "2026-10-12T07:03:38.680Z"
     },
     {
       "id": "mmv0qi72nym632",
@@ -6954,7 +6954,7 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S41 → S42",
@@ -6971,7 +6971,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T09:44:14.457Z"
+      "updatedAt": "2026-10-12T07:03:41.050Z"
     },
     {
       "id": "mmv0qi72ql67cq",

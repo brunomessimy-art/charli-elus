@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-12T07:01:35.845Z",
+  "generatedAt": "2026-10-12T07:01:42.080Z",
   "agents": [
     {
       "id": "a0",
@@ -5901,7 +5901,7 @@
       "requester": "",
       "description": "équipe espace vert remonter la glycine qui est devant la régie place de la régie",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S41 → S42",
@@ -5918,7 +5918,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-05T19:55:16.880Z"
+      "updatedAt": "2026-10-12T07:01:42.051Z"
     },
     {
       "id": "mmv0qi72nautph",

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-12T07:01:42.080Z",
+  "generatedAt": "2026-10-12T07:01:48.840Z",
   "agents": [
     {
       "id": "a0",
@@ -6990,7 +6990,7 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S41 → S42",
@@ -7007,7 +7007,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-09T06:55:10.288Z"
+      "updatedAt": "2026-10-12T07:01:48.813Z"
     },
     {
       "id": "mmv0qi72qtky82",

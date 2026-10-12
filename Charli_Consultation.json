@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-12T07:02:57.255Z",
+  "generatedAt": "2026-10-12T07:03:01.012Z",
   "agents": [
     {
       "id": "a0",
@@ -5861,7 +5861,7 @@
       "requester": "ADMINISTRE",
       "description": "TAILLES HAIES LAURIER ROSE URGENT CE WEEK END ACCIDENT PAS DE VISIBILITE UN JEUNE S'EST FAIT RENVERSE MERCI DE FAIRE EN URGENCE APPEL DE MR JOSE ARRIZA 0616244254 URGENT*****\n\nMainti4 000006212\nDélai / urgence : SOUS 7 JOURS\nDemande du : 14/09/2026\nDemandeur : ADMINISTRE\nÉtat Mainti4 : En attente",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S41 → S42",
@@ -5878,7 +5878,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-09T06:57:44.954Z"
+      "updatedAt": "2026-10-12T07:03:00.977Z"
     },
     {
       "id": "mmv0qi72n82m62",

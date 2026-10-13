@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-13T06:15:38.358Z",
+  "generatedAt": "2026-10-13T06:16:24.451Z",
   "agents": [
     {
       "id": "a0",
@@ -9269,6 +9269,42 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-13T06:15:38.115Z"
+    },
+    {
+      "id": "mmv6aerc3isr8y",
+      "title": "REMISE EN ROUTE DES CHAUDIERES AVEC L'ENTREPRISE HERVE THERMIQUE",
+      "bt": "",
+      "team": "Bâtiment",
+      "activity": "Autre",
+      "location": "BATIMENTS",
+      "date": "2026-10-29",
+      "slot": "Journée",
+      "startTime": "08:00",
+      "duration": 7.5,
+      "agentCount": 1,
+      "agents": [],
+      "vehicles": [],
+      "requester": "",
+      "description": "VERIFIER LE BON FONCTIONNEMENT DES RADIATEURS DANS L'ENSEMBLE DES BATIMENTS",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Annuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "2026-10-30",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-13T06:16:24.194Z"
     }
   ],
   "chantiers": [

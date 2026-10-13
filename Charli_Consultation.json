@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-13T05:59:27.145Z",
+  "generatedAt": "2026-10-13T06:00:33.850Z",
   "agents": [
     {
       "id": "a0",
@@ -9193,44 +9193,6 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-12T06:54:36.482Z"
-    },
-    {
-      "id": "mmv5bxvmqe2dgb",
-      "title": "essai 16 10",
-      "bt": "",
-      "team": "DMT",
-      "activity": "Autre",
-      "location": "",
-      "date": "2026-10-13",
-      "slot": "Personnalisé",
-      "startTime": "",
-      "duration": 1,
-      "agentCount": 1,
-      "agents": [
-        "a8"
-      ],
-      "vehicles": [],
-      "requester": "",
-      "description": "",
-      "report": "",
-      "status": "À faire",
-      "priority": "Normale",
-      "kind": "Ponctuelle",
-      "source": "Manuel",
-      "progress": null,
-      "watchLevel": "",
-      "watchNote": "",
-      "pinned": false,
-      "codir": false,
-      "project": "",
-      "projectStatus": "",
-      "nextStep": "",
-      "decision": "",
-      "deadline": "",
-      "terrainProblem": false,
-      "terrainComment": "",
-      "terrainProblemReport": "",
-      "updatedAt": "2026-10-12T14:11:20.231Z"
     },
     {
       "id": "mmv5csa48wiks6",

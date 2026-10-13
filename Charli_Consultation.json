@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-13T14:29:17.491Z",
+  "generatedAt": "2026-10-13T14:35:40.739Z",
   "agents": [
     {
       "id": "a0",
@@ -9729,6 +9729,55 @@
       "updatedAt": "2026-10-08T14:09:47.325Z",
       "companies": [],
       "phases": []
+    },
+    {
+      "id": "chmv6s6q9ostb0b",
+      "name": "INFILTRATION MEDIATHEQUE",
+      "location": "MEDIATHEQUE",
+      "description": "FUITE DEPUIS UN VELUX",
+      "manager": "JORIS MIRA",
+      "status": "En cours",
+      "priority": "Urgente",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": true,
+      "codir": false,
+      "startDate": "",
+      "endDate": "",
+      "reportDate": "",
+      "observations": "",
+      "issues": "",
+      "nextAction": "",
+      "blockers": "",
+      "decision": "",
+      "updatedAt": "2026-10-13T14:35:40.406Z",
+      "companies": [
+        {
+          "id": "comv6s86g5j10t5",
+          "name": "O TOIT OCCITANTS",
+          "contact": "",
+          "phone": "",
+          "email": "",
+          "specialty": "",
+          "forecast": 0,
+          "actual": 0
+        }
+      ],
+      "phases": [
+        {
+          "id": "phmv6s8jr8u9rf9",
+          "name": "",
+          "date": "2026-10-20",
+          "companyId": "comv6s86g5j10t5",
+          "mission": "ANALYSE SUR PLACE",
+          "status": "À venir",
+          "duration": "",
+          "report": "",
+          "watchLevel": "",
+          "watchNote": ""
+        }
+      ]
     }
   ],
   "waterAlerts": []

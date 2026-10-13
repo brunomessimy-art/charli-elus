@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-13T13:12:19.610Z",
+  "generatedAt": "2026-10-13T13:13:32.487Z",
   "agents": [
     {
       "id": "a0",
@@ -4750,11 +4750,11 @@
       "requester": "",
       "description": "débroussaillage de l'exutoire au bout du boulevard du moulin par l'équipe espace vert",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Charli Terrain",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -4767,7 +4767,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T13:41:31.173Z"
+      "updatedAt": "2026-10-13T13:13:32.199Z"
     },
     {
       "id": "mmuzcmamp1kqve",

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-13T14:51:12.625Z",
+  "generatedAt": "2026-10-13T14:52:09.455Z",
   "agents": [
     {
       "id": "a0",
@@ -9932,15 +9932,17 @@
       "id": "mmv6skin3ves43",
       "title": "LOGEMENT 10",
       "bt": "000006305",
-      "team": "Moyens techniques",
-      "activity": "Autre",
+      "team": "Bâtiment",
+      "activity": "Plomberie",
       "location": "GENDARMERIE",
-      "date": "",
-      "slot": "",
+      "date": "2026-10-14",
+      "slot": "Personnalisé",
       "startTime": "",
       "duration": 1,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a3"
+      ],
       "vehicles": [],
       "requester": "COMMANDANT BOUCHER DORIAN",
       "description": "Mainti4 000006305\nDélai / urgence : DANS LA JOURNÉE\nDemande du : 12/10/2026\nDemandeur : COMMANDANT BOUCHER DORIAN\nÉtat Mainti4 : En attente",
@@ -9962,7 +9964,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-13T14:44:12.694Z"
+      "updatedAt": "2026-10-13T14:52:09.140Z"
     },
     {
       "id": "mmv6skin37hbye",

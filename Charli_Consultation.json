@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-13T08:43:50.758Z",
+  "generatedAt": "2026-10-13T08:45:20.015Z",
   "agents": [
     {
       "id": "a0",
@@ -4714,20 +4714,20 @@
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Charli Terrain",
-      "progress": null,
+      "progress": 15,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
       "codir": false,
       "project": "",
       "projectStatus": "",
-      "nextStep": "",
+      "nextStep": "13/10/26 DEVIS DEMANDE A A VOS IMPRESSION",
       "decision": "",
       "deadline": "",
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T11:09:53.151Z"
+      "updatedAt": "2026-10-13T08:45:19.823Z"
     },
     {
       "id": "mmuzcmamp23lru",

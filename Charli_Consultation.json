@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-13T13:06:06.651Z",
+  "generatedAt": "2026-10-13T13:06:24.755Z",
   "agents": [
     {
       "id": "a0",
@@ -3300,11 +3300,11 @@
       "requester": "Michel BLANES",
       "description": "michel blanes signale que le stop entre l'intersection du bd du moulin et chemin de l'auberge est cassé incident  a remettre ou arranger\n\nMainti4 000006271\nDélai / urgence : DANS LA JOURNÉE\nDemande du : 02/10/2026\nDemandeur : Michel BLANES\nÉtat Mainti4 : En attente",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Urgente",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Demandes",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -3317,7 +3317,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-09T14:10:04.597Z"
+      "updatedAt": "2026-10-13T13:06:24.511Z"
     },
     {
       "id": "mmus3sm5j0assk",

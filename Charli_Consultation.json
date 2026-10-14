@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-14T13:55:30.553Z",
+  "generatedAt": "2026-10-14T13:55:58.667Z",
   "agents": [
     {
       "id": "a0",
@@ -10215,7 +10215,7 @@
       "team": "Espaces verts",
       "activity": "Abattage",
       "location": "",
-      "date": "2026-11-05",
+      "date": "2026-12-04",
       "slot": "Personnalisé",
       "startTime": "",
       "duration": 7.5,
@@ -10247,7 +10247,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-14T13:55:30.299Z"
+      "updatedAt": "2026-10-14T13:55:58.442Z"
     }
   ],
   "chantiers": [

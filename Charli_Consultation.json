@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-14T12:25:15.020Z",
+  "generatedAt": "2026-10-14T12:28:23.754Z",
   "agents": [
     {
       "id": "a0",
@@ -9900,13 +9900,13 @@
       "id": "mmv6skin37hbye",
       "title": "Réalisation d'une planche maraichère au Mescladis, dans la pinède.",
       "bt": "000006304",
-      "team": "Moyens techniques",
+      "team": "DMT",
       "activity": "Autre",
       "location": "SCO-PRIMAIRE",
-      "date": "",
+      "date": "2026-10-19",
       "slot": "Personnalisé",
       "startTime": "",
-      "duration": 1,
+      "duration": 0.25,
       "agentCount": 1,
       "agents": [],
       "vehicles": [],
@@ -9930,7 +9930,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-13T14:44:12.694Z"
+      "updatedAt": "2026-10-14T12:28:23.543Z"
     },
     {
       "id": "mmv6skin3ayxil",

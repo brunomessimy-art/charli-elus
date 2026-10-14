@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-14T08:46:28.911Z",
+  "generatedAt": "2026-10-14T08:48:40.885Z",
   "agents": [
     {
       "id": "a0",
@@ -10769,6 +10769,42 @@
           "watchNote": ""
         }
       ]
+    },
+    {
+      "id": "chmv7v8kolr54k7",
+      "name": "DEPOLUTION ESPACES NATURE",
+      "location": "PELICAN",
+      "description": "Dépollution espace nature trie et évacuation des déchets",
+      "manager": "Bruno CIALDELLA",
+      "status": "À préparer",
+      "priority": "Normale",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "startDate": "2026-10-14",
+      "endDate": "",
+      "reportDate": "",
+      "observations": "",
+      "issues": "",
+      "nextAction": "",
+      "blockers": "",
+      "decision": "",
+      "updatedAt": "2026-10-14T08:48:40.670Z",
+      "companies": [
+        {
+          "id": "comv7vashhx6m2y",
+          "name": "NICOLLIN",
+          "contact": "",
+          "phone": "",
+          "email": "",
+          "specialty": "",
+          "forecast": 0,
+          "actual": 0
+        }
+      ],
+      "phases": []
     }
   ],
   "waterAlerts": []

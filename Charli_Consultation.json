@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-14T12:29:04.009Z",
+  "generatedAt": "2026-10-14T12:34:08.859Z",
   "agents": [
     {
       "id": "a0",
@@ -10046,15 +10046,17 @@
       "id": "mmv6skin4j6fnq",
       "title": "MESCLADIS - Projet ecole",
       "bt": "000006299",
-      "team": "Moyens techniques",
+      "team": "DMT",
       "activity": "Autre",
       "location": "LE MESCLADIS",
-      "date": "",
+      "date": "2026-10-19",
       "slot": "Personnalisé",
       "startTime": "",
-      "duration": 1,
+      "duration": 0.25,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a8"
+      ],
       "vehicles": [],
       "requester": "Charlène GAURICHON",
       "description": "Mainti4 000006299\nDélai / urgence : Du 09/10/2026 11:39 au 09/10/2026 12:39\nDemande du : 09/10/2026\nDemandeur : Charlène GAURICHON\nÉtat Mainti4 : En attente",
@@ -10076,7 +10078,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-14T12:25:14.791Z"
+      "updatedAt": "2026-10-14T12:34:08.647Z"
     },
     {
       "id": "mmv6skin4kvqkx",

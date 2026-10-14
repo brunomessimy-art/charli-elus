@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-14T08:13:45.002Z",
+  "generatedAt": "2026-10-14T08:46:28.911Z",
   "agents": [
     {
       "id": "a0",
@@ -10676,13 +10676,24 @@
       "startDate": "",
       "endDate": "",
       "reportDate": "",
-      "observations": "",
+      "observations": "ATTENTE INTERVENTION ESPINAS",
       "issues": "",
       "nextAction": "",
       "blockers": "",
       "decision": "",
-      "updatedAt": "2026-10-05T19:20:53.997Z",
-      "companies": [],
+      "updatedAt": "2026-10-14T08:46:28.686Z",
+      "companies": [
+        {
+          "id": "comv7v7q5qqco60",
+          "name": "ESPINAS",
+          "contact": "",
+          "phone": "",
+          "email": "",
+          "specialty": "",
+          "forecast": 0,
+          "actual": 0
+        }
+      ],
       "phases": []
     },
     {

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-14T12:12:44.435Z",
+  "generatedAt": "2026-10-14T12:22:05.155Z",
   "agents": [
     {
       "id": "a0",
@@ -10081,17 +10081,21 @@
       "title": "intervention service espace vert",
       "bt": "000006298",
       "team": "Espaces verts",
-      "activity": "Autre",
+      "activity": "Débroussaillement",
       "location": "ANCIEN CHEMIN DE LODEVE",
-      "date": "",
+      "date": "2026-10-20",
       "slot": "Personnalisé",
       "startTime": "",
-      "duration": 1,
-      "agentCount": 1,
-      "agents": [],
+      "duration": 3,
+      "agentCount": 3,
+      "agents": [
+        "a5",
+        "a6",
+        "a7"
+      ],
       "vehicles": [],
       "requester": "PHILIPPE LASSALVY",
-      "description": "Mainti4 000006298\nDélai / urgence : SOUS 7 JOURS\nDemande du : 09/10/2026\nDemandeur : PHILIPPE LASSALVY\nÉtat Mainti4 : En attente",
+      "description": "Bonjour,\n\nMonsieur LASSALVY souhaiterait que le service espace vert passe sur l’ancien chemin de Lodève car il n’y intervienne jamais.",
       "report": "",
       "status": "À faire",
       "priority": "Normale",
@@ -10110,7 +10114,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-13T14:44:12.695Z"
+      "updatedAt": "2026-10-14T12:22:04.943Z"
     },
     {
       "id": "mmv6skin4tvpxt",

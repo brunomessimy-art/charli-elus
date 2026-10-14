@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-14T05:59:54.026Z",
+  "generatedAt": "2026-10-14T06:00:49.614Z",
   "agents": [
     {
       "id": "a0",
@@ -9390,15 +9390,17 @@
       "id": "mmv6skimx08wls",
       "title": "verrouillage porte entrée ALSH",
       "bt": "000006319",
-      "team": "Moyens techniques",
-      "activity": "Autre",
+      "team": "Bâtiment",
+      "activity": "Plomberie",
       "location": "MESCLADIS",
-      "date": "",
+      "date": "2026-10-14",
       "slot": "Personnalisé",
       "startTime": "",
-      "duration": 1,
+      "duration": 0.5,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a3"
+      ],
       "vehicles": [],
       "requester": "Charlène GAURICHON",
       "description": "Mainti4 000006319\nDélai / urgence : Du 13/10/2026 16:25 au 13/10/2026 17:25\nDemande du : 13/10/2026\nDemandeur : Charlène GAURICHON\nÉtat Mainti4 : En attente",
@@ -9420,7 +9422,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-14T05:55:58.657Z"
+      "updatedAt": "2026-10-14T06:00:49.386Z"
     },
     {
       "id": "mmv6skimzi6j93",

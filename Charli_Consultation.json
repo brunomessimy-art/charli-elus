@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-14T12:43:39.126Z",
+  "generatedAt": "2026-10-14T12:48:49.542Z",
   "agents": [
     {
       "id": "a0",
@@ -9682,18 +9682,20 @@
       "id": "mmv6skin2i0rq3",
       "title": "PROBLEME WC",
       "bt": "000006310",
-      "team": "Moyens techniques",
-      "activity": "Autre",
+      "team": "Bâtiment",
+      "activity": "Plomberie",
       "location": "STADE GUY PAULET",
-      "date": "",
+      "date": "2026-10-15",
       "slot": "Personnalisé",
       "startTime": "",
       "duration": 1,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a3"
+      ],
       "vehicles": [],
       "requester": "ROISNET",
-      "description": "Mainti4 000006310\nDélai / urgence : DANS LA JOURNÉE\nDemande du : 12/10/2026\nDemandeur : ROISNET\nÉtat Mainti4 : En attente",
+      "description": "Bonjour,\nLes deux chasses d'eau sont à revoir car elles fonctionnent mal",
       "report": "",
       "status": "À faire",
       "priority": "Urgente",
@@ -9712,7 +9714,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-13T14:44:12.694Z"
+      "updatedAt": "2026-10-14T12:48:49.310Z"
     },
     {
       "id": "mmv6skin24lqye",

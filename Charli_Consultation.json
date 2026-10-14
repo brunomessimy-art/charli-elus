@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-14T12:48:49.542Z",
+  "generatedAt": "2026-10-14T12:52:41.721Z",
   "agents": [
     {
       "id": "a0",
@@ -4586,12 +4586,14 @@
       "team": "Espaces verts",
       "activity": "Autre",
       "location": "CHEMIN DE NOTRE DAME",
-      "date": "",
+      "date": "2026-10-20",
       "slot": "Personnalisé",
       "startTime": "",
       "duration": 1,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a5"
+      ],
       "vehicles": [],
       "requester": "ADMINISTRE",
       "description": "EN HAUT U CHEMIN DE NOTRE DAME A COTE DES ECOLES DEUX OU 3 TAS D'HERBES QUI GENENT . UNE VIGNE EST AU DESSUS .\n\nMainti4 000006275\nDélai / urgence : SOUS 7 JOURS\nDemande du : 05/10/2026\nDemandeur : ADMINISTRE\nÉtat Mainti4 : En attente",
@@ -4613,7 +4615,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T08:27:18.280Z"
+      "updatedAt": "2026-10-14T12:52:41.510Z"
     },
     {
       "id": "mmuz9wl7e8uv6x",

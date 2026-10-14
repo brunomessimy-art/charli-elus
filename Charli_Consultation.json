@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-14T08:10:44.743Z",
+  "generatedAt": "2026-10-14T08:10:56.731Z",
   "agents": [
     {
       "id": "a0",
@@ -9901,7 +9901,7 @@
       "title": "LOGEMENT 10",
       "bt": "000006305",
       "team": "Bâtiment",
-      "activity": "Plomberie",
+      "activity": "Menuiserie",
       "location": "GENDARMERIE",
       "date": "2026-10-14",
       "slot": "Personnalisé",
@@ -9932,7 +9932,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-14T07:43:22.462Z"
+      "updatedAt": "2026-10-14T08:10:56.365Z"
     },
     {
       "id": "mmv6skin37hbye",

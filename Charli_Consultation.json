@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-14T08:49:23.782Z",
+  "generatedAt": "2026-10-14T08:49:47.465Z",
   "agents": [
     {
       "id": "a0",
@@ -10789,7 +10789,7 @@
       "nextAction": "",
       "blockers": "",
       "decision": "",
-      "updatedAt": "2026-10-14T08:48:40.670Z",
+      "updatedAt": "2026-10-14T08:49:47.253Z",
       "companies": [
         {
           "id": "comv7vashhx6m2y",

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-14T08:10:56.731Z",
+  "generatedAt": "2026-10-14T08:13:45.002Z",
   "agents": [
     {
       "id": "a0",
@@ -10365,6 +10365,44 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-13T14:44:12.695Z"
+    },
+    {
+      "id": "mmv7u19cf33068",
+      "title": "Aménagement SAS entrée",
+      "bt": "",
+      "team": "Bâtiment",
+      "activity": "Menuiserie",
+      "location": "",
+      "date": "2026-10-19",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 1,
+      "agentCount": 1,
+      "agents": [
+        "a1"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "Vu dimensions avec Didier :\n- pose de 2 tablettes pour présentation communication dans le sas\n- pose de film occultant sur la vitre du bas dans le sas",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-14T08:13:44.700Z"
     }
   ],
   "chantiers": [

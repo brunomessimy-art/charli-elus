@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-14T12:37:09.849Z",
+  "generatedAt": "2026-10-14T12:37:39.724Z",
   "agents": [
     {
       "id": "a0",
@@ -9937,14 +9937,16 @@
       "title": "DECHETS AU PARKING DU BOL D'AIR",
       "bt": "000006302",
       "team": "Propreté",
-      "activity": "Autre",
+      "activity": "Tournée 1",
       "location": "LE BOL D'AIR",
-      "date": "",
+      "date": "2026-10-15",
       "slot": "Personnalisé",
       "startTime": "",
       "duration": 1,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a13"
+      ],
       "vehicles": [],
       "requester": "Christelle CLAPIER",
       "description": "Mainti4 000006302\nDélai / urgence : SOUS 7 JOURS\nDemande du : 09/10/2026\nDemandeur : Christelle CLAPIER\nÉtat Mainti4 : En attente",
@@ -9966,7 +9968,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-13T14:44:12.695Z"
+      "updatedAt": "2026-10-14T12:37:39.502Z"
     },
     {
       "id": "mmv6skin4mdngd",

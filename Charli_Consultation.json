@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-14T05:58:48.775Z",
+  "generatedAt": "2026-10-14T05:59:22.629Z",
   "agents": [
     {
       "id": "a0",
@@ -8562,45 +8562,6 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-13T08:43:41.871Z"
-    },
-    {
-      "id": "mmv10gp42tm8zy",
-      "title": "MAINTENANCE ET ENTRETIEN DES EXTINCTEURS",
-      "bt": "",
-      "team": "Bâtiment",
-      "activity": "Maintenance",
-      "location": "BATIMENT",
-      "date": "2026-10-19",
-      "slot": "Personnalisé",
-      "startTime": "",
-      "duration": 0.5,
-      "agentCount": 2,
-      "agents": [
-        "a0",
-        "a3"
-      ],
-      "vehicles": [],
-      "requester": "",
-      "description": "Bonjour,\n\nla porte ne se verrouille plus à l'entrée de l'ALSH ( la touche en haut de la porte), est ce que quelqu'un peut venir voir svp ?\n\nNous avons un problème avec la fermeture automatique de la porte d'accueil de l'accueil de Loisirs Mescladis \n\nMerci\nCordialement\nCharlène GAURICHON\n06 76 32 85 59",
-      "report": "",
-      "status": "À faire",
-      "priority": "Normale",
-      "kind": "Ponctuelle",
-      "source": "Manuel",
-      "progress": null,
-      "watchLevel": "",
-      "watchNote": "",
-      "pinned": false,
-      "codir": false,
-      "project": "",
-      "projectStatus": "",
-      "nextStep": "",
-      "decision": "",
-      "deadline": "",
-      "terrainProblem": false,
-      "terrainComment": "",
-      "terrainProblemReport": "",
-      "updatedAt": "2026-10-14T05:58:04.264Z"
     },
     {
       "id": "mmv10hh9zcbps2",

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-14T08:09:51.846Z",
+  "generatedAt": "2026-10-14T08:10:44.743Z",
   "agents": [
     {
       "id": "a0",
@@ -9391,7 +9391,7 @@
       "title": "verrouillage porte entrée ALSH",
       "bt": "000006319",
       "team": "Bâtiment",
-      "activity": "Plomberie",
+      "activity": "Serrurerie",
       "location": "MESCLADIS",
       "date": "2026-10-14",
       "slot": "Personnalisé",
@@ -9422,7 +9422,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-14T07:42:10.504Z"
+      "updatedAt": "2026-10-14T08:10:44.469Z"
     },
     {
       "id": "mmv6skimzi6j93",

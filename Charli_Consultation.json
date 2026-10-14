@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-14T07:42:10.826Z",
+  "generatedAt": "2026-10-14T07:43:22.718Z",
   "agents": [
     {
       "id": "a0",
@@ -9909,7 +9909,7 @@
       ],
       "vehicles": [],
       "requester": "COMMANDANT BOUCHER DORIAN",
-      "description": "Mainti4 000006305\nDélai / urgence : DANS LA JOURNÉE\nDemande du : 12/10/2026\nDemandeur : COMMANDANT BOUCHER DORIAN\nÉtat Mainti4 : En attente",
+      "description": "Bonjour, \nmalgré l'intervention réalisée la semaine dernière, le problème est toujours d'actualité.\nCordialement\nBonjour, \nMerci de prendre en compte la demande d'intervention ci-après :\nAdresse : Gendarmerie - 576 chemin Ste Claire Roqueyrol 34150 GIGNAC\nLocal concerné : logement n°10\nOccupant : Capitaine Dorian BOUCHER  ----> tph perso: 0644316573\nDescriptif : volet manuel donnant sur la jardin à l'arrière  de l'habitation ne fonctionne plus (ne descend plus).",
       "report": "",
       "status": "À faire",
       "priority": "Urgente",
@@ -9928,7 +9928,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-13T14:52:09.140Z"
+      "updatedAt": "2026-10-14T07:43:22.462Z"
     },
     {
       "id": "mmv6skin37hbye",

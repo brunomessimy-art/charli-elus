@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-14T12:07:31.187Z",
+  "generatedAt": "2026-10-14T12:09:11.481Z",
   "agents": [
     {
       "id": "a0",
@@ -10261,17 +10261,19 @@
       "title": "PEINTURE DEGATS DES EAUX LOGEMENT 6",
       "bt": "000006293",
       "team": "Bâtiment",
-      "activity": "Autre",
+      "activity": "Peinture",
       "location": "GENDARMERIE",
-      "date": "",
+      "date": "2026-10-20",
       "slot": "Personnalisé",
       "startTime": "",
-      "duration": 1,
+      "duration": 7.5,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a1"
+      ],
       "vehicles": [],
       "requester": "ADJUDANT-CHEF SOUCHON Thierry",
-      "description": "Mainti4 000006293\nDélai / urgence : SOUS 7 JOURS\nDemande du : 08/10/2026\nDemandeur : ADJUDANT-CHEF SOUCHON Thierry\nÉtat Mainti4 : En attente",
+      "description": "MME LOISON GENDARME EST VENUE A L'ACUEIL POUR SIGNALER QUE LA PEINTURE AU LOGMENT 6 N' A PAS ETE FAITE SUITE AU DEGATS DES EAUX ELLE ATTEND TOUOURS SON NUMERO  MME LOISON 0667654113",
       "report": "",
       "status": "À faire",
       "priority": "Normale",
@@ -10290,7 +10292,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-13T14:44:12.695Z"
+      "updatedAt": "2026-10-14T12:09:11.250Z"
     },
     {
       "id": "mmv7u19cf33068",

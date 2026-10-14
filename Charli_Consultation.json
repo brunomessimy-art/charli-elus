@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-14T12:09:11.481Z",
+  "generatedAt": "2026-10-14T12:12:27.061Z",
   "agents": [
     {
       "id": "a0",
@@ -10237,11 +10237,11 @@
       "requester": "ADMINISTRE",
       "description": "Mainti4 000006294\nDélai / urgence : DANS LA JOURNÉE\nDemande du : 08/10/2026\nDemandeur : ADMINISTRE\nÉtat Mainti4 : En attente",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Urgente",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Demandes",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -10254,7 +10254,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-13T14:44:12.695Z"
+      "updatedAt": "2026-10-14T12:12:26.849Z"
     },
     {
       "id": "mmv6skin42qbml",

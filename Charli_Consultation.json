@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-14T07:59:39.897Z",
+  "generatedAt": "2026-10-14T08:09:06.743Z",
   "agents": [
     {
       "id": "a0",
@@ -9538,18 +9538,20 @@
       "id": "mmv6skin0smj31",
       "title": "PROBLEME ECLAIRAGE SYNTHETIQUE",
       "bt": "000006315",
-      "team": "Moyens techniques",
-      "activity": "Autre",
+      "team": "Bâtiment",
+      "activity": "Électricité",
       "location": "STADE SYNTHETIQUE",
-      "date": "",
+      "date": "2026-10-14",
       "slot": "Personnalisé",
       "startTime": "",
       "duration": 1,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a3"
+      ],
       "vehicles": [],
       "requester": "ROISNET",
-      "description": "Mainti4 000006315\nDélai / urgence : DANS LA JOURNÉE\nDemande du : 13/10/2026\nDemandeur : ROISNET\nÉtat Mainti4 : En attente",
+      "description": "MAIL RECU CE JOUR PAR LE FOOT A 7 :\nUn des éclairage du synthétique ne s’allume pas, plus exactement la clef ne tourne pas, on dirait selle a été forcé.",
       "report": "",
       "status": "À faire",
       "priority": "Urgente",
@@ -9568,7 +9570,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-13T14:44:12.693Z"
+      "updatedAt": "2026-10-14T08:09:06.517Z"
     },
     {
       "id": "mmv6skin0rxs55",

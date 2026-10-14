@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-14T05:54:34.048Z",
+  "generatedAt": "2026-10-14T05:55:58.916Z",
   "agents": [
     {
       "id": "a0",
@@ -9441,7 +9441,7 @@
       "requester": "Charlène GAURICHON",
       "description": "Mainti4 000006319\nDélai / urgence : Du 13/10/2026 16:25 au 13/10/2026 17:25\nDemande du : 13/10/2026\nDemandeur : Charlène GAURICHON\nÉtat Mainti4 : En attente",
       "report": "",
-      "status": "Terminée",
+      "status": "À faire",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Demandes",
@@ -9458,7 +9458,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-14T05:54:33.729Z"
+      "updatedAt": "2026-10-14T05:55:58.657Z"
     },
     {
       "id": "mmv6skimzi6j93",

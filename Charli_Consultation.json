@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-14T12:22:05.155Z",
+  "generatedAt": "2026-10-14T12:24:33.489Z",
   "agents": [
     {
       "id": "a0",
@@ -10065,7 +10065,7 @@
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
-      "codir": false,
+      "codir": true,
       "project": "",
       "projectStatus": "",
       "nextStep": "",
@@ -10074,7 +10074,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-13T14:44:12.695Z"
+      "updatedAt": "2026-10-14T12:24:33.280Z"
     },
     {
       "id": "mmv6skin4kvqkx",

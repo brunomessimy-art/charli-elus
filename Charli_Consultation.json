@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-14T12:28:23.754Z",
+  "generatedAt": "2026-10-14T12:29:04.009Z",
   "agents": [
     {
       "id": "a0",
@@ -9908,7 +9908,9 @@
       "startTime": "",
       "duration": 0.25,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a8"
+      ],
       "vehicles": [],
       "requester": "DIRECTION ECOLE PRIMAIRE",
       "description": "Mainti4 000006304\nDélai / urgence : Du 02/11/2026 16:36 au 02/11/2026 17:36\nDemande du : 09/10/2026\nDemandeur : DIRECTION ECOLE PRIMAIRE\nÉtat Mainti4 : En attente",
@@ -9930,7 +9932,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-14T12:28:23.543Z"
+      "updatedAt": "2026-10-14T12:29:03.791Z"
     },
     {
       "id": "mmv6skin3ayxil",

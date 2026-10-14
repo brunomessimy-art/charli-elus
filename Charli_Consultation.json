@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-14T12:52:46.623Z",
+  "generatedAt": "2026-10-14T12:52:57.791Z",
   "agents": [
     {
       "id": "a0",
@@ -8109,44 +8109,6 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-09T13:45:42.429Z"
-    },
-    {
-      "id": "mmv0rotpcbhjnh",
-      "title": "INTERVENTIONS URGENTES TOUT CORPS D'ETAT + ELEC",
-      "bt": "",
-      "team": "Bâtiment",
-      "activity": "Plomberie",
-      "location": "",
-      "date": "",
-      "slot": "Personnalisé",
-      "startTime": "",
-      "duration": 1,
-      "agentCount": 1,
-      "agents": [
-        "a3"
-      ],
-      "vehicles": [],
-      "requester": "",
-      "description": "",
-      "report": "",
-      "status": "À faire",
-      "priority": "Normale",
-      "kind": "Ponctuelle",
-      "source": "Manuel",
-      "progress": 100,
-      "watchLevel": "",
-      "watchNote": "",
-      "pinned": false,
-      "codir": false,
-      "project": "",
-      "projectStatus": "",
-      "nextStep": "",
-      "decision": "",
-      "deadline": "2026-10-13",
-      "terrainProblem": false,
-      "terrainComment": "",
-      "terrainProblemReport": "",
-      "updatedAt": "2026-10-09T09:33:02.691Z"
     },
     {
       "id": "mmv0rpaguxeplv",

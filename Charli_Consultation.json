@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-14T12:24:33.489Z",
+  "generatedAt": "2026-10-14T12:25:15.020Z",
   "agents": [
     {
       "id": "a0",
@@ -10069,12 +10069,12 @@
       "project": "",
       "projectStatus": "",
       "nextStep": "",
-      "decision": "",
+      "decision": "Bonjour,\n\ndans la cadre de leur classe, des enseignants dont M.Aznar ont un projet de potager tout au fond de la pinede (coté tambourin)\n\nIls ont donc besoin de la préparation d'une planche de maraichage. La zone à préparer est identifiée avec du rubalise. La largeur de la planche  est de 1m (80 cm utile)\nLabourer sur une trentaine de cm de profond\nEpandre du compost (10 cm)\nPasser le rotovator, les disques pour préparer la surface pour le semis de fèves en novembre\n\nAttention, cet espace est utilisé par l'accueil de loisirs pendant les vacances de 7h30 à 18h30",
       "deadline": "",
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-14T12:24:33.280Z"
+      "updatedAt": "2026-10-14T12:25:14.791Z"
     },
     {
       "id": "mmv6skin4kvqkx",

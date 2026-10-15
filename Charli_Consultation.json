@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-15T06:13:31.835Z",
+  "generatedAt": "2026-10-15T06:13:55.800Z",
   "agents": [
     {
       "id": "a0",
@@ -10452,7 +10452,7 @@
       "location": "CANTINE + DORTOIR",
       "description": "Fourniture et mise en place de clim par l'entreprise Eco elek",
       "manager": "Bruno CIALDELLA",
-      "status": "À préparer",
+      "status": "Terminé",
       "priority": "Haute",
       "progress": 100,
       "watchLevel": "",
@@ -10467,7 +10467,7 @@
       "nextAction": "",
       "blockers": "",
       "decision": "",
-      "updatedAt": "2026-10-15T06:12:14.034Z",
+      "updatedAt": "2026-10-15T06:13:55.519Z",
       "companies": [
         {
           "id": "comv52e8ymu65ww",

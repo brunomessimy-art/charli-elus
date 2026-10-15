@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-15T13:10:18.690Z",
+  "generatedAt": "2026-10-15T13:10:23.045Z",
   "agents": [
     {
       "id": "a0",
@@ -6174,7 +6174,7 @@
       "requester": "",
       "description": "Entretien du cimetiere.",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S41 → S42",
@@ -6191,7 +6191,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-09T06:24:38.885Z"
+      "updatedAt": "2026-10-15T13:10:22.809Z"
     },
     {
       "id": "mmv0qi72orerhw",

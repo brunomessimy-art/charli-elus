@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-15T06:06:01.674Z",
+  "generatedAt": "2026-10-15T06:10:21.458Z",
   "agents": [
     {
       "id": "a0",
@@ -7070,7 +7070,7 @@
       "requester": "",
       "description": "Tournée en binôme Simon / Philippe - AGENT: Philippe - DATE: 09/02/2026 - DUREE: 7 h 30",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S41 → S42",
@@ -7087,7 +7087,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T09:47:00.910Z"
+      "updatedAt": "2026-10-15T06:10:21.182Z"
     },
     {
       "id": "mmv0rlt2izmom2",

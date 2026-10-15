@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-15T13:25:39.881Z",
+  "generatedAt": "2026-10-15T13:25:53.499Z",
   "agents": [
     {
       "id": "a0",
@@ -8205,7 +8205,7 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Manuel",
@@ -8222,7 +8222,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-14T08:09:33.847Z"
+      "updatedAt": "2026-10-15T13:25:45.304Z"
     },
     {
       "id": "mmv0rquxhftp38",
@@ -8548,11 +8548,11 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Manuel",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -8565,7 +8565,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-09T13:39:59.663Z"
+      "updatedAt": "2026-10-15T13:25:47.226Z"
     },
     {
       "id": "mmv10jv6ezax2j",
@@ -8622,11 +8622,11 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Manuel",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -8639,7 +8639,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-09T13:43:25.011Z"
+      "updatedAt": "2026-10-15T13:25:49.096Z"
     },
     {
       "id": "mmv11ff357y0bm",
@@ -9405,11 +9405,11 @@
       "requester": "ROISNET",
       "description": "MAIL RECU CE JOUR PAR LE FOOT A 7 :\nUn des éclairage du synthétique ne s’allume pas, plus exactement la clef ne tourne pas, on dirait selle a été forcé.",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Urgente",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Demandes",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -9422,7 +9422,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-14T08:09:51.631Z"
+      "updatedAt": "2026-10-15T13:25:51.025Z"
     },
     {
       "id": "mmv6skin0winnd",
@@ -9515,11 +9515,11 @@
       "requester": "ROISNET",
       "description": "Bonjour,\nLes deux chasses d'eau sont à revoir car elles fonctionnent mal",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Urgente",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Demandes",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -9532,7 +9532,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-14T12:48:49.310Z"
+      "updatedAt": "2026-10-15T13:25:53.256Z"
     },
     {
       "id": "mmv6skin24lqye",

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-15T13:25:53.499Z",
+  "generatedAt": "2026-10-15T13:27:48.424Z",
   "agents": [
     {
       "id": "a0",
@@ -5905,7 +5905,7 @@
       "requester": "",
       "description": "Clim écoles (Dortoirs et Véranda) - equipe DMT",
       "report": "Clim dortoir réalisée\nClim cantine vacance Toussaint",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S41 → S42",
@@ -5922,7 +5922,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T11:08:09.501Z"
+      "updatedAt": "2026-10-15T13:27:48.186Z"
     },
     {
       "id": "mmv0qi72nu099r",

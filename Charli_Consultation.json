@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-15T06:10:49.027Z",
+  "generatedAt": "2026-10-15T06:12:14.399Z",
   "agents": [
     {
       "id": "a0",
@@ -10454,11 +10454,11 @@
       "manager": "Bruno CIALDELLA",
       "status": "À préparer",
       "priority": "Haute",
-      "progress": 50,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "Secteur scolaire",
       "pinned": true,
-      "codir": false,
+      "codir": true,
       "startDate": "",
       "endDate": "",
       "reportDate": "",
@@ -10467,7 +10467,7 @@
       "nextAction": "",
       "blockers": "",
       "decision": "",
-      "updatedAt": "2026-10-12T09:45:42.132Z",
+      "updatedAt": "2026-10-15T06:12:14.034Z",
       "companies": [
         {
           "id": "comv52e8ymu65ww",

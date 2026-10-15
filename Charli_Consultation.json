@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-15T06:13:55.800Z",
+  "generatedAt": "2026-10-15T06:23:09.675Z",
   "agents": [
     {
       "id": "a0",
@@ -9855,7 +9855,7 @@
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
-      "codir": true,
+      "codir": false,
       "project": "",
       "projectStatus": "",
       "nextStep": "",
@@ -9864,7 +9864,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-14T12:34:08.647Z"
+      "updatedAt": "2026-10-15T06:23:09.417Z"
     },
     {
       "id": "mmv6skin4kvqkx",
@@ -10262,7 +10262,7 @@
       "activity": "Autre",
       "location": "ESPACE SPORTIF",
       "date": "",
-      "slot": "",
+      "slot": "Personnalisé",
       "startTime": "",
       "duration": 1,
       "agentCount": 1,
@@ -10298,7 +10298,7 @@
       "activity": "Autre",
       "location": "HALLE DES SPORTS",
       "date": "",
-      "slot": "",
+      "slot": "Personnalisé",
       "startTime": "",
       "duration": 1,
       "agentCount": 1,

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-15T06:12:14.399Z",
+  "generatedAt": "2026-10-15T06:12:42.229Z",
   "agents": [
     {
       "id": "a0",
@@ -10704,7 +10704,7 @@
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
-      "codir": false,
+      "codir": true,
       "startDate": "2026-10-14",
       "endDate": "",
       "reportDate": "",
@@ -10713,7 +10713,7 @@
       "nextAction": "",
       "blockers": "",
       "decision": "",
-      "updatedAt": "2026-10-14T08:49:47.253Z",
+      "updatedAt": "2026-10-15T06:12:42.044Z",
       "companies": [
         {
           "id": "comv7vashhx6m2y",

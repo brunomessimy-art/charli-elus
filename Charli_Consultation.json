@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-15T12:29:24.984Z",
+  "generatedAt": "2026-10-15T12:31:53.950Z",
   "agents": [
     {
       "id": "a0",
@@ -10325,6 +10325,44 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-15T06:06:01.423Z"
+    },
+    {
+      "id": "mmv9ioy2z58vb6",
+      "title": "FERMER LA MAISON DU FLEUVE",
+      "bt": "",
+      "team": "Bâtiment",
+      "activity": "Menuiserie",
+      "location": "MAISON DU FLEUVE",
+      "date": "2026-10-20",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 1,
+      "agentCount": 1,
+      "agents": [
+        "a3"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-15T12:31:53.693Z"
     }
   ],
   "chantiers": [

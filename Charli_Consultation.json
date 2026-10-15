@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-15T13:25:10.415Z",
+  "generatedAt": "2026-10-15T13:25:15.731Z",
   "agents": [
     {
       "id": "a0",
@@ -9025,11 +9025,11 @@
       "requester": "",
       "description": "Mission d'infiltration à la gendarmerie pour l'équipe Bâtiment.",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Dictée IA : Une mission pour l'équipe bâtiment, Wilfried, aujourd'hui, infiltration à la gendarmerie.",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -9042,7 +9042,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-12T06:54:36.482Z"
+      "updatedAt": "2026-10-15T13:25:15.416Z"
     },
     {
       "id": "mmv6a9ic3zg0cv",

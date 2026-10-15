@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-15T06:10:29.286Z",
+  "generatedAt": "2026-10-15T06:10:39.282Z",
   "agents": [
     {
       "id": "a0",
@@ -7293,7 +7293,7 @@
       "requester": "",
       "description": "Nettoyage parking mairie + Karcher parvis - AGENT: Bruno M. - DATE: 09/02/2026 - DUREE: 3",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S41 → S42",
@@ -7310,7 +7310,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T09:47:42.376Z"
+      "updatedAt": "2026-10-15T06:10:30.045Z"
     },
     {
       "id": "mmv0rlt2io6c9r",
@@ -7331,7 +7331,7 @@
       "requester": "",
       "description": "Tournée 2 - AGENT: Philippe - DATE: 10/02/2026 - DUREE: 7 h 30",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S41 → S42",
@@ -7348,7 +7348,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-09T08:35:41.970Z"
+      "updatedAt": "2026-10-15T06:10:34.960Z"
     },
     {
       "id": "mmv0rlt2i3zont",
@@ -7407,7 +7407,7 @@
       "requester": "",
       "description": "Goupil en binôme Simon / Fabrice - AGENT: Fabrice - DATE: 10/02/2026 - DUREE: 4 h 00",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S41 → S42",
@@ -7424,7 +7424,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T09:47:45.147Z"
+      "updatedAt": "2026-10-15T06:10:36.245Z"
     },
     {
       "id": "mmv0rlt2iotml1",
@@ -7523,7 +7523,7 @@
       "requester": "",
       "description": "Grande balayeuse - lotissements - AGENT: Bruno M. - DATE: 11/02/2026 - DUREE: 7 h 30",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S41 → S42",
@@ -7540,7 +7540,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T09:47:47.221Z"
+      "updatedAt": "2026-10-15T06:10:37.613Z"
     },
     {
       "id": "mmv0rlt2ir40pc",
@@ -7788,7 +7788,7 @@
       "requester": "",
       "description": "Petite balayeuse - AGENT: Mickael N. - DATE: 09/02/2026 - DUREE: 3 h 00",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S41 → S42",
@@ -7805,7 +7805,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-09T08:47:19.146Z"
+      "updatedAt": "2026-10-15T06:10:39.044Z"
     },
     {
       "id": "mmv0rlt2jwm8v5",

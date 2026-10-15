@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-15T12:11:55.218Z",
+  "generatedAt": "2026-10-15T12:23:27.879Z",
   "agents": [
     {
       "id": "a0",
@@ -10330,7 +10330,7 @@
   "chantiers": [
     {
       "id": "chmuuvfq9taiyfn",
-      "name": "INFILTRATION BATIMENT",
+      "name": "INFILTRATION MEDIATHEQUE",
       "location": "",
       "description": "Bâtiments concernés : Médiathèque, HDS, Sportif, RIVERAL\nPassage de wilfried le mardi 6/10 pas situé la fuite...",
       "manager": "",
@@ -10349,7 +10349,7 @@
       "nextAction": "",
       "blockers": "",
       "decision": "",
-      "updatedAt": "2026-10-07T08:58:14.417Z",
+      "updatedAt": "2026-10-15T12:23:27.565Z",
       "companies": [
         {
           "id": "comuuvhltms2fg9",
@@ -10416,6 +10416,18 @@
           "status": "À venir",
           "duration": "",
           "report": "Contacté ce jour ils doivent me rappeler",
+          "watchLevel": "",
+          "watchNote": ""
+        },
+        {
+          "id": "phmv9idn5of9sx4",
+          "name": "",
+          "date": "2026-10-20",
+          "companyId": "comuwnq87zyz1mw",
+          "mission": "DEVIS",
+          "status": "À venir",
+          "duration": "",
+          "report": "JORIS SERA PRESENT SUR LE CHANTIER",
           "watchLevel": "",
           "watchNote": ""
         }

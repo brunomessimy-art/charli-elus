@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-15T12:38:59.967Z",
+  "generatedAt": "2026-10-15T12:40:12.512Z",
   "agents": [
     {
       "id": "a0",
@@ -10399,6 +10399,44 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-15T12:33:48.514Z"
+    },
+    {
+      "id": "mmv9izmybhuild",
+      "title": "PASSAGE DE LA GROSSE BALAYEUSE SUR LE PARKING DES ATELIERS DE LA REGIE",
+      "bt": "",
+      "team": "Propreté",
+      "activity": "Lavage",
+      "location": "ATELIERS DE LA REGIE",
+      "date": "2026-10-16",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 1,
+      "agentCount": 1,
+      "agents": [
+        "a12"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-15T12:40:12.200Z"
     }
   ],
   "chantiers": [

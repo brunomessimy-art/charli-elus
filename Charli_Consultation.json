@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-15T13:00:11.526Z",
+  "generatedAt": "2026-10-15T13:00:29.457Z",
   "agents": [
     {
       "id": "a0",
@@ -10812,7 +10812,7 @@
       "status": "À préparer",
       "priority": "Haute",
       "progress": null,
-      "watchLevel": "",
+      "watchLevel": "Vigilance",
       "watchNote": "",
       "pinned": false,
       "codir": true,
@@ -10824,7 +10824,7 @@
       "nextAction": "",
       "blockers": "",
       "decision": "",
-      "updatedAt": "2026-10-15T13:00:11.321Z",
+      "updatedAt": "2026-10-15T13:00:29.259Z",
       "companies": [],
       "phases": []
     }

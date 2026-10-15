@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-15T06:10:39.282Z",
+  "generatedAt": "2026-10-15T06:10:49.027Z",
   "agents": [
     {
       "id": "a0",
@@ -7445,7 +7445,7 @@
       "requester": "",
       "description": "Grande balayeuse en binôme Mickael / Bruno - AGENT: Mickael N. - DATE: 10/02/2026 -",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S41 → S42",
@@ -7462,7 +7462,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T09:47:50.185Z"
+      "updatedAt": "2026-10-15T06:10:44.568Z"
     },
     {
       "id": "mmv0rlt2intpm7",
@@ -7485,7 +7485,7 @@
       "requester": "",
       "description": "Mairie + cours des écoles - AGENT: Simon - DATE: 11/02/2026 - DUREE: 3 h 00",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S41 → S42",
@@ -7502,7 +7502,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T09:47:51.050Z"
+      "updatedAt": "2026-10-15T06:10:45.661Z"
     },
     {
       "id": "mmv0rlt2i1kfja",
@@ -7750,7 +7750,7 @@
       "requester": "",
       "description": "équipe propreté nettoyer les délaissés autour de l'école maternelle",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S41 → S42",
@@ -7767,7 +7767,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T09:47:52.783Z"
+      "updatedAt": "2026-10-15T06:10:46.488Z"
     },
     {
       "id": "mmv0rlt2junn3f",
@@ -7826,7 +7826,7 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S41 → S42",
@@ -7843,7 +7843,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-09T08:39:22.479Z"
+      "updatedAt": "2026-10-15T06:10:47.204Z"
     },
     {
       "id": "mmv0rlt2j8jxyq",
@@ -7865,7 +7865,7 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S41 → S42",
@@ -7882,7 +7882,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-09T08:47:25.472Z"
+      "updatedAt": "2026-10-15T06:10:47.996Z"
     },
     {
       "id": "mmv0rlt2jbnojd",
@@ -7903,7 +7903,7 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S41 → S42",
@@ -7920,7 +7920,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-09T08:47:26.195Z"
+      "updatedAt": "2026-10-15T06:10:48.780Z"
     },
     {
       "id": "mmv0rlt2jifv6z",

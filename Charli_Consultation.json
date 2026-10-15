@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-15T12:23:27.879Z",
+  "generatedAt": "2026-10-15T12:29:24.984Z",
   "agents": [
     {
       "id": "a0",
@@ -10332,7 +10332,7 @@
       "id": "chmuuvfq9taiyfn",
       "name": "INFILTRATION MEDIATHEQUE",
       "location": "",
-      "description": "Bâtiments concernés : Médiathèque, HDS, Sportif, RIVERAL\nPassage de wilfried le mardi 6/10 pas situé la fuite...",
+      "description": "Bâtiments concernés : Médiathèque, HDS, Sportif, RIVERAL\nPassage de wilfried le mardi 6/10 pas situé la fuite...\n15/10/26 relance par téléphone et par mail ce jour pour date d'intervention",
       "manager": "",
       "status": "À préparer",
       "priority": "Normale",
@@ -10349,7 +10349,7 @@
       "nextAction": "",
       "blockers": "",
       "decision": "",
-      "updatedAt": "2026-10-15T12:23:27.565Z",
+      "updatedAt": "2026-10-15T12:29:24.560Z",
       "companies": [
         {
           "id": "comuuvhltms2fg9",
@@ -10408,18 +10408,6 @@
           "watchNote": ""
         },
         {
-          "id": "phmuwnquntoh6hc",
-          "name": "",
-          "date": "2026-10-06",
-          "companyId": "comuwnq87zyz1mw",
-          "mission": "",
-          "status": "À venir",
-          "duration": "",
-          "report": "Contacté ce jour ils doivent me rappeler",
-          "watchLevel": "",
-          "watchNote": ""
-        },
-        {
           "id": "phmv9idn5of9sx4",
           "name": "",
           "date": "2026-10-20",
@@ -10428,6 +10416,18 @@
           "status": "À venir",
           "duration": "",
           "report": "JORIS SERA PRESENT SUR LE CHANTIER",
+          "watchLevel": "",
+          "watchNote": ""
+        },
+        {
+          "id": "phmv9ihzez9l9z1",
+          "name": "",
+          "date": "",
+          "companyId": "",
+          "mission": "",
+          "status": "À venir",
+          "duration": "",
+          "report": "",
           "watchLevel": "",
           "watchNote": ""
         }

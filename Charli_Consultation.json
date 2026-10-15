@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-15T12:52:29.317Z",
+  "generatedAt": "2026-10-15T12:59:52.179Z",
   "agents": [
     {
       "id": "a0",
@@ -10801,6 +10801,31 @@
           "actual": 0
         }
       ],
+      "phases": []
+    },
+    {
+      "id": "chmv9jlv5tq9s1d",
+      "name": "RENOUVELLEMENT DES EXTINCTEURS AU FLUOR POUR 2028",
+      "location": "ENSEMBLE DES BATIMENTS DE LA COMMUNE",
+      "description": "A PARTIR DE 2028 L4UTILISATION DES EXTINCTEURS AU FLUOR SERA INTERDIT CELA CONCERNE LA QUASI INTEGRALITE DE NOTRE PARC",
+      "manager": "BENJAMIN G",
+      "status": "Planifié",
+      "priority": "Haute",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": true,
+      "startDate": "",
+      "endDate": "",
+      "reportDate": "",
+      "observations": "",
+      "issues": "",
+      "nextAction": "",
+      "blockers": "",
+      "decision": "",
+      "updatedAt": "2026-10-15T12:59:51.962Z",
+      "companies": [],
       "phases": []
     }
   ],

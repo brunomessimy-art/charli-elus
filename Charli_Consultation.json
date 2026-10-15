@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-15T06:12:42.229Z",
+  "generatedAt": "2026-10-15T06:13:07.061Z",
   "agents": [
     {
       "id": "a0",
@@ -10700,7 +10700,7 @@
       "manager": "Bruno CIALDELLA",
       "status": "À préparer",
       "priority": "Normale",
-      "progress": null,
+      "progress": 10,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -10713,7 +10713,7 @@
       "nextAction": "",
       "blockers": "",
       "decision": "",
-      "updatedAt": "2026-10-15T06:12:42.044Z",
+      "updatedAt": "2026-10-15T06:13:06.845Z",
       "companies": [
         {
           "id": "comv7vashhx6m2y",

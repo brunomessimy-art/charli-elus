@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-15T13:14:30.210Z",
+  "generatedAt": "2026-10-15T13:14:56.257Z",
   "agents": [
     {
       "id": "a0",
@@ -6880,11 +6880,11 @@
       "requester": "",
       "description": "pour l'équipe espace vert couper les branches basses des platanes avant l'arrivée des forains sur la partie haute du jeu de ballon",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S41 → S42",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -6897,7 +6897,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": ""
+      "updatedAt": "2026-10-15T13:14:56.017Z"
     },
     {
       "id": "mmv0qi72qkdtx5",

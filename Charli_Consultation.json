@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-15T13:07:46.494Z",
+  "generatedAt": "2026-10-15T13:09:00.989Z",
   "agents": [
     {
       "id": "a0",
@@ -10437,6 +10437,44 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-15T12:43:08.666Z"
+    },
+    {
+      "id": "mmv9k0k4169f3v",
+      "title": "ROBINET TOILETTES JEU DE BALLON ENTARTRE",
+      "bt": "",
+      "team": "Bâtiment",
+      "activity": "Plomberie",
+      "location": "WC JEU DE BALLON",
+      "date": "2026-10-16",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 1,
+      "agentCount": 1,
+      "agents": [
+        "a3"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-15T13:09:00.777Z"
     }
   ],
   "chantiers": [

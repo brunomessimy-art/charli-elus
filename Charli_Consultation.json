@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-15T12:59:52.179Z",
+  "generatedAt": "2026-10-15T13:00:11.526Z",
   "agents": [
     {
       "id": "a0",
@@ -10809,7 +10809,7 @@
       "location": "ENSEMBLE DES BATIMENTS DE LA COMMUNE",
       "description": "A PARTIR DE 2028 L4UTILISATION DES EXTINCTEURS AU FLUOR SERA INTERDIT CELA CONCERNE LA QUASI INTEGRALITE DE NOTRE PARC",
       "manager": "BENJAMIN G",
-      "status": "Planifié",
+      "status": "À préparer",
       "priority": "Haute",
       "progress": null,
       "watchLevel": "",
@@ -10824,7 +10824,7 @@
       "nextAction": "",
       "blockers": "",
       "decision": "",
-      "updatedAt": "2026-10-15T12:59:51.962Z",
+      "updatedAt": "2026-10-15T13:00:11.321Z",
       "companies": [],
       "phases": []
     }

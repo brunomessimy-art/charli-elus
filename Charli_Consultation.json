@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-16T06:11:28.027Z",
+  "generatedAt": "2026-10-16T06:11:32.562Z",
   "agents": [
     {
       "id": "a0",
@@ -4875,11 +4875,11 @@
       "requester": "",
       "description": "Installation d'un caïboutis rue Massalat par l'équipe voirie.",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Dictée IA : Mise en place d'un caïboutis rue Massalat par l'équipe voirie.",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -4892,7 +4892,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-09T14:10:28.000Z"
+      "updatedAt": "2026-10-16T06:11:32.253Z"
     },
     {
       "id": "mmuzm5j077hd28",

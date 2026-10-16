@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-16T07:02:46.587Z",
+  "generatedAt": "2026-10-16T07:02:55.239Z",
   "agents": [
     {
       "id": "a0",
@@ -7109,7 +7109,7 @@
       "requester": "",
       "description": "Tournée en binôme Simon / Philippe - AGENT: Simon - DATE: 09/02/2026 - DUREE: 7 h 30",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S41 → S42",
@@ -7126,7 +7126,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T09:47:59.678Z"
+      "updatedAt": "2026-10-16T07:02:49.657Z"
     },
     {
       "id": "mmv0rlt2i9inlp",
@@ -7635,7 +7635,7 @@
       "requester": "",
       "description": "WC publics - AGENT: Fabrice - DATE: 13/02/2026 - DUREE: 2 h 30",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S41 → S42",
@@ -7652,7 +7652,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T09:48:01.201Z"
+      "updatedAt": "2026-10-16T07:02:50.651Z"
     },
     {
       "id": "mmv0rlt2jhfyk4",
@@ -7673,7 +7673,7 @@
       "requester": "",
       "description": "Grande balayeuse - préparation marché - AGENT: Bruno M. - DATE: 13/02/2026 - DUREE: 7 h",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S41 → S42",
@@ -7690,7 +7690,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-15T12:37:37.173Z"
+      "updatedAt": "2026-10-16T07:02:51.450Z"
     },
     {
       "id": "mmv0rlt2jq5wv3",
@@ -7711,7 +7711,7 @@
       "requester": "ADMINISTRE",
       "description": "passage balayeuse 5 impasse des courlis 2 ème relance.\nBonjour, madame diaz, c'est madame Matthieu au loutissement adresse, 5 impasse des courlis   ça fait deux relances que je fais pour omvien  passer la balayeuse  devant chez moi dans l'chemin, c'est pourri, c'est vraiment pourri il ua debma boue voyer les\n\nMainti4 000006283\nDélai / urgence : SOUS 7 JOURS\nDemande du : 06/10/2026\nDemandeur : ADMINISTRE\nÉtat Mainti4 : En attente",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S41 → S42",
@@ -7728,7 +7728,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T09:48:04.646Z"
+      "updatedAt": "2026-10-16T07:02:52.311Z"
     },
     {
       "id": "mmv0rlt2jm8n6z",
@@ -8017,7 +8017,7 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S41 → S42",
@@ -8034,7 +8034,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-09T08:47:30.793Z"
+      "updatedAt": "2026-10-16T07:02:53.174Z"
     },
     {
       "id": "mmv0rlt2jn6r9d",
@@ -8053,7 +8053,7 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S41 → S42",
@@ -8070,7 +8070,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-09T08:47:31.561Z"
+      "updatedAt": "2026-10-16T07:02:54.031Z"
     },
     {
       "id": "mmv0rnm96hjv63",
@@ -10419,11 +10419,11 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Urgente",
       "kind": "Ponctuelle",
       "source": "Manuel",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -10436,7 +10436,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-15T12:43:08.666Z"
+      "updatedAt": "2026-10-16T07:02:54.938Z"
     },
     {
       "id": "mmv9k0k4169f3v",

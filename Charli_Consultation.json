@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-16T06:32:49.504Z",
+  "generatedAt": "2026-10-16T06:47:06.530Z",
   "agents": [
     {
       "id": "a0",
@@ -11637,6 +11637,45 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-15T12:43:08.666Z"
+    },
+    {
+      "id": "mmvalrtg8qlkvu",
+      "title": "INSTALLATION PETIT PODIUM AU PESU 10 M² CONTACTER LE POMPIER ARNAUDIN",
+      "bt": "",
+      "team": "Festivités",
+      "activity": "Installation de manifestations et événements",
+      "location": "",
+      "date": "2026-11-03",
+      "slot": "Personnalisé",
+      "startTime": "08:00",
+      "duration": 2.5,
+      "agentCount": 2,
+      "agents": [
+        "a15",
+        "amupb01cp96x3c"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-16T06:47:06.266Z"
     }
   ],
   "chantiers": [

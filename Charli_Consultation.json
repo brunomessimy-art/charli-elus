@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-16T07:01:30.957Z",
+  "generatedAt": "2026-10-16T07:01:45.393Z",
   "agents": [
     {
       "id": "a0",
@@ -778,11 +778,11 @@
       "requester": "ROISNET",
       "description": "Bonjour,\nCi-joint FM à réaliser.\nMerci\n\nMainti4 000006243\nDélai / urgence : Jusqu'au 13/11/2026 08:00\nDemande du : 25/09/2026\nDemandeur : ROISNET\nÉtat Mainti4 : En attente",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Demandes",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -795,7 +795,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": ""
+      "updatedAt": "2026-10-16T07:01:40.335Z"
     },
     {
       "id": "mmupa7mawc0z8o",
@@ -6407,11 +6407,11 @@
       "requester": "Sandra THOMAS",
       "description": "Estelle,\nJe viens de recevoir ce message de Monsieur Charpail.\nIl faudrait aller récupérer les softs à Délices Traiteur et les ramener à la cantine quand quelqu’un sera disponible.\nMerci\n\nMainti4 000006273\nDélai / urgence : SOUS 7 JOURS\nDemande du : 02/10/2026\nDemandeur : Sandra THOMAS\nÉtat Mainti4 : En attente",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S41 → S42",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -6424,7 +6424,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-04T16:05:51.817Z"
+      "updatedAt": "2026-10-16T07:01:38.008Z"
     },
     {
       "id": "mmv0qi72p3w87b",
@@ -11696,11 +11696,11 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Manuel",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -11713,7 +11713,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T07:00:39.104Z"
+      "updatedAt": "2026-10-16T07:01:42.696Z"
     },
     {
       "id": "mmvam8fz6puqd5",
@@ -11734,11 +11734,11 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Manuel",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -11751,7 +11751,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T06:58:47.545Z"
+      "updatedAt": "2026-10-16T07:01:45.199Z"
     },
     {
       "id": "mmvama3cfzrdoj",
@@ -11772,11 +11772,11 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Manuel",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -11789,7 +11789,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T06:59:58.880Z"
+      "updatedAt": "2026-10-16T07:01:39.191Z"
     },
     {
       "id": "mmvambdtbwx225",
@@ -11810,11 +11810,11 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Manuel",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -11827,7 +11827,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T07:00:24.728Z"
+      "updatedAt": "2026-10-16T07:01:41.527Z"
     },
     {
       "id": "mmvamc6hb6q858",
@@ -11848,11 +11848,11 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Manuel",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -11865,7 +11865,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T07:01:30.720Z"
+      "updatedAt": "2026-10-16T07:01:43.670Z"
     }
   ],
   "chantiers": [

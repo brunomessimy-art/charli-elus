@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-16T07:20:57.244Z",
+  "generatedAt": "2026-10-16T07:25:45.888Z",
   "agents": [
     {
       "id": "a0",
@@ -4586,13 +4586,15 @@
       "team": "Espaces verts",
       "activity": "Autre",
       "location": "CHEMIN DE NOTRE DAME",
-      "date": "2026-10-20",
+      "date": "2026-10-19",
       "slot": "Personnalisé",
       "startTime": "",
       "duration": 1,
-      "agentCount": 1,
+      "agentCount": 3,
       "agents": [
-        "a5"
+        "a4",
+        "a6",
+        "a7"
       ],
       "vehicles": [],
       "requester": "ADMINISTRE",
@@ -4615,7 +4617,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-14T12:52:41.510Z"
+      "updatedAt": "2026-10-16T07:25:45.648Z"
     },
     {
       "id": "mmuzcmampxzlk4",

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-16T11:42:57.298Z",
+  "generatedAt": "2026-10-16T11:45:06.049Z",
   "agents": [
     {
       "id": "a0",
@@ -12144,17 +12144,19 @@
     },
     {
       "id": "mmvawdqs4ct3v5",
-      "title": "Ecole De Laurès",
+      "title": "Ecole De Laurès STORE DIRECTEUR + OCCULTANT TOILETTES",
       "bt": "000006325",
-      "team": "Moyens techniques",
-      "activity": "Autre",
+      "team": "Bâtiment",
+      "activity": "Maçonnerie et petites réparations",
       "location": "GIGNAC",
-      "date": "",
-      "slot": "",
+      "date": "2026-10-19",
+      "slot": "Personnalisé",
       "startTime": "",
       "duration": 1,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a3"
+      ],
       "vehicles": [],
       "requester": "Sylvie BONNIER",
       "description": "Mainti4 000006325\nDélai / urgence : Du 16/10/2026 09:45 au 16/10/2026 10:45\nDemande du : 16/10/2026\nDemandeur : Sylvie BONNIER\nÉtat Mainti4 : En attente",
@@ -12171,12 +12173,12 @@
       "project": "",
       "projectStatus": "",
       "nextStep": "",
-      "decision": "",
+      "decision": "Bonjour,\n\nle store du bureau du directeur est cassé : merci de voir ce qu'il est possible de faire\nToilettes des enseignants / côté rue Eglise des cordeliers : mettre une occultation de qualité aux fenetres à la place des feuilles de papier qui y sont actuellement.\nD'avance, merci.\nSYlvie BONNIER",
       "deadline": "",
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T11:42:00.275Z"
+      "updatedAt": "2026-10-16T11:45:05.786Z"
     },
     {
       "id": "mmvawdqs68tn5w",

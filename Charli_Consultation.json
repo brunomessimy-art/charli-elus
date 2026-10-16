@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-16T07:10:02.975Z",
+  "generatedAt": "2026-10-16T07:17:52.551Z",
   "agents": [
     {
       "id": "a0",
@@ -11904,6 +11904,45 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-16T07:09:13.426Z"
+    },
+    {
+      "id": "mmvamx1bsazlyh",
+      "title": "VEILLE SIGNLISATION VERTICALE STOP MAS SALAT...",
+      "bt": "",
+      "team": "Voirie",
+      "activity": "Signalisation verticale et mobilier routier",
+      "location": "GIGNAC",
+      "date": "2026-10-14",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 4.5,
+      "agentCount": 2,
+      "agents": [
+        "a18",
+        "a16"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-16T07:17:52.282Z"
     }
   ],
   "chantiers": [

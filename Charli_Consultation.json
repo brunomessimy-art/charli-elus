@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-16T11:46:53.269Z",
+  "generatedAt": "2026-10-16T12:51:18.356Z",
   "agents": [
     {
       "id": "a0",
@@ -1301,9 +1301,9 @@
       "title": "Installation jeu parc aventures sous réserve intervention ESPINAS",
       "bt": "261002006",
       "team": "Voirie",
-      "activity": "Signalisation verticale",
+      "activity": "Réparation de chaussées et nids-de-poule",
       "location": "Parc aventures",
-      "date": "2026-10-19",
+      "date": "",
       "slot": "Personnalisé",
       "startTime": "",
       "duration": 7.5,
@@ -1334,7 +1334,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": ""
+      "updatedAt": "2026-10-16T12:51:18.075Z"
     },
     {
       "id": "mmuqvgmmr2wgm8",

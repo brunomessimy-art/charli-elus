@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-16T07:01:45.393Z",
+  "generatedAt": "2026-10-16T07:02:46.587Z",
   "agents": [
     {
       "id": "a0",
@@ -7369,7 +7369,7 @@
       "requester": "",
       "description": "Grande balayeuse en binôme Simon / Bruno - AGENT: Simon - DATE: 10/02/2026 - DUREE: 7 h",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S41 → S42",
@@ -7386,7 +7386,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T09:47:54.407Z"
+      "updatedAt": "2026-10-16T07:02:40.648Z"
     },
     {
       "id": "mmv0rlt2ic0usa",
@@ -7561,7 +7561,7 @@
       "requester": "",
       "description": "Goupil en binôme Simon / Fabrice - AGENT: Simon - DATE: 12/02/2026 - DUREE: 4 h 00",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S41 → S42",
@@ -7578,7 +7578,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T09:47:55.626Z"
+      "updatedAt": "2026-10-16T07:02:41.615Z"
     },
     {
       "id": "mmv0rlt2jxj8uh",
@@ -7599,7 +7599,7 @@
       "requester": "",
       "description": "Cimetière - AGENT: Fabrice - DATE: 12/02/2026 - DUREE: 3 h 30",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S41 → S42",
@@ -7616,7 +7616,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T09:47:57.324Z"
+      "updatedAt": "2026-10-16T07:02:42.568Z"
     },
     {
       "id": "mmv0rlt2jlge5d",
@@ -7941,7 +7941,7 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S41 → S42",
@@ -7958,7 +7958,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-09T08:47:27.654Z"
+      "updatedAt": "2026-10-16T07:02:43.487Z"
     },
     {
       "id": "mmv0rlt2jwl32z",
@@ -7979,7 +7979,7 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S41 → S42",
@@ -7996,7 +7996,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-14T12:43:04.134Z"
+      "updatedAt": "2026-10-16T07:02:44.391Z"
     },
     {
       "id": "mmv0rlt2jpf0n9",
@@ -9661,11 +9661,11 @@
       "requester": "ROISNET",
       "description": "Mainti4 000006306\nDélai / urgence : DANS LA JOURNÉE\nDemande du : 12/10/2026\nDemandeur : ROISNET\nÉtat Mainti4 : En attente",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Urgente",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Demandes",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -9678,7 +9678,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-14T12:43:38.910Z"
+      "updatedAt": "2026-10-16T07:02:45.439Z"
     },
     {
       "id": "mmv6skin3ves43",
@@ -9773,11 +9773,11 @@
       "requester": "Christelle CLAPIER",
       "description": "Mainti4 000006302\nDélai / urgence : SOUS 7 JOURS\nDemande du : 09/10/2026\nDemandeur : Christelle CLAPIER\nÉtat Mainti4 : En attente",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Demandes",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -9790,7 +9790,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-14T12:37:39.502Z"
+      "updatedAt": "2026-10-16T07:02:46.391Z"
     },
     {
       "id": "mmv6skin4mdngd",

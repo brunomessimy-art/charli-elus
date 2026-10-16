@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-16T07:08:03.997Z",
+  "generatedAt": "2026-10-16T07:09:13.662Z",
   "agents": [
     {
       "id": "a0",
@@ -11866,6 +11866,44 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-16T07:01:43.670Z"
+    },
+    {
+      "id": "mmvamlx5s67d3c",
+      "title": "URGENT PORTE ARRIERE CHAI DE LA GARE NE FERME PAS + PORTE TOILETTES NE S'OUVRE PAS",
+      "bt": "",
+      "team": "Bâtiment",
+      "activity": "Menuiserie et serrurerie",
+      "location": "",
+      "date": "2026-10-16",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 1,
+      "agentCount": 1,
+      "agents": [
+        "a3"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-16T07:09:13.426Z"
     }
   ],
   "chantiers": [

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-16T06:59:27.416Z",
+  "generatedAt": "2026-10-16T06:59:59.119Z",
   "agents": [
     {
       "id": "a0",
@@ -11760,7 +11760,7 @@
       "team": "Festivités",
       "activity": "Installation de manifestations et événements",
       "location": "",
-      "date": "",
+      "date": "2026-10-12",
       "slot": "Personnalisé",
       "startTime": "",
       "duration": 6.5,
@@ -11789,7 +11789,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T06:59:27.168Z"
+      "updatedAt": "2026-10-16T06:59:58.880Z"
     }
   ],
   "chantiers": [

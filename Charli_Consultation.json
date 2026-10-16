@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-16T06:31:06.454Z",
+  "generatedAt": "2026-10-16T06:32:49.504Z",
   "agents": [
     {
       "id": "a0",
@@ -6313,10 +6313,10 @@
     },
     {
       "id": "mmv0qi72owbsa9",
-      "title": "MISSIONS COMPLEMENTAIRES THEATRE / CHAI DE LA GARE / BOULODROME MAS FAUGERE /",
+      "title": "MISSIONS COMPLEMENTAIRES THEATRE / CHAI DE LA GARE / BOULODROME MAS FAUGERE / GIRATOIRE DES VIGNES / CHEMIN LONG AUTOROUTE / PEUPLIER AU BARRAGE / MAINTENANCE STADE SYNTHE",
       "bt": "",
       "team": "Espaces verts",
-      "activity": "Élagage",
+      "activity": "Tonte et entretien des pelouses",
       "location": "gignac",
       "date": "2026-10-15",
       "slot": "Personnalisé",
@@ -6350,7 +6350,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-15T13:14:29.994Z"
+      "updatedAt": "2026-10-16T06:32:49.178Z"
     },
     {
       "id": "mmv0qi72p7xbsz",

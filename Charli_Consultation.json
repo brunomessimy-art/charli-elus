@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-16T13:37:06.691Z",
+  "generatedAt": "2026-10-16T13:37:14.798Z",
   "agents": [
     {
       "id": "a0",
@@ -9391,7 +9391,7 @@
       "title": "PROBLEME WC",
       "bt": "000006310",
       "team": "Bâtiment",
-      "activity": "Plomberie",
+      "activity": "Maçonnerie et petites réparations",
       "location": "STADE GUY PAULET",
       "date": "2026-10-15",
       "slot": "Personnalisé",
@@ -9422,7 +9422,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-15T13:25:53.256Z"
+      "updatedAt": "2026-10-16T13:37:14.451Z"
     },
     {
       "id": "mmv6skin24lqye",

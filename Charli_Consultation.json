@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-16T05:58:10.379Z",
+  "generatedAt": "2026-10-16T05:59:18.956Z",
   "agents": [
     {
       "id": "a0",
@@ -9238,10 +9238,10 @@
     },
     {
       "id": "mmv6fiwsvl67aj",
-      "title": "VERIFIER FONCTIONNEMENT PORTAIL B DU CIMETIERE",
+      "title": "VERIFIER FONCTIONNEMENT PORTAIL B DU CIMETIERE / entreprise passe dans la journée du 16/10",
       "bt": "",
       "team": "Bâtiment",
-      "activity": "Électricité",
+      "activity": "Maçonnerie et petites réparations",
       "location": "CIMETIERE",
       "date": "2026-10-13",
       "slot": "Personnalisé",
@@ -9272,7 +9272,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-15T13:25:29.697Z"
+      "updatedAt": "2026-10-16T05:59:18.635Z"
     },
     {
       "id": "mmv6skimx08wls",

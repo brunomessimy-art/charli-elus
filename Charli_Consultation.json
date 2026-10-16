@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-16T07:30:19.596Z",
+  "generatedAt": "2026-10-16T07:31:04.281Z",
   "agents": [
     {
       "id": "a0",
@@ -11952,7 +11952,7 @@
       "team": "Espaces verts",
       "activity": "Tonte et entretien des pelouses",
       "location": "BOULEVARD DU MOULIN",
-      "date": "",
+      "date": "2026-10-20",
       "slot": "Personnalisé",
       "startTime": "",
       "duration": 4.5,
@@ -11981,7 +11981,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T07:29:40.705Z"
+      "updatedAt": "2026-10-16T07:31:04.011Z"
     }
   ],
   "chantiers": [

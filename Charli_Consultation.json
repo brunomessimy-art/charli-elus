@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-16T06:02:49.765Z",
+  "generatedAt": "2026-10-16T06:11:28.027Z",
   "agents": [
     {
       "id": "a0",
@@ -1009,11 +1009,11 @@
       "requester": "ADMINISTRE",
       "description": "UN USAGER EST VENU SE PLAINDRE A CAUSE DES ODEURS DE LA STATION CANINE ET DES POUBELLES QUE LES GENS LAISSENT A COTE DE SON APPARTEMENT SI POSSIBLE LA DEPLACER.\n\nMainti4 000006182\nDélai / urgence : SOUS 7 JOURS\nDemande du : 07/09/2026\nDemandeur : ADMINISTRE\nÉtat Mainti4 : En attente",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Demandes",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -1026,7 +1026,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-09T14:09:39.489Z"
+      "updatedAt": "2026-10-16T06:11:27.806Z"
     },
     {
       "id": "mmupa7mawu0g5t",

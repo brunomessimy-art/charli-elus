@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-16T13:10:31.749Z",
+  "generatedAt": "2026-10-16T13:10:48.658Z",
   "agents": [
     {
       "id": "a0",
@@ -12687,7 +12687,7 @@
       "team": "Bâtiment",
       "activity": "Autre",
       "location": "",
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "slot": "Personnalisé",
       "startTime": "",
       "duration": 2,
@@ -12716,7 +12716,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T13:10:31.506Z"
+      "updatedAt": "2026-10-16T13:10:48.404Z"
     }
   ],
   "chantiers": [

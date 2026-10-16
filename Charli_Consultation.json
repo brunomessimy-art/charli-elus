@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-16T07:39:07.445Z",
+  "generatedAt": "2026-10-16T07:39:28.397Z",
   "agents": [
     {
       "id": "a0",
@@ -4584,7 +4584,7 @@
       "title": "MASSIF HERBES A ENLEVER",
       "bt": "000006275",
       "team": "Espaces verts",
-      "activity": "Autre",
+      "activity": "Entretien des terrains et espaces naturels",
       "location": "CHEMIN DE NOTRE DAME",
       "date": "2026-10-19",
       "slot": "Personnalisé",
@@ -4616,7 +4616,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T07:26:21.514Z"
+      "updatedAt": "2026-10-16T07:39:28.144Z"
     },
     {
       "id": "mmuzcmampxzlk4",

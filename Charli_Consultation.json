@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-16T07:43:01.651Z",
+  "generatedAt": "2026-10-16T07:44:16.730Z",
   "agents": [
     {
       "id": "a0",
@@ -12138,6 +12138,46 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-16T07:37:25.945Z"
+    },
+    {
+      "id": "mmvanv7xkb1txv",
+      "title": "entretien du lotissement du parc par les espaces verts",
+      "bt": "",
+      "team": "Espaces verts",
+      "activity": "Débroussaillage et fauchage",
+      "location": "parc par les espaces verts",
+      "date": "2026-10-21",
+      "slot": "Matin",
+      "startTime": "08:00",
+      "duration": 7.5,
+      "agentCount": 3,
+      "agents": [
+        "a5",
+        "a6",
+        "a7"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "entretien du lotissement du parc par les espaces verts",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Charli Terrain",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-16T07:44:16.433Z"
     }
   ],
   "chantiers": [

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-16T13:23:46.089Z",
+  "generatedAt": "2026-10-16T13:25:27.575Z",
   "agents": [
     {
       "id": "a0",
@@ -139,6 +139,13 @@
       "id": "amupb01cp96x3c",
       "name": "Pascal BENEZECH",
       "team": "Festivités",
+      "role": "",
+      "active": true
+    },
+    {
+      "id": "amvb02f0bm8n2b",
+      "name": "William BESSIERE 2",
+      "team": "Propreté/Bâtiment",
       "role": "",
       "active": true
     }

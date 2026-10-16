@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-16T07:45:21.759Z",
+  "generatedAt": "2026-10-16T07:47:25.922Z",
   "agents": [
     {
       "id": "a0",
@@ -12140,6 +12140,47 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-16T07:44:16.433Z"
+    },
+    {
+      "id": "mmvanyzllgx9iq",
+      "title": "MISSIONS NON PROGRAMMEES",
+      "bt": "",
+      "team": "Espaces verts",
+      "activity": "Taille des haies et arbustes",
+      "location": "GIGNAC",
+      "date": "2026-10-22",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 7.5,
+      "agentCount": 4,
+      "agents": [
+        "a4",
+        "a5",
+        "a7",
+        "a6"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-16T07:47:25.675Z"
     }
   ],
   "chantiers": [

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-16T06:11:39.409Z",
+  "generatedAt": "2026-10-16T06:11:52.725Z",
   "agents": [
     {
       "id": "a0",
@@ -6119,7 +6119,7 @@
       "title": "POSE DE CENDRIERS",
       "bt": "",
       "team": "Voirie",
-      "activity": "Signalisation verticale",
+      "activity": "Réparation de chaussées et nids-de-poule",
       "location": "Fontaine du square du Sautarel",
       "date": "2026-10-15",
       "slot": "Personnalisé",
@@ -6138,7 +6138,7 @@
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S41 → S42",
-      "progress": null,
+      "progress": 70,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -6151,7 +6151,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-12T09:46:38.037Z"
+      "updatedAt": "2026-10-16T06:11:52.399Z"
     },
     {
       "id": "mmv0qi72ouyqoi",

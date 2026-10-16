@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-16T13:13:42.099Z",
+  "generatedAt": "2026-10-16T13:15:42.536Z",
   "agents": [
     {
       "id": "a0",
@@ -12717,6 +12717,44 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-16T13:11:09.859Z"
+    },
+    {
+      "id": "mmvazpnm24926r",
+      "title": "INTERVENTIONS URGENTES TOUT CORPS D'ETAT + ELEC",
+      "bt": "",
+      "team": "Bâtiment",
+      "activity": "Maintenance générale et interventions diverses",
+      "location": "",
+      "date": "2026-10-20",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 2,
+      "agentCount": 1,
+      "agents": [
+        "a3"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": 100,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-16T13:15:42.292Z"
     }
   ],
   "chantiers": [

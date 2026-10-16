@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-16T11:45:06.049Z",
+  "generatedAt": "2026-10-16T11:46:53.269Z",
   "agents": [
     {
       "id": "a0",
@@ -12147,7 +12147,7 @@
       "title": "Ecole De Laurès STORE DIRECTEUR + OCCULTANT TOILETTES",
       "bt": "000006325",
       "team": "Bâtiment",
-      "activity": "Maçonnerie et petites réparations",
+      "activity": "Menuiserie et serrurerie",
       "location": "GIGNAC",
       "date": "2026-10-19",
       "slot": "Personnalisé",
@@ -12178,7 +12178,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T11:45:05.786Z"
+      "updatedAt": "2026-10-16T11:46:53.009Z"
     },
     {
       "id": "mmvawdqs68tn5w",

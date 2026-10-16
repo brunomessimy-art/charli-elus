@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-16T13:36:09.563Z",
+  "generatedAt": "2026-10-16T13:37:00.677Z",
   "agents": [
     {
       "id": "a0",
@@ -8196,7 +8196,7 @@
       "title": "URGENT REPARER LE VOLET ROULANT DE LA CLASSE DE LA DIRECTRICE PRMIERE HEURE LUNDI",
       "bt": "",
       "team": "Bâtiment",
-      "activity": "Serrurerie",
+      "activity": "Maçonnerie et petites réparations",
       "location": "ECOLE MATERNELLE",
       "date": "2026-10-12",
       "slot": "Personnalisé",
@@ -8227,7 +8227,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-15T13:25:04.304Z"
+      "updatedAt": "2026-10-16T13:37:00.427Z"
     },
     {
       "id": "mmv101sqye68c5",

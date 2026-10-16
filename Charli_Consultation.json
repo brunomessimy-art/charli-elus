@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-16T13:27:00.135Z",
+  "generatedAt": "2026-10-16T13:27:18.370Z",
   "agents": [
     {
       "id": "a0",
@@ -12990,6 +12990,44 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-16T13:26:59.812Z"
+    },
+    {
+      "id": "mmvb0524in2jxs",
+      "title": "PROPRETE HDS",
+      "bt": "",
+      "team": "Propreté/Bâtiment",
+      "activity": "PROPRETE HDS",
+      "location": "HALLE DES SPORTS",
+      "date": "2026-10-20",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 3,
+      "agentCount": 1,
+      "agents": [
+        "amvb02f0bm8n2b"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-16T13:27:18.075Z"
     }
   ],
   "chantiers": [

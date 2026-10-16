@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-16T13:33:43.020Z",
+  "generatedAt": "2026-10-16T13:35:15.721Z",
   "agents": [
     {
       "id": "a0",
@@ -8501,14 +8501,16 @@
       "title": "RENOVATION TABLE ALAE",
       "bt": "",
       "team": "Bâtiment",
-      "activity": "Menuiserie",
+      "activity": "Maçonnerie et petites réparations",
       "location": "ECOLE ALAE",
       "date": "2026-10-13",
       "slot": "Personnalisé",
       "startTime": "",
-      "duration": 3.5,
+      "duration": 4,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a1"
+      ],
       "vehicles": [],
       "requester": "",
       "description": "",
@@ -8530,7 +8532,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-15T13:25:26.258Z"
+      "updatedAt": "2026-10-16T13:35:15.403Z"
     },
     {
       "id": "mmv10m3i98igky",

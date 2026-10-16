@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-16T13:00:01.886Z",
+  "generatedAt": "2026-10-16T13:02:24.675Z",
   "agents": [
     {
       "id": "a0",
@@ -12331,6 +12331,46 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-16T13:00:01.596Z"
+    },
+    {
+      "id": "mmvaz720php76n",
+      "title": "PEINTURE LOTISSEMENT PONS... + POSE DE 2 QUILLES SUPPLEMENTAIRES",
+      "bt": "",
+      "team": "Voirie",
+      "activity": "Signalisation horizontale et marquage au sol",
+      "location": "LOTISSEMENT PONS",
+      "date": "2026-10-22",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 7.5,
+      "agentCount": 3,
+      "agents": [
+        "a16",
+        "a17",
+        "a18"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-16T13:02:24.300Z"
     }
   ],
   "chantiers": [

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-16T07:26:46.644Z",
+  "generatedAt": "2026-10-16T07:27:15.203Z",
   "agents": [
     {
       "id": "a0",
@@ -9874,13 +9874,12 @@
       "team": "Espaces verts",
       "activity": "Tonte et entretien des pelouses",
       "location": "ANCIEN CHEMIN DE LODEVE",
-      "date": "2026-10-20",
+      "date": "2026-10-19",
       "slot": "Personnalisé",
       "startTime": "",
       "duration": 3,
-      "agentCount": 4,
+      "agentCount": 3,
       "agents": [
-        "a5",
         "a6",
         "a7",
         "a4"
@@ -9906,7 +9905,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T07:26:46.402Z"
+      "updatedAt": "2026-10-16T07:27:14.952Z"
     },
     {
       "id": "mmv6skin4tvpxt",

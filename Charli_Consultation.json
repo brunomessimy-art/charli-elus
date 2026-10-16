@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-16T12:53:55.682Z",
+  "generatedAt": "2026-10-16T12:54:34.184Z",
   "agents": [
     {
       "id": "a0",
@@ -9083,7 +9083,7 @@
       "title": "MISE EN PLACE DES PLQUES PPMS",
       "bt": "",
       "team": "Voirie",
-      "activity": "Réparation de chaussées et nids-de-poule",
+      "activity": "Signalisation verticale et mobilier routier",
       "location": "STADE PELOUSE",
       "date": "2026-10-21",
       "slot": "Personnalisé",
@@ -9115,7 +9115,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T12:53:55.389Z"
+      "updatedAt": "2026-10-16T12:54:33.922Z"
     },
     {
       "id": "mmv6awxmf9mzse",

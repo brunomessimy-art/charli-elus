@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-16T07:18:03.360Z",
+  "generatedAt": "2026-10-16T07:18:54.703Z",
   "agents": [
     {
       "id": "a0",
@@ -1932,12 +1932,12 @@
       "title": "enlever la boue du barrage",
       "bt": "",
       "team": "Voirie",
-      "activity": "Réseaux",
+      "activity": "Réparation de chaussées et nids-de-poule",
       "location": "barrage",
       "date": "2026-10-15",
       "slot": "Personnalisé",
       "startTime": "08:00",
-      "duration": 4,
+      "duration": 7.5,
       "agentCount": 1,
       "agents": [
         "a18"
@@ -1963,7 +1963,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T06:11:39.102Z"
+      "updatedAt": "2026-10-16T07:18:54.464Z"
     },
     {
       "id": "mmur0l0i0zqiz4",

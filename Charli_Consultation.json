@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-16T13:43:57.276Z",
+  "generatedAt": "2026-10-16T13:44:17.110Z",
   "agents": [
     {
       "id": "a0",
@@ -10965,45 +10965,6 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-08T09:48:04.646Z"
-    },
-    {
-      "id": "mmval1s3o0m0ll",
-      "title": "équipe propreté nettoyer les délaissés autour de l'école maternelle",
-      "bt": "",
-      "team": "Propreté",
-      "activity": "Balayage",
-      "location": "École",
-      "date": "2026-10-21",
-      "slot": "Matin",
-      "startTime": "08:00",
-      "duration": 1,
-      "agentCount": 2,
-      "agents": [
-        "a10",
-        "a14"
-      ],
-      "vehicles": [],
-      "requester": "",
-      "description": "équipe propreté nettoyer les délaissés autour de l'école maternelle",
-      "report": "",
-      "status": "À faire",
-      "priority": "Normale",
-      "kind": "Ponctuelle",
-      "source": "Copie S42 → S43",
-      "progress": 100,
-      "watchLevel": "",
-      "watchNote": "",
-      "pinned": false,
-      "codir": false,
-      "project": "",
-      "projectStatus": "",
-      "nextStep": "",
-      "decision": "",
-      "deadline": "",
-      "terrainProblem": false,
-      "terrainComment": "",
-      "terrainProblemReport": "",
-      "updatedAt": "2026-10-15T06:10:46.488Z"
     },
     {
       "id": "mmval1s3pv5v2r",

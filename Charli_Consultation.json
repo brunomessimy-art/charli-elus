@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-16T07:41:22.174Z",
+  "generatedAt": "2026-10-16T07:41:32.338Z",
   "agents": [
     {
       "id": "a0",
@@ -12063,7 +12063,7 @@
       "title": "taille des lauriers à l'entrée du parc du mas-faugère",
       "bt": "",
       "team": "Espaces verts",
-      "activity": "Débroussaillage et fauchage",
+      "activity": "Taille des haies et arbustes",
       "location": "parc du mas-faugère",
       "date": "2026-10-20",
       "slot": "Matin",
@@ -12097,7 +12097,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T07:39:07.201Z"
+      "updatedAt": "2026-10-16T07:41:31.987Z"
     },
     {
       "id": "mmvanmzao41uao",

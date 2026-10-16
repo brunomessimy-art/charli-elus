@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-16T12:52:19.108Z",
+  "generatedAt": "2026-10-16T12:52:49.452Z",
   "agents": [
     {
       "id": "a0",
@@ -12293,6 +12293,46 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-16T12:52:18.859Z"
+    },
+    {
+      "id": "mmvaywmpvlqdqc",
+      "title": "CAMPAGNE ENROBE A FROID",
+      "bt": "",
+      "team": "Voirie",
+      "activity": "Travaux divers de voirie",
+      "location": "VOIRIE",
+      "date": "2026-10-20",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 7.5,
+      "agentCount": 3,
+      "agents": [
+        "a17",
+        "a18",
+        "a16"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-16T12:52:49.186Z"
     }
   ],
   "chantiers": [

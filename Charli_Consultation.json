@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-16T07:00:39.355Z",
+  "generatedAt": "2026-10-16T07:01:13.972Z",
   "agents": [
     {
       "id": "a0",
@@ -11828,6 +11828,44 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-16T07:00:24.728Z"
+    },
+    {
+      "id": "mmvamc6hb6q858",
+      "title": "ACTIVITE FESTIVITES",
+      "bt": "",
+      "team": "Festivités",
+      "activity": "Installation de manifestations et événements",
+      "location": "",
+      "date": "",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 7.5,
+      "agentCount": 1,
+      "agents": [
+        "amupb01cp96x3c"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "2026-10-15",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-16T07:01:13.712Z"
     }
   ],
   "chantiers": [

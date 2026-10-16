@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-16T13:43:38.021Z",
+  "generatedAt": "2026-10-16T13:43:48.736Z",
   "agents": [
     {
       "id": "a0",
@@ -10569,7 +10569,9 @@
       "startTime": "07:00",
       "duration": 7.5,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a10"
+      ],
       "vehicles": [],
       "requester": "",
       "description": "Grande balayeuse - axes + lycée - AGENT: Bruno M. - DATE: 09/02/2026 - DUREE: 4 h 30",
@@ -10591,7 +10593,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-15T06:10:29.014Z"
+      "updatedAt": "2026-10-16T13:43:48.236Z"
     },
     {
       "id": "mmval1s3iw2lhb",

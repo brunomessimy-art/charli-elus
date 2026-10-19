@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-19T05:50:57.200Z",
+  "generatedAt": "2026-10-19T05:51:34.367Z",
   "agents": [
     {
       "id": "a0",
@@ -900,15 +900,15 @@
       "requester": "ADMINISTRE",
       "description": "mr gechter 5 avenue de lodève demande une création d'avaloir car quand  il pleut soucis d'eau voir avec gilles .\nje laisse son numéro merci de le contacter 0620275302\n\nMainti4 000006207\nDélai / urgence : SOUS 7 JOURS\nDemande du : 10/09/2026\nDemandeur : ADMINISTRE\nÉtat Mainti4 : En attente",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Demandes",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
-      "codir": true,
+      "codir": false,
       "project": "",
       "projectStatus": "",
       "nextStep": "",
@@ -917,7 +917,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T06:32:41.582Z"
+      "updatedAt": "2026-10-19T05:51:34.065Z"
     },
     {
       "id": "mmupa7mawu4ao0",

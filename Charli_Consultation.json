@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-19T09:16:40.244Z",
+  "generatedAt": "2026-10-19T09:18:18.742Z",
   "agents": [
     {
       "id": "a0",
@@ -13153,6 +13153,44 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-16T13:31:32.715Z"
+    },
+    {
+      "id": "mmvf1j30vyx6tu",
+      "title": "A NOUVEAU PROBLEME DE FERMETURE SUR ISSUE DE SECOURS CHAI DE LA GARE",
+      "bt": "",
+      "team": "Bâtiment",
+      "activity": "Menuiserie et serrurerie",
+      "location": "CHAI DE LA GARE",
+      "date": "2026-10-19",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 0.5,
+      "agentCount": 1,
+      "agents": [
+        "a3"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-19T09:18:18.507Z"
     }
   ],
   "chantiers": [

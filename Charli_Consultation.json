@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-19T14:00:36.038Z",
+  "generatedAt": "2026-10-19T14:04:19.361Z",
   "agents": [
     {
       "id": "a0",
@@ -13340,18 +13340,20 @@
       "id": "mmvfbnjggcpb2u",
       "title": "petits travaux  vacances novembre",
       "bt": "000006326",
-      "team": "Moyens techniques",
-      "activity": "Autre",
+      "team": "Bâtiment",
+      "activity": "Menuiserie et serrurerie",
       "location": "SCO-MATERNELLE",
-      "date": "",
-      "slot": "",
+      "date": "2026-10-20",
+      "slot": "Personnalisé",
       "startTime": "",
-      "duration": 1,
+      "duration": 2,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a3"
+      ],
       "vehicles": [],
       "requester": "DIRECTION ECOLE MATERNELLE",
-      "description": "Mainti4 000006326\nDélai / urgence : Du 16/10/2026 17:19 au 16/10/2026 18:19\nDemande du : 16/10/2026\nDemandeur : DIRECTION ECOLE MATERNELLE\nÉtat Mainti4 : En attente",
+      "description": "Voici la liste des travaux pour l'école maternelle pendant ces vacances:\n- classes 2, 5 et 9: installer vidéoprojecteurs et les régler\n- classe 1: fixer le rail blanc du meuble jouxtant le bureau de l'enseignante pour qu'il s’arrête de tomber + réparer la table verte + faire deux étagères contre le mur à droite en entrant (des traits ont été tracés pour localiser ces deux étagères): longueur des étagères = longueur du meubles à tiroirs, largeur = largeur d'un grand cahier.\n- classe 7: poser les rideaux que vous avez enleves de la classe 6.\n\nMerci beaucoup\nCordialement\nMagali Dolain",
       "report": "",
       "status": "À faire",
       "priority": "Normale",
@@ -13370,7 +13372,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-19T14:00:35.811Z"
+      "updatedAt": "2026-10-19T14:04:19.116Z"
     },
     {
       "id": "mmvfbnjghk09gb",

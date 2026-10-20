@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-20T07:06:10.413Z",
+  "generatedAt": "2026-10-20T07:06:40.598Z",
   "agents": [
     {
       "id": "a0",
@@ -13646,24 +13646,26 @@
       "id": "mmvgbokuy1y8mr",
       "title": "Prog Clé JM Mulero",
       "bt": "000017615",
-      "team": "Moyens techniques",
-      "activity": "ADMINISTRATIF",
+      "team": "Bâtiment",
+      "activity": "ORGANIGRAMME ELECTRONIQUE",
       "location": "SCOLAIRE",
       "date": "2026-10-19",
       "slot": "Personnalisé",
       "startTime": "",
       "duration": 1,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a2"
+      ],
       "vehicles": [],
       "requester": "",
       "description": "Mainti4 000017615\nDemande du : 19/10/2026\nType de travaux : ADMINISTRATIF",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Bons de travaux",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -13676,7 +13678,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-20T06:49:09.266Z"
+      "updatedAt": "2026-10-20T07:06:40.205Z"
     },
     {
       "id": "mmvgbokuyri4nh",

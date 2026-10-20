@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-20T07:06:40.598Z",
+  "generatedAt": "2026-10-20T07:08:32.403Z",
   "agents": [
     {
       "id": "a0",
@@ -13684,24 +13684,26 @@
       "id": "mmvgbokuyri4nh",
       "title": "Adoucisseur",
       "bt": "000017533",
-      "team": "Moyens techniques",
-      "activity": "ENTRETIEN",
+      "team": "Bâtiment",
+      "activity": "Plomberie et sanitaires",
       "location": "HALLE DES SPORTS",
       "date": "2026-10-19",
       "slot": "Personnalisé",
       "startTime": "",
       "duration": 1,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a2"
+      ],
       "vehicles": [],
       "requester": "Joris MIRA",
       "description": "Mainti4 000017533\nDemande du : 01/10/2026\nDemandeur : Joris MIRA\nType de travaux : ENTRETIEN",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Bons de travaux",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -13714,7 +13716,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-20T06:49:09.266Z"
+      "updatedAt": "2026-10-20T07:08:32.162Z"
     },
     {
       "id": "mmvgbokuz0e6g3",

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-20T06:28:34.077Z",
+  "generatedAt": "2026-10-20T06:31:56.473Z",
   "agents": [
     {
       "id": "a0",
@@ -13452,18 +13452,21 @@
       "id": "mmvgar478ps8ax",
       "title": "Encombrants",
       "bt": "000006334",
-      "team": "Moyens techniques",
-      "activity": "Autre",
+      "team": "Propreté",
+      "activity": "Balayage mécanisé",
       "location": "SCO-ALAE",
       "date": "",
-      "slot": "",
+      "slot": "Personnalisé",
       "startTime": "",
       "duration": 1,
-      "agentCount": 1,
-      "agents": [],
+      "agentCount": 2,
+      "agents": [
+        "a11",
+        "a14"
+      ],
       "vehicles": [],
       "requester": "Sandrine GUSMAROLI",
-      "description": "Mainti4 000006334\nDélai / urgence : Jusqu'au 30/10/2026 19:00\nDemande du : 19/10/2026\nDemandeur : Sandrine GUSMAROLI\nÉtat Mainti4 : En attente",
+      "description": "Enlever les encombrants de la cour de l'ALAE, rangement cartable.",
       "report": "",
       "status": "À faire",
       "priority": "Normale",
@@ -13482,7 +13485,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-20T06:23:24.176Z"
+      "updatedAt": "2026-10-20T06:31:56.234Z"
     },
     {
       "id": "mmvgar478a6wvl",

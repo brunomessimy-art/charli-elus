@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-20T06:37:08.943Z",
+  "generatedAt": "2026-10-20T06:40:01.422Z",
   "agents": [
     {
       "id": "a0",
@@ -13453,16 +13453,16 @@
       "title": "Encombrants",
       "bt": "000006334",
       "team": "Propreté",
-      "activity": "Balayage mécanisé",
+      "activity": "Nettoyage des équipements et mobiliers urbains",
       "location": "SCO-ALAE",
-      "date": "",
+      "date": "2026-10-20",
       "slot": "Personnalisé",
       "startTime": "",
       "duration": 1,
       "agentCount": 2,
       "agents": [
-        "a11",
-        "a14"
+        "a14",
+        "a11"
       ],
       "vehicles": [],
       "requester": "Sandrine GUSMAROLI",
@@ -13485,7 +13485,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-20T06:31:56.234Z"
+      "updatedAt": "2026-10-20T06:40:01.122Z"
     },
     {
       "id": "mmvgar478a6wvl",

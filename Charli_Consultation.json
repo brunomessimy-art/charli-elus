@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-20T07:08:32.403Z",
+  "generatedAt": "2026-10-20T07:09:57.306Z",
   "agents": [
     {
       "id": "a0",
@@ -13722,18 +13722,20 @@
       "id": "mmvgbokuz0e6g3",
       "title": "LOGEMENT 14 TOILETTE BOUCHE",
       "bt": "000016295",
-      "team": "Moyens techniques",
-      "activity": "SUIVI PRESTA",
+      "team": "Bâtiment",
+      "activity": "Plomberie et sanitaires",
       "location": "GENDARMERIE",
-      "date": "2026-06-01",
+      "date": "2026-10-19",
       "slot": "Personnalisé",
       "startTime": "",
-      "duration": 1,
+      "duration": 3,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a2"
+      ],
       "vehicles": [],
       "requester": "ADJUDANT-CHEF SOUCHON Thierry",
-      "description": "Bonjour,\r\nMerci de prendre en compte la demande d'intervention ci-après :\r\nAdresse : Gendarmerie - 576 chemin Ste Claire Roqueyrol 34150 GIGNAC\r\nLocal concerné : Logement n°14\r\nOccupant : Pierre DONADILLE - tél : 0626107410 (pro) - 0787777699 (perso)\r\nDescriptif : EVACUATION DES TOILETTES BOUCHEE (RDC)\r\nObservations : problème récurrent (voir infra)\r\nCordialement\n\nMainti4 000016295\nDemande du : 29/05/2026\nDemandeur : ADJUDANT-CHEF SOUCHON Thierry\nType de travaux : SUIVI PRESTA",
+      "description": "Bonjour,\nMerci de prendre en compte la demande d'intervention ci-après :\nAdresse : Gendarmerie - 576 chemin Ste Claire Roqueyrol 34150 GIGNAC\nLocal concerné : Logement n°14\nOccupant : Pierre DONADILLE - tél : 0626107410 (pro) - 0787777699 (perso)\nDescriptif : EVACUATION DES TOILETTES BOUCHEE (RDC)\nObservations : problème récurrent (voir infra)\nCordialement\n\nMainti4 000016295\nDemande du : 29/05/2026\nDemandeur : ADJUDANT-CHEF SOUCHON Thierry\nType de travaux : SUIVI PRESTA",
       "report": "",
       "status": "À faire",
       "priority": "Normale",
@@ -13752,7 +13754,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-20T06:49:09.266Z"
+      "updatedAt": "2026-10-20T07:09:57.073Z"
     }
   ],
   "chantiers": [

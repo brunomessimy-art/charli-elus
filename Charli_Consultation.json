@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-20T06:45:53.729Z",
+  "generatedAt": "2026-10-20T06:46:37.688Z",
   "agents": [
     {
       "id": "a0",
@@ -13572,7 +13572,7 @@
       "team": "Propreté",
       "activity": "Balayage mécanisé",
       "location": "SCO-ALAE",
-      "date": "",
+      "date": "2026-10-29",
       "slot": "Personnalisé",
       "startTime": "",
       "duration": 1,
@@ -13592,7 +13592,7 @@
       "progress": null,
       "watchLevel": "",
       "watchNote": "",
-      "pinned": false,
+      "pinned": true,
       "codir": false,
       "project": "",
       "projectStatus": "",
@@ -13602,7 +13602,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-20T06:45:53.490Z"
+      "updatedAt": "2026-10-20T06:46:37.459Z"
     }
   ],
   "chantiers": [

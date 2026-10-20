@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-20T06:23:24.520Z",
+  "generatedAt": "2026-10-20T06:25:29.902Z",
   "agents": [
     {
       "id": "a0",
@@ -13524,18 +13524,20 @@
       "id": "mmvgar479ohqgb",
       "title": "Mise en securité cabanne bois",
       "bt": "000006332",
-      "team": "Moyens techniques",
-      "activity": "Autre",
+      "team": "Bâtiment",
+      "activity": "Menuiserie et serrurerie",
       "location": "SCOLAIRE",
-      "date": "",
-      "slot": "",
+      "date": "2026-10-20",
+      "slot": "Personnalisé",
       "startTime": "",
       "duration": 1,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a3"
+      ],
       "vehicles": [],
       "requester": "Sandrine GUSMAROLI",
-      "description": "Mainti4 000006332\nDélai / urgence : SOUS 7 JOURS\nDemande du : 19/10/2026\nDemandeur : Sandrine GUSMAROLI\nÉtat Mainti4 : En attente",
+      "description": "Je souhaiterais que vous répariez une planche de la cabane en bois que menace de tomber, planche devant ouverture (rebord)",
       "report": "",
       "status": "À faire",
       "priority": "Normale",
@@ -13554,7 +13556,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-20T06:23:24.177Z"
+      "updatedAt": "2026-10-20T06:25:29.666Z"
     }
   ],
   "chantiers": [

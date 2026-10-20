@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-20T06:16:13.904Z",
+  "generatedAt": "2026-10-20T06:17:27.240Z",
   "agents": [
     {
       "id": "a0",
@@ -10259,14 +10259,16 @@
       "title": "FABRICATION D'UN COFFRET POUR LES PRISES DU MARCHE MISES EN PLACE PAR LA REGIE (VOIR GILLES)",
       "bt": "",
       "team": "Bâtiment",
-      "activity": "Serrurerie",
+      "activity": "FERRONNERIE",
       "location": "PLACE DU JEU DE BALLON",
-      "date": "",
+      "date": "2026-10-26",
       "slot": "Personnalisé",
       "startTime": "",
       "duration": 1,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a0"
+      ],
       "vehicles": [],
       "requester": "",
       "description": "",
@@ -10288,7 +10290,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-15T12:33:48.514Z"
+      "updatedAt": "2026-10-20T06:17:26.996Z"
     },
     {
       "id": "mmv9izmybhuild",

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-20T07:09:57.306Z",
+  "generatedAt": "2026-10-20T07:10:12.913Z",
   "agents": [
     {
       "id": "a0",
@@ -13737,11 +13737,11 @@
       "requester": "ADJUDANT-CHEF SOUCHON Thierry",
       "description": "Bonjour,\nMerci de prendre en compte la demande d'intervention ci-après :\nAdresse : Gendarmerie - 576 chemin Ste Claire Roqueyrol 34150 GIGNAC\nLocal concerné : Logement n°14\nOccupant : Pierre DONADILLE - tél : 0626107410 (pro) - 0787777699 (perso)\nDescriptif : EVACUATION DES TOILETTES BOUCHEE (RDC)\nObservations : problème récurrent (voir infra)\nCordialement\n\nMainti4 000016295\nDemande du : 29/05/2026\nDemandeur : ADJUDANT-CHEF SOUCHON Thierry\nType de travaux : SUIVI PRESTA",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Bons de travaux",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -13754,7 +13754,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-20T07:09:57.073Z"
+      "updatedAt": "2026-10-20T07:10:12.665Z"
     }
   ],
   "chantiers": [

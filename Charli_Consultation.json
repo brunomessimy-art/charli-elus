@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-20T06:20:17.736Z",
+  "generatedAt": "2026-10-20T06:20:27.338Z",
   "agents": [
     {
       "id": "a0",
@@ -13357,11 +13357,11 @@
       "requester": "ADMINISTRE",
       "description": "Mainti4 000006320\nDélai / urgence : SOUS 7 JOURS\nDemande du : 14/10/2026\nDemandeur : ADMINISTRE\nÉtat Mainti4 : En attente",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Demandes",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -13374,7 +13374,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-19T14:00:35.812Z"
+      "updatedAt": "2026-10-20T06:20:27.177Z"
     },
     {
       "id": "mmvfbnjghj91ye",

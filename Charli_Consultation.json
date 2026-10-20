@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-20T06:44:04.829Z",
+  "generatedAt": "2026-10-20T06:45:13.923Z",
   "agents": [
     {
       "id": "a0",
@@ -13419,7 +13419,7 @@
       "team": "Bâtiment",
       "activity": "Renfort d’une autre équipe",
       "location": "SCO-ALAE",
-      "date": "",
+      "date": "2026-10-29",
       "slot": "Personnalisé",
       "startTime": "",
       "duration": 1,
@@ -13448,7 +13448,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-20T06:44:04.525Z"
+      "updatedAt": "2026-10-20T06:45:13.691Z"
     },
     {
       "id": "mmvgar478ps8ax",

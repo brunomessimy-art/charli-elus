@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-21T11:34:06.616Z",
+  "generatedAt": "2026-10-21T11:35:44.797Z",
   "agents": [
     {
       "id": "a0",
@@ -12073,7 +12073,7 @@
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Manuel",
-      "progress": null,
+      "progress": 50,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -12086,7 +12086,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T13:00:01.596Z"
+      "updatedAt": "2026-10-21T11:35:44.520Z"
     },
     {
       "id": "mmvaz720php76n",

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-21T14:18:54.745Z",
+  "generatedAt": "2026-10-21T14:21:29.876Z",
   "agents": [
     {
       "id": "a0",
@@ -14029,18 +14029,22 @@
       "id": "mmvi70nqz5plmy",
       "title": "Demande d'intervention – Marquage au sol antidérapant aux entrées de l'école",
       "bt": "000006339",
-      "team": "Moyens techniques",
-      "activity": "Autre",
+      "team": "Voirie",
+      "activity": "Signalisation horizontale et marquage au sol",
       "location": "SCO-PRIMAIRE",
-      "date": "",
-      "slot": "",
+      "date": "2026-10-26",
+      "slot": "Personnalisé",
       "startTime": "",
-      "duration": 1,
-      "agentCount": 1,
-      "agents": [],
+      "duration": 2,
+      "agentCount": 3,
+      "agents": [
+        "a16",
+        "a17",
+        "a18"
+      ],
       "vehicles": [],
       "requester": "DIRECTION ECOLE PRIMAIRE",
-      "description": "Mainti4 000006339\nDélai / urgence : DANS LE MOIS\nDemande du : 20/10/2026\nDemandeur : DIRECTION ECOLE PRIMAIRE\nÉtat Mainti4 : En attente",
+      "description": "Bonjour,\n\nConformément à la demande formulée par les représentants des parents d'élèves, je sollicite l'intervention des services techniques pour la réfection du marquage au sol des zones de sécurité situées aux abords des portails de l'école.\n\nIl s'agit de repeindre les zones matérialisées en jaune, en utilisant **une peinture antidérapante adaptée aux espaces extérieurs**, afin de limiter les risques de glissade, notamment par temps de pluie.\n\nCette demande fait suite aux observations des représentants des parents d'élèves concernant la sécurité des cheminements aux entrées de l'établissement.\n\nJe vous remercie par avance de l'attention portée à cette demande et de votre intervention.\n\nM Gibergues  \nDirecteur de l'école élémentaire Claude-Daniel de Laurès\nÉtat Mainti4 : En attente",
       "report": "",
       "status": "À faire",
       "priority": "Normale",
@@ -14059,7 +14063,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-21T14:14:13.500Z"
+      "updatedAt": "2026-10-21T14:21:29.539Z"
     },
     {
       "id": "mmvi70nr03u86s",

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-21T14:21:29.876Z",
+  "generatedAt": "2026-10-21T14:23:42.830Z",
   "agents": [
     {
       "id": "a0",
@@ -13993,18 +13993,20 @@
       "id": "mmvi70nqzkc0du",
       "title": "B005 déplacer l'armoire",
       "bt": "000006340",
-      "team": "Moyens techniques",
-      "activity": "Autre",
+      "team": "Bâtiment",
+      "activity": "Mobilier et aménagement intérieur",
       "location": "SCO-PRIMAIRE",
-      "date": "",
-      "slot": "",
+      "date": "2026-10-22",
+      "slot": "Personnalisé",
       "startTime": "",
       "duration": 1,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a3"
+      ],
       "vehicles": [],
       "requester": "DIRECTION ECOLE PRIMAIRE",
-      "description": "Mainti4 000006340\nDélai / urgence : DANS LE MOIS\nDemande du : 20/10/2026\nDemandeur : DIRECTION ECOLE PRIMAIRE\nÉtat Mainti4 : En attente",
+      "description": "Classe / Enseignant:  03-CPC Mme VINCENTS Aurélie\nLieu de l'intervention: classe 3 CPC\nLieu de l'intervention: B005\nCatégorie de l'intervention: Mobilier\nType d'intervention: Travaux courants\nDescriptif de l'intervention demandée:\nBonjour,\n\nEst-il possible de déplacer l'armoire en travers au fond de la classe, à la\nplace de l'étagère qui aura été enlevée ? (demande précédente)",
       "report": "",
       "status": "À faire",
       "priority": "Normale",
@@ -14023,7 +14025,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-21T14:14:13.500Z"
+      "updatedAt": "2026-10-21T14:23:42.548Z"
     },
     {
       "id": "mmvi70nqz5plmy",

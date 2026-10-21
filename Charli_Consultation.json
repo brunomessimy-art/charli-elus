@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-21T14:14:13.834Z",
+  "generatedAt": "2026-10-21T14:16:08.992Z",
   "agents": [
     {
       "id": "a0",
@@ -14101,18 +14101,20 @@
       "id": "mmvi70nr0ssoaq",
       "title": "B005 déplacer l'étagère",
       "bt": "000006337",
-      "team": "Moyens techniques",
-      "activity": "Autre",
+      "team": "Bâtiment",
+      "activity": "Menuiserie et serrurerie",
       "location": "SCO-PRIMAIRE",
-      "date": "",
-      "slot": "",
+      "date": "2026-10-22",
+      "slot": "Personnalisé",
       "startTime": "",
-      "duration": 1,
+      "duration": 0.25,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a3"
+      ],
       "vehicles": [],
       "requester": "DIRECTION ECOLE PRIMAIRE",
-      "description": "Mainti4 000006337\nDélai / urgence : DANS LE MOIS\nDemande du : 20/10/2026\nDemandeur : DIRECTION ECOLE PRIMAIRE\nÉtat Mainti4 : En attente",
+      "description": "Classe / Enseignant:  07-CE1B M AZNAR Jean-Christophe\nLieu de l'intervention: Mescladis\nLieu de l'intervention: A001\nCatégorie de l'intervention: Autre\nType d'intervention: Autre\nDescriptif de l'intervention demandée:\nRéalisation d'une planche maraichère au Mescladis, dans la pinède.\nAvec Charlène, nous avons marqué au rubalise l'emplacement de la planche\nil faudrait pendant les vacances:\nLabourer sur 30 cm\népandre du compost (10cm)\npasser le rotovator ou les disques pour avoir une surface semable\nÉtat Mainti4 : En attente",
       "report": "",
       "status": "À faire",
       "priority": "Normale",
@@ -14131,7 +14133,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-21T14:14:13.501Z"
+      "updatedAt": "2026-10-21T14:16:08.684Z"
     }
   ],
   "chantiers": [

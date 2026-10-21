@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-21T11:35:44.797Z",
+  "generatedAt": "2026-10-21T11:36:42.177Z",
   "agents": [
     {
       "id": "a0",
@@ -12170,10 +12170,10 @@
     },
     {
       "id": "mmvazbwy24ef8l",
-      "title": "MISSIONS NON PLANIFIERS",
+      "title": "PLANTATION ARBRE COURT DES ECOLES",
       "bt": "",
       "team": "Voirie",
-      "activity": "Autre",
+      "activity": "Terrassement et préparation de chantier",
       "location": "GIGNAC",
       "date": "2026-10-23",
       "slot": "Personnalisé",
@@ -12206,7 +12206,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T13:05:24.187Z"
+      "updatedAt": "2026-10-21T11:36:41.886Z"
     },
     {
       "id": "mmvazerkpljfeg",

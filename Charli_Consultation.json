@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-21T14:28:17.902Z",
+  "generatedAt": "2026-10-21T14:30:19.688Z",
   "agents": [
     {
       "id": "a0",
@@ -13959,18 +13959,20 @@
       "id": "mmvi70nqxlwh74",
       "title": "B005 déplacer l'étagère",
       "bt": "000006341",
-      "team": "Moyens techniques",
-      "activity": "Autre",
+      "team": "Bâtiment",
+      "activity": "Menuiserie et serrurerie",
       "location": "SCO-PRIMAIRE",
-      "date": "",
-      "slot": "",
+      "date": "2026-10-22",
+      "slot": "Personnalisé",
       "startTime": "",
       "duration": 1,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a3"
+      ],
       "vehicles": [],
       "requester": "DIRECTION ECOLE PRIMAIRE",
-      "description": "Mainti4 000006341\nDélai / urgence : DANS LE MOIS\nDemande du : 20/10/2026\nDemandeur : DIRECTION ECOLE PRIMAIRE\nÉtat Mainti4 : En attente",
+      "description": "Classe / Enseignant:  03-CPC Mme VINCENTS Aurélie\nLieu de l'intervention: classe 3 CPC\nLieu de l'intervention: B005\nCatégorie de l'intervention: Mobilier\nType d'intervention: Travaux courants\nDescriptif de l'intervention demandée:\nBonjour,\n\nEst-il possible de déplacer l'étagère à droite du bureau de maitresse au\ndessus de l'étagère identique au fond à gauche de la classe ?",
       "report": "",
       "status": "À faire",
       "priority": "Normale",
@@ -13989,7 +13991,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-21T14:14:13.500Z"
+      "updatedAt": "2026-10-21T14:30:19.387Z"
     },
     {
       "id": "mmvi70nqzkc0du",

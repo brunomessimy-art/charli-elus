@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-21T13:00:37.828Z",
+  "generatedAt": "2026-10-21T13:13:33.077Z",
   "agents": [
     {
       "id": "a0",
@@ -11313,7 +11313,7 @@
     },
     {
       "id": "mmvalrtg8qlkvu",
-      "title": "INSTALLATION PETIT PODIUM AU PESU 10 M² CONTACTER LE POMPIER ARNAUDIN",
+      "title": "INSTALLATION PETIT PODIUM AU PESU 10 M² CONTACTER LE POMPIER ARNAUDIN LE 03/11",
       "bt": "",
       "team": "Festivités",
       "activity": "Installation de manifestations et événements",
@@ -11348,7 +11348,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T06:47:06.266Z"
+      "updatedAt": "2026-10-21T13:13:32.223Z"
     },
     {
       "id": "mmvam577k3swfw",

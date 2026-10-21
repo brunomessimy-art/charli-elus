@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-21T14:16:08.992Z",
+  "generatedAt": "2026-10-21T14:18:54.745Z",
   "agents": [
     {
       "id": "a0",
@@ -14065,18 +14065,20 @@
       "id": "mmvi70nr03u86s",
       "title": "B005 réparer le tabouret",
       "bt": "000006338",
-      "team": "Moyens techniques",
-      "activity": "Autre",
+      "team": "Bâtiment",
+      "activity": "Mobilier et aménagement intérieur",
       "location": "SCO-PRIMAIRE",
-      "date": "",
-      "slot": "",
+      "date": "2026-10-22",
+      "slot": "Personnalisé",
       "startTime": "",
       "duration": 1,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a3"
+      ],
       "vehicles": [],
       "requester": "DIRECTION ECOLE PRIMAIRE",
-      "description": "Mainti4 000006338\nDélai / urgence : DANS LE MOIS\nDemande du : 20/10/2026\nDemandeur : DIRECTION ECOLE PRIMAIRE\nÉtat Mainti4 : En attente",
+      "description": "Classe / Enseignant:  03-CPC Mme VINCENTS Aurélie\nLieu de l'intervention: classe 3 CPC\nLieu de l'intervention: B005\nCatégorie de l'intervention: Mobilier\nType d'intervention: Entretien/réparations\nDescriptif de l'intervention demandée:\nEst-il possible de réparer le tabouret posé sur les tables au fond de la\nclasse ?\nIl a été tordu et je n'arrive pas à le dévisser / revisser correctement.",
       "report": "",
       "status": "À faire",
       "priority": "Normale",
@@ -14095,7 +14097,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-21T14:14:13.500Z"
+      "updatedAt": "2026-10-21T14:18:54.397Z"
     },
     {
       "id": "mmvi70nr0ssoaq",

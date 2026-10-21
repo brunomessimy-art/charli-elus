@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-21T13:14:59.247Z",
+  "generatedAt": "2026-10-21T13:21:39.036Z",
   "agents": [
     {
       "id": "a0",
@@ -13833,6 +13833,48 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-21T13:14:43.191Z"
+    },
+    {
+      "id": "mmvi539y6i6qp3",
+      "title": "Description : Effectuer le nettoyage des rues et des espaces publics situés sur le parcours de la visite de Mme la Préfète.  Secteurs concernés :  Maison du Tourisme et des Mobilités  Pôle Santé  Halle des Sports  Lycée Simone Veil  Métropole Les Jardins  Espace culturel Sonambule  Site de la Meuse  Barrage  Place de Verdun  Rue du Place Saint-Pierre  Puits de l'Olivette  Place de la Victoire  Esplanade  Rue de la République  Consignes : Assurer le ramassage des déchets, le nettoyage des abords et la propreté générale du circuit avant le passage de la délégation.",
+      "bt": "",
+      "team": "Propreté",
+      "activity": "Nettoyage des espaces publics et places",
+      "location": "gignac",
+      "date": "2026-11-06",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 3,
+      "agentCount": 5,
+      "agents": [
+        "a11",
+        "a10",
+        "a14",
+        "a13",
+        "a12"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-21T13:21:38.800Z"
     }
   ],
   "chantiers": [

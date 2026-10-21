@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-21T13:13:33.077Z",
+  "generatedAt": "2026-10-21T13:14:43.434Z",
   "agents": [
     {
       "id": "a0",
@@ -13793,6 +13793,46 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-20T07:18:23.148Z"
+    },
+    {
+      "id": "mmvi4v4dyitw0a",
+      "title": "AVEC EQUIPE FESTIVITES INSTALLATION PETIT PODIUM AU PESU 10 M² CONTACTER LE POMPIER ARNAUDIN LE 03/11",
+      "bt": "",
+      "team": "Voirie",
+      "activity": "Renfort d’une autre équipe",
+      "location": "PESU",
+      "date": "2026-11-03",
+      "slot": "Personnalisé",
+      "startTime": "08:00",
+      "duration": 2.5,
+      "agentCount": 3,
+      "agents": [
+        "a16",
+        "a17",
+        "a18"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-21T13:14:43.191Z"
     }
   ],
   "chantiers": [

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-22T08:18:02.658Z",
+  "generatedAt": "2026-10-22T08:19:00.448Z",
   "agents": [
     {
       "id": "a0",
@@ -13564,46 +13564,6 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-20T06:25:29.666Z"
-    },
-    {
-      "id": "mmvgbjvvmtqcgb",
-      "title": "A FAIRE AVEC WILFRIED Encombrants Garage école Je souhaiterais débarrasser des grands encombrants de mon garage sous les écoles , serait il possible de venir le jeudi 29 octobre à l'ALAE, pour m'en débarrasser. me contacter 06.78.09.38.84",
-      "bt": "000006335",
-      "team": "Propreté",
-      "activity": "Transport, livraison et manutention",
-      "location": "SCO-ALAE",
-      "date": "",
-      "slot": "Personnalisé",
-      "startTime": "",
-      "duration": 1,
-      "agentCount": 3,
-      "agents": [
-        "a14",
-        "a11",
-        "a13"
-      ],
-      "vehicles": [],
-      "requester": "Sandrine GUSMAROLI",
-      "description": "Je souhaiterais débarrasser des grands encombrants de mon garage sous les écoles , serait il possible de venir le jeudi 29 octobre à l'ALAE, pour m'en débarrasser. me contacter 06.78.09.38.84",
-      "report": "",
-      "status": "À faire",
-      "priority": "Normale",
-      "kind": "Ponctuelle",
-      "source": "Import Mainti4 Demandes",
-      "progress": null,
-      "watchLevel": "",
-      "watchNote": "",
-      "pinned": true,
-      "codir": false,
-      "project": "",
-      "projectStatus": "",
-      "nextStep": "",
-      "decision": "",
-      "deadline": "",
-      "terrainProblem": false,
-      "terrainComment": "",
-      "terrainProblemReport": "",
-      "updatedAt": "2026-10-22T08:18:02.423Z"
     },
     {
       "id": "mmvgbokux7ugeg",

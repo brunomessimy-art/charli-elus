@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-22T08:19:20.596Z",
+  "generatedAt": "2026-10-22T08:19:34.462Z",
   "agents": [
     {
       "id": "a0",
@@ -13431,11 +13431,11 @@
       "requester": "Sandrine GUSMAROLI",
       "description": "Je souhaiterais débarrasser des grands encombrants de mon garage sous les écoles , serait il possible de venir le jeudi 29 octobre à l'ALAE, pour m'en débarrasser. me contacter 06.78.09.38.84",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Demandes",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -13448,7 +13448,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-22T08:19:20.370Z"
+      "updatedAt": "2026-10-22T08:19:34.250Z"
     },
     {
       "id": "mmvgar478ps8ax",

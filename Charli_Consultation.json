@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-22T08:00:15.866Z",
+  "generatedAt": "2026-10-22T08:01:55.059Z",
   "agents": [
     {
       "id": "a0",
@@ -14146,6 +14146,45 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-21T14:28:17.468Z"
+    },
+    {
+      "id": "mmvj941hnnb1v8",
+      "title": "WILFRIED ET JORIS INVESTIGATIONS A MENER A LA MEDIATHEQUE CONCERNANT DES COUPURES DE COURANT INTEMPESTIVES",
+      "bt": "",
+      "team": "Bâtiment",
+      "activity": "Électricité et éclairage",
+      "location": "MEDIATHEQUE",
+      "date": "2026-10-22",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 1,
+      "agentCount": 2,
+      "agents": [
+        "a3",
+        "a2"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-22T08:01:54.699Z"
     }
   ],
   "chantiers": [

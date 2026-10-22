@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-22T08:20:43.371Z",
+  "generatedAt": "2026-10-22T08:21:18.503Z",
   "agents": [
     {
       "id": "a0",
@@ -14152,14 +14152,17 @@
       "title": "fête halloween",
       "bt": "000006348",
       "team": "Festivités",
-      "activity": "Autre",
+      "activity": "Transport et manutention de matériel",
       "location": "LE MESCLADIS",
-      "date": "",
+      "date": "2026-10-30",
       "slot": "Personnalisé",
       "startTime": "",
       "duration": 1,
-      "agentCount": 1,
-      "agents": [],
+      "agentCount": 2,
+      "agents": [
+        "a15",
+        "amupb01cp96x3c"
+      ],
       "vehicles": [],
       "requester": "Charlène GAURICHON",
       "description": "Mainti4 000006348\nDélai / urgence : Jusqu'au 30/10/2026 09:00\nDemande du : 22/10/2026\nDemandeur : Charlène GAURICHON\nÉtat Mainti4 : En attente",
@@ -14181,7 +14184,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-22T08:13:24.084Z"
+      "updatedAt": "2026-10-22T08:21:18.147Z"
     },
     {
       "id": "mmvj9klu9mz7f6",

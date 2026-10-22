@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-22T14:11:27.249Z",
+  "generatedAt": "2026-10-22T14:14:38.222Z",
   "agents": [
     {
       "id": "a0",
@@ -14271,9 +14271,9 @@
       "name": "INFILTRATION MEDIATHEQUE",
       "location": "",
       "description": "Bâtiments concernés : Médiathèque, HDS, Sportif, RIVERAL\nPassage de wilfried le mardi 6/10 pas situé la fuite...\n15/10/26 relance par téléphone et par mail ce jour pour date d'intervention",
-      "manager": "",
+      "manager": "Joris MIRA",
       "status": "À préparer",
-      "priority": "Normale",
+      "priority": "Haute",
       "progress": 5,
       "watchLevel": "Critique",
       "watchNote": "",
@@ -14282,33 +14282,13 @@
       "startDate": "",
       "endDate": "",
       "reportDate": "",
-      "observations": "",
+      "observations": "•\tConstat des infiltrations : Le 1er octobre dernier, des problèmes d'infiltrations d'eau ont été signalés au sein de la médiathèque, pendant les intempéries d'une forte intensité. Notamment autour des Velux au dessus des collections. \n \n•\tSuivi et prestataire : Un rendez-vous a rapidement été pris avec le prestataire extérieur O Toit Occitan, le 20/10/26, afin d'expertiser l'origine des fuites et procéder aux réparations nécessaires sur la toiture. \n•\tExpertise et suite : Le responsable technico-commercial de l'entreprise conclut a des problèmes sur l'entourage zinc des velux ( chevauchement faible, et soudure fragile ou mal réalisé ). Il va rapidement faire une proposition de mesures conservatoires avec reprise des points cités.",
       "issues": "",
       "nextAction": "",
       "blockers": "",
       "decision": "",
-      "updatedAt": "2026-10-19T05:52:47.607Z",
+      "updatedAt": "2026-10-22T14:14:37.988Z",
       "companies": [
-        {
-          "id": "comuuvhltms2fg9",
-          "name": "AQUA SOLUTION",
-          "contact": "",
-          "phone": "0781005206",
-          "email": "",
-          "specialty": "",
-          "forecast": 0,
-          "actual": 0
-        },
-        {
-          "id": "comuuvht7hsb9e4",
-          "name": "AQUA SOLUTION",
-          "contact": "",
-          "phone": "0449056250",
-          "email": "",
-          "specialty": "",
-          "forecast": 0,
-          "actual": 0
-        },
         {
           "id": "comuwnq87zyz1mw",
           "name": "otoitoccitant",
@@ -14325,7 +14305,7 @@
           "id": "phmuuvjsfb7tnmr",
           "name": "",
           "date": "2026-10-05",
-          "companyId": "comuuvhltms2fg9",
+          "companyId": "",
           "mission": "",
           "status": "À venir",
           "duration": "",
@@ -14337,7 +14317,7 @@
           "id": "phmuv6z9r6e9so8",
           "name": "",
           "date": "2026-10-05",
-          "companyId": "comuuvhltms2fg9",
+          "companyId": "",
           "mission": "CONTACTE TELE",
           "status": "À venir",
           "duration": "",

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-22T14:15:03.604Z",
+  "generatedAt": "2026-10-22T14:16:35.484Z",
   "agents": [
     {
       "id": "a0",
@@ -14272,7 +14272,7 @@
       "location": "",
       "description": "Bâtiments concernés : Médiathèque, HDS, Sportif, RIVERAL\nPassage de wilfried le mardi 6/10 pas situé la fuite...\n15/10/26 relance par téléphone et par mail ce jour pour date d'intervention",
       "manager": "Joris MIRA",
-      "status": "À préparer",
+      "status": "En cours",
       "priority": "Haute",
       "progress": 15,
       "watchLevel": "Critique",
@@ -14287,7 +14287,7 @@
       "nextAction": "",
       "blockers": "",
       "decision": "",
-      "updatedAt": "2026-10-22T14:15:03.354Z",
+      "updatedAt": "2026-10-22T14:16:35.178Z",
       "companies": [
         {
           "id": "comuwnq87zyz1mw",

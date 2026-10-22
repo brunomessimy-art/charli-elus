@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-22T08:13:24.478Z",
+  "generatedAt": "2026-10-22T08:14:01.478Z",
   "agents": [
     {
       "id": "a0",
@@ -14227,14 +14227,16 @@
       "title": "dechets sauvages",
       "bt": "000006346",
       "team": "Propreté",
-      "activity": "Autre",
+      "activity": "Enlèvement des dépôts sauvages",
       "location": "LOTISSEMENT L'ENCLOS",
-      "date": "",
-      "slot": "",
+      "date": "2026-10-22",
+      "slot": "Personnalisé",
       "startTime": "",
       "duration": 1,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a13"
+      ],
       "vehicles": [],
       "requester": "DIAZ Estelle",
       "description": "Mainti4 000006346\nDélai / urgence : DANS LA JOURNÉE\nDemande du : 22/10/2026\nDemandeur : DIAZ Estelle\nÉtat Mainti4 : En attente",
@@ -14256,7 +14258,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-22T08:13:24.085Z"
+      "updatedAt": "2026-10-22T08:14:01.234Z"
     }
   ],
   "chantiers": [

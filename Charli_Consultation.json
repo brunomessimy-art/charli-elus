@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-22T08:27:29.848Z",
+  "generatedAt": "2026-10-22T08:27:46.339Z",
   "agents": [
     {
       "id": "a0",
@@ -13432,11 +13432,11 @@
       "requester": "Sandrine GUSMAROLI",
       "description": "Enlever les encombrants de la cour de l'ALAE, rangement cartable.",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Demandes",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -13449,7 +13449,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-20T06:40:01.122Z"
+      "updatedAt": "2026-10-22T08:27:46.098Z"
     },
     {
       "id": "mmvgar478a6wvl",

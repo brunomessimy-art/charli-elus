@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-22T08:25:41.674Z",
+  "generatedAt": "2026-10-22T08:26:21.956Z",
   "agents": [
     {
       "id": "a0",
@@ -14223,6 +14223,46 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-22T08:22:17.842Z"
+    },
+    {
+      "id": "mmvja0t0qbcsnc",
+      "title": "A FAIRE AVEC EQUIPE PROPRETE Encombrants Garage école Je souhaiterais débarrasser des grands encombrants de mon garage sous les écoles , serait il possible de venir le jeudi 29 octobre à l'ALAE, pour m'en débarrasser. me contacter 06.78.09.38.84",
+      "bt": "",
+      "team": "Propreté",
+      "activity": "Transport, livraison et manutention",
+      "location": "",
+      "date": "2026-10-29",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 1,
+      "agentCount": 3,
+      "agents": [
+        "a11",
+        "a14",
+        "a13"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-22T08:26:21.730Z"
     }
   ],
   "chantiers": [

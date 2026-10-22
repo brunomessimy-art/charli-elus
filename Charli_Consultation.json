@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-22T08:27:26.976Z",
+  "generatedAt": "2026-10-22T08:27:29.848Z",
   "agents": [
     {
       "id": "a0",
@@ -11256,11 +11256,11 @@
       "requester": "Christelle CLAPIER",
       "description": "Mainti4 000006302\nDélai / urgence : SOUS 7 JOURS\nDemande du : 09/10/2026\nDemandeur : Christelle CLAPIER\nÉtat Mainti4 : En attente",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S42 → S43",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -11273,7 +11273,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-14T12:37:39.502Z"
+      "updatedAt": "2026-10-22T08:27:29.475Z"
     },
     {
       "id": "mmval1s3w6x5u3",

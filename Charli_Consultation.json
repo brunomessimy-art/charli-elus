@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-22T14:14:38.222Z",
+  "generatedAt": "2026-10-22T14:15:03.604Z",
   "agents": [
     {
       "id": "a0",
@@ -14274,7 +14274,7 @@
       "manager": "Joris MIRA",
       "status": "À préparer",
       "priority": "Haute",
-      "progress": 5,
+      "progress": 15,
       "watchLevel": "Critique",
       "watchNote": "",
       "pinned": true,
@@ -14287,7 +14287,7 @@
       "nextAction": "",
       "blockers": "",
       "decision": "",
-      "updatedAt": "2026-10-22T14:14:37.988Z",
+      "updatedAt": "2026-10-22T14:15:03.354Z",
       "companies": [
         {
           "id": "comuwnq87zyz1mw",

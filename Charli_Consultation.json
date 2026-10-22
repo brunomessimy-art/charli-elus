@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-22T08:26:56.613Z",
+  "generatedAt": "2026-10-22T08:27:26.976Z",
   "agents": [
     {
       "id": "a0",
@@ -11218,11 +11218,11 @@
       "requester": "ROISNET",
       "description": "Mainti4 000006306\nDélai / urgence : DANS LA JOURNÉE\nDemande du : 12/10/2026\nDemandeur : ROISNET\nÉtat Mainti4 : En attente",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Urgente",
       "kind": "Ponctuelle",
       "source": "Copie S42 → S43",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -11235,7 +11235,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-14T12:43:38.910Z"
+      "updatedAt": "2026-10-22T08:27:26.746Z"
     },
     {
       "id": "mmval1s3wo3g5q",

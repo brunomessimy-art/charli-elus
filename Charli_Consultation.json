@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T08:08:26.230Z",
+  "generatedAt": "2026-10-23T08:16:58.715Z",
   "agents": [
     {
       "id": "a0",
@@ -9961,11 +9961,11 @@
       "requester": "",
       "description": "Vu dimensions avec Didier :\n- pose de 2 tablettes pour présentation communication dans le sas\n- pose de film occultant sur la vitre du bas dans le sas",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Manuel",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -9978,7 +9978,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-14T08:13:44.700Z"
+      "updatedAt": "2026-10-23T08:16:58.450Z"
     },
     {
       "id": "mmv862fmzzk5yg",

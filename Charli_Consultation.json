@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T12:49:57.279Z",
+  "generatedAt": "2026-10-23T12:50:06.404Z",
   "agents": [
     {
       "id": "a0",
@@ -14931,11 +14931,11 @@
       "requester": "Bruno CIALDELLA",
       "description": "Mainti4 000015482\nDemande du : 18/03/2026\nDemandeur : Bruno CIALDELLA\nType de travaux : REPARATION / CORRECTIF\nÉtat Mainti4 : Réalisé(e)",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Bons de travaux",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -14948,7 +14948,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T08:44:32.018Z"
+      "updatedAt": "2026-10-23T12:50:06.095Z"
     },
     {
       "id": "mmvkwi6xi8bc3b",

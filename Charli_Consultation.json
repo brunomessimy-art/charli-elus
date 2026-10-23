@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T12:53:46.614Z",
+  "generatedAt": "2026-10-23T12:54:21.954Z",
   "agents": [
     {
       "id": "a0",
@@ -10712,7 +10712,7 @@
       "title": "Mairie + cours des écoles",
       "bt": "",
       "team": "Propreté",
-      "activity": "Autre",
+      "activity": "Nettoyage des espaces publics et places",
       "location": "Mairie + cours des écoles",
       "date": "2026-10-21",
       "slot": "Personnalisé",
@@ -10744,7 +10744,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T11:57:47.213Z"
+      "updatedAt": "2026-10-23T12:54:21.704Z"
     },
     {
       "id": "mmval1s3l0r96q",

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T12:34:47.038Z",
+  "generatedAt": "2026-10-23T12:35:58.338Z",
   "agents": [
     {
       "id": "a0",
@@ -16200,6 +16200,45 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-23T12:34:46.679Z"
+    },
+    {
+      "id": "mmvkyd0lbr2w57",
+      "title": "ENTRETIEN NETTOYAGE VEHICULES ENGINS ET ATELIERS",
+      "bt": "",
+      "team": "Espaces verts",
+      "activity": "Entretien des véhicules, engins et matériels",
+      "location": "",
+      "date": "2026-10-30",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 3.5,
+      "agentCount": 2,
+      "agents": [
+        "a7",
+        "a6"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-23T12:35:58.096Z"
     }
   ],
   "chantiers": [

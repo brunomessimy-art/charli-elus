@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T12:52:12.268Z",
+  "generatedAt": "2026-10-23T12:52:37.771Z",
   "agents": [
     {
       "id": "a0",
@@ -10412,7 +10412,7 @@
       "title": "Tournée en binôme Simon / Philippe",
       "bt": "",
       "team": "Propreté",
-      "activity": "Autre",
+      "activity": "Vidage des corbeilles et ramassage des déchets",
       "location": "Non précisé",
       "date": "2026-10-19",
       "slot": "Personnalisé",
@@ -10444,7 +10444,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T11:57:35.318Z"
+      "updatedAt": "2026-10-23T12:52:37.513Z"
     },
     {
       "id": "mmval1s3e1ac6e",

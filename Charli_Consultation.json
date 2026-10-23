@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T08:17:36.986Z",
+  "generatedAt": "2026-10-23T08:17:41.565Z",
   "agents": [
     {
       "id": "a0",
@@ -13469,11 +13469,11 @@
       "requester": "Sandrine GUSMAROLI",
       "description": "Dans le local matériel de l'école les deux petites cages de foot sont disloquées, quelques vis à remettre.",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Demandes",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -13486,7 +13486,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-20T06:28:33.826Z"
+      "updatedAt": "2026-10-23T08:17:39.290Z"
     },
     {
       "id": "mmvgar479ohqgb",
@@ -13507,11 +13507,11 @@
       "requester": "Sandrine GUSMAROLI",
       "description": "Je souhaiterais que vous répariez une planche de la cabane en bois que menace de tomber, planche devant ouverture (rebord)",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Demandes",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -13524,7 +13524,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-20T06:25:29.666Z"
+      "updatedAt": "2026-10-23T08:17:41.266Z"
     },
     {
       "id": "mmvgbokux7ugeg",

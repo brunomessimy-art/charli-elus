@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T14:04:38.521Z",
+  "generatedAt": "2026-10-23T14:04:51.545Z",
   "agents": [
     {
       "id": "a0",
@@ -15559,7 +15559,7 @@
       "title": "tournee goupil du mercredi",
       "bt": "",
       "team": "Propreté",
-      "activity": "Balayage",
+      "activity": "Balayage et nettoyage manuel",
       "location": "",
       "date": "2026-10-28",
       "slot": "Personnalisé",
@@ -15590,7 +15590,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T11:57:02.150Z"
+      "updatedAt": "2026-10-23T14:04:51.282Z"
     },
     {
       "id": "mmvkwwk15ft8vc",

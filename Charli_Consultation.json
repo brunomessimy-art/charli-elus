@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T07:50:50.072Z",
+  "generatedAt": "2026-10-23T08:07:13.936Z",
   "agents": [
     {
       "id": "a0",
@@ -14575,6 +14575,45 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-23T07:50:49.935Z"
+    },
+    {
+      "id": "mmvkoqj9rjp9fq",
+      "title": "TRAVAUX NON PROGRAMMES",
+      "bt": "",
+      "team": "Voirie",
+      "activity": "Travaux divers de voirie",
+      "location": "GIGNAC",
+      "date": "2026-10-29",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 7.5,
+      "agentCount": 2,
+      "agents": [
+        "a16",
+        "a17"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-23T08:07:13.792Z"
     }
   ],
   "chantiers": [

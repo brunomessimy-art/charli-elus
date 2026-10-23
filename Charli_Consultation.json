@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T13:27:17.683Z",
+  "generatedAt": "2026-10-23T13:28:17.465Z",
   "agents": [
     {
       "id": "a0",
@@ -16584,15 +16584,17 @@
       "id": "mmvl06dltylct9",
       "title": "Administratif",
       "bt": "000017644",
-      "team": "Moyens techniques",
-      "activity": "ADMINISTRATIF",
+      "team": "Bâtiment",
+      "activity": "Maçonnerie et petites réparations",
       "location": "ATELIERS MUNICIPAUX",
       "date": "2026-10-23",
-      "slot": "",
+      "slot": "Personnalisé",
       "startTime": "",
       "duration": 1,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a2"
+      ],
       "vehicles": [],
       "requester": "",
       "description": "Mainti4 000017644\nDemande du : 23/10/2026\nType de travaux : ADMINISTRATIF\nÉtat Mainti4 : Réalisé(e)",
@@ -16614,7 +16616,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T13:25:53.843Z"
+      "updatedAt": "2026-10-23T13:28:17.065Z"
     },
     {
       "id": "mmvl06dlwif0iw",

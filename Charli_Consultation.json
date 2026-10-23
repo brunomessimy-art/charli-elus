@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T12:49:01.630Z",
+  "generatedAt": "2026-10-23T12:49:57.279Z",
   "agents": [
     {
       "id": "a0",
@@ -14763,44 +14763,6 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-23T08:59:05.011Z"
-    },
-    {
-      "id": "mmvkple0efif4i",
-      "title": "frigo viande",
-      "bt": "000017515",
-      "team": "Bâtiment",
-      "activity": "Électricité et éclairage",
-      "location": "RESTAURANT SCOLAIRE",
-      "date": "2026-10-23",
-      "slot": "Personnalisé",
-      "startTime": "",
-      "duration": 1,
-      "agentCount": 1,
-      "agents": [
-        "a2"
-      ],
-      "vehicles": [],
-      "requester": "Paco SEIGNERT",
-      "description": "Bonjour, le frigo viande ne fonctionne plus, j'aimerais effectuer quelques vérification avant l'éventuel achat d'un frigo neuf. je  vous remercie\n\nMainti4 000017515\nDemande du : 22/09/2026\nDemandeur : Paco SEIGNERT\nType de travaux : REPARATION / CORRECTIF\nÉtat Mainti4 : Réalisé(e)",
-      "report": "",
-      "status": "À faire",
-      "priority": "Normale",
-      "kind": "Ponctuelle",
-      "source": "Import Mainti4 Bons de travaux",
-      "progress": null,
-      "watchLevel": "",
-      "watchNote": "",
-      "pinned": false,
-      "codir": false,
-      "project": "",
-      "projectStatus": "",
-      "nextStep": "",
-      "decision": "",
-      "deadline": "",
-      "terrainProblem": false,
-      "terrainComment": "",
-      "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T08:33:53.490Z"
     },
     {
       "id": "mmvkple0e9c0eu",

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T11:54:56.163Z",
+  "generatedAt": "2026-10-23T11:55:57.412Z",
   "agents": [
     {
       "id": "a0",
@@ -15461,7 +15461,7 @@
       "requester": "",
       "description": "Cimetière - AGENT: Fabrice - DATE: 12/02/2026 - DUREE: 3 h 30",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15478,7 +15478,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T09:47:57.324Z"
+      "updatedAt": "2026-10-23T11:55:50.952Z"
     },
     {
       "id": "mmvkwwk13c992i",
@@ -15762,7 +15762,7 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15779,7 +15779,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-09T08:47:27.654Z"
+      "updatedAt": "2026-10-23T11:55:53.542Z"
     },
     {
       "id": "mmvkwwk17h9ypl",
@@ -15800,7 +15800,7 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15817,7 +15817,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-14T12:43:04.134Z"
+      "updatedAt": "2026-10-23T11:55:54.613Z"
     },
     {
       "id": "mmvkwwk17he7oz",
@@ -15874,7 +15874,7 @@
       "requester": "ROISNET",
       "description": "Mainti4 000006306\nDélai / urgence : DANS LA JOURNÉE\nDemande du : 12/10/2026\nDemandeur : ROISNET\nÉtat Mainti4 : En attente",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Urgente",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15891,7 +15891,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-22T08:27:26.746Z"
+      "updatedAt": "2026-10-23T11:55:55.392Z"
     },
     {
       "id": "mmvkwwk18mvrr7",
@@ -15912,7 +15912,7 @@
       "requester": "Christelle CLAPIER",
       "description": "Mainti4 000006302\nDélai / urgence : SOUS 7 JOURS\nDemande du : 09/10/2026\nDemandeur : Christelle CLAPIER\nÉtat Mainti4 : En attente",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15929,7 +15929,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-22T08:27:29.475Z"
+      "updatedAt": "2026-10-23T11:55:56.445Z"
     },
     {
       "id": "mmvkwwk19fvr78",
@@ -16025,7 +16025,7 @@
       "requester": "DIAZ Estelle",
       "description": "Mainti4 000006346\nDélai / urgence : DANS LA JOURNÉE\nDemande du : 22/10/2026\nDemandeur : DIAZ Estelle\nÉtat Mainti4 : En attente",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Urgente",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -16042,7 +16042,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-22T08:26:56.379Z"
+      "updatedAt": "2026-10-23T11:55:57.245Z"
     }
   ],
   "chantiers": [

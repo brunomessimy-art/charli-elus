@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T13:32:03.380Z",
+  "generatedAt": "2026-10-23T13:32:27.836Z",
   "agents": [
     {
       "id": "a0",
@@ -16853,11 +16853,11 @@
       "requester": "",
       "description": "Mainti4 000017620\nDemande du : 19/10/2026\nType de travaux : TRAVAUX NEUFS\nÉtat Mainti4 : En cours",
       "report": "",
-      "status": "En cours",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Bons de travaux",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -16870,7 +16870,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T13:32:03.091Z"
+      "updatedAt": "2026-10-23T13:32:25.800Z"
     },
     {
       "id": "mmvl0e9s4ffhhl",
@@ -16925,11 +16925,11 @@
       "requester": "Charlène GAURICHON",
       "description": "Bonjour Estelle,\r\n \r\nsuite à une mise à disposition de la Maison des Jeunes pour l'association \"Tous Capables\", j'ai besoin d'un exemplaire de la clef pour leur remettre svp.\n\nMainti4 000017584\nDemande du : 30/09/2026\nDemandeur : Charlène GAURICHON\nType de travaux : ADMINISTRATIF\nÉtat Mainti4 : En cours",
       "report": "",
-      "status": "En cours",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Bons de travaux",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -16942,7 +16942,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T13:32:03.092Z"
+      "updatedAt": "2026-10-23T13:32:27.361Z"
     },
     {
       "id": "mmvl0e9s6cxvc2",

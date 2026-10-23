@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T11:39:53.512Z",
+  "generatedAt": "2026-10-23T11:40:29.399Z",
   "agents": [
     {
       "id": "a0",
@@ -9763,14 +9763,12 @@
       "team": "Espaces verts",
       "activity": "Débroussaillage et fauchage",
       "location": "ANCIEN CHEMIN DE LODEVE",
-      "date": "2026-10-19",
+      "date": "2026-10-27",
       "slot": "Personnalisé",
       "startTime": "",
       "duration": 3,
-      "agentCount": 3,
+      "agentCount": 1,
       "agents": [
-        "a6",
-        "a7",
         "a4"
       ],
       "vehicles": [],
@@ -9794,7 +9792,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T07:40:16.665Z"
+      "updatedAt": "2026-10-23T11:40:29.047Z"
     },
     {
       "id": "mmv6skin4tvpxt",

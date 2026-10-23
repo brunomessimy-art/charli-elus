@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T12:33:25.148Z",
+  "generatedAt": "2026-10-23T12:33:49.338Z",
   "agents": [
     {
       "id": "a0",
@@ -16161,6 +16161,45 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-23T12:33:24.896Z"
+    },
+    {
+      "id": "mmvkyb6zik44t3",
+      "title": "taille des lauriers à l'entrée du parc du mas-faugère + LOT DU PARC",
+      "bt": "",
+      "team": "Espaces verts",
+      "activity": "Taille des haies et arbustes",
+      "location": "parc du mas-faugère",
+      "date": "2026-10-29",
+      "slot": "Matin",
+      "startTime": "08:00",
+      "duration": 7.5,
+      "agentCount": 2,
+      "agents": [
+        "a7",
+        "a6"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "taille des lauriers à l'entrée du parc du mas-faugère",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Charli Terrain",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-23T12:33:49.071Z"
     }
   ],
   "chantiers": [

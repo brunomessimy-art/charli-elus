@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T13:32:27.836Z",
+  "generatedAt": "2026-10-23T13:32:32.740Z",
   "agents": [
     {
       "id": "a0",
@@ -16889,11 +16889,11 @@
       "requester": "",
       "description": "Mainti4 000017616\nDemande du : 19/10/2026\nType de travaux : ADMINISTRATIF\nÉtat Mainti4 : Validé(e) par le responsable",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Bons de travaux",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -16906,7 +16906,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T13:32:03.091Z"
+      "updatedAt": "2026-10-23T13:32:30.992Z"
     },
     {
       "id": "mmvl0e9s6nogik",
@@ -16997,11 +16997,11 @@
       "requester": "DIRECTION ECOLE MATERNELLE",
       "description": "Bonjour\r\nNous avons reçu deux vidéoprojecteurs à installer.\r\nIl y a un vidéo prévu pour la classe 9 (à l'étage) et l'autre en classe 2 (couloir bureau mélika).\r\nEst-ce que quelqu'un peut venir les installer? \r\nJe vous remercie\r\nMagali Dolain\n\nMainti4 000017375\nDemande du : 08/09/2026\nDemandeur : DIRECTION ECOLE MATERNELLE\nType de travaux : TRAVAUX NEUFS\nÉtat Mainti4 : En cours",
       "report": "",
-      "status": "En cours",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Bons de travaux",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -17014,7 +17014,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T13:32:03.092Z"
+      "updatedAt": "2026-10-23T13:32:32.044Z"
     }
   ],
   "chantiers": [

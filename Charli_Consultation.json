@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T08:40:12.532Z",
+  "generatedAt": "2026-10-23T08:41:40.965Z",
   "agents": [
     {
       "id": "a0",
@@ -14736,10 +14736,10 @@
       "team": "Bâtiment",
       "activity": "Préparation et organisation de chantier",
       "location": "GYMNASE LE RIVERAL",
-      "date": "2026-10-02",
+      "date": "2026-10-19",
       "slot": "Personnalisé",
       "startTime": "",
-      "duration": 2,
+      "duration": 1.5,
       "agentCount": 1,
       "agents": [
         "a2"
@@ -14765,7 +14765,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T08:34:55.253Z"
+      "updatedAt": "2026-10-23T08:41:40.682Z"
     },
     {
       "id": "mmvkple0efif4i",

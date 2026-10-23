@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T13:12:48.610Z",
+  "generatedAt": "2026-10-23T13:14:15.979Z",
   "agents": [
     {
       "id": "a0",
@@ -9063,7 +9063,9 @@
       "startTime": "08:00",
       "duration": 7.5,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a1"
+      ],
       "vehicles": [],
       "requester": "",
       "description": "VERIFIER LE BON FONCTIONNEMENT DES RADIATEURS DANS L'ENSEMBLE DES BATIMENTS",
@@ -9085,7 +9087,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-13T06:16:24.194Z"
+      "updatedAt": "2026-10-23T13:14:15.713Z"
     },
     {
       "id": "mmv6autne3r00b",

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T07:31:02.090Z",
+  "generatedAt": "2026-10-23T07:32:42.092Z",
   "agents": [
     {
       "id": "a0",
@@ -14336,6 +14336,46 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-23T07:28:22.783Z"
+    },
+    {
+      "id": "mmvknilgf2rvjr",
+      "title": "JOURNNE DE PLUIE VEILLE ECOULEMENT DES EAUX REPRISE FOSSES DEBUT PELICAN",
+      "bt": "",
+      "team": "Voirie",
+      "activity": "Entretien des fossés, caniveaux et eaux pluviales",
+      "location": "GIGNAC",
+      "date": "2026-10-19",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 7.5,
+      "agentCount": 3,
+      "agents": [
+        "a16",
+        "a17",
+        "a18"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-23T07:32:41.936Z"
     }
   ],
   "chantiers": [

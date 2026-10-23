@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T08:24:30.919Z",
+  "generatedAt": "2026-10-23T08:26:10.286Z",
   "agents": [
     {
       "id": "a0",
@@ -14652,6 +14652,44 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-23T08:24:30.619Z"
+    },
+    {
+      "id": "mmvkpffdjiemwv",
+      "title": "EVALUATION AVEC RESPONSABLE DES MOYENS TECHNIQUE",
+      "bt": "",
+      "team": "Bâtiment",
+      "activity": "Préparation et organisation de chantier",
+      "location": "ATELIERS",
+      "date": "2026-10-22",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 1.5,
+      "agentCount": 1,
+      "agents": [
+        "a2"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-23T08:26:09.899Z"
     }
   ],
   "chantiers": [

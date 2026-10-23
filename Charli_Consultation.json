@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T13:34:43.536Z",
+  "generatedAt": "2026-10-23T13:34:57.559Z",
   "agents": [
     {
       "id": "a0",
@@ -12720,11 +12720,11 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Manuel",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -12737,7 +12737,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T13:26:59.812Z"
+      "updatedAt": "2026-10-23T13:34:53.161Z"
     },
     {
       "id": "mmvb0524in2jxs",
@@ -12758,11 +12758,11 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Manuel",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -12775,7 +12775,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T13:27:18.075Z"
+      "updatedAt": "2026-10-23T13:34:54.152Z"
     },
     {
       "id": "mmvb05ez3qb5a0",
@@ -12796,11 +12796,11 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Manuel",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -12813,7 +12813,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T13:27:33.523Z"
+      "updatedAt": "2026-10-23T13:34:54.993Z"
     },
     {
       "id": "mmvb05ydmqd9e1",
@@ -12834,11 +12834,11 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Manuel",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -12851,7 +12851,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T13:28:00.483Z"
+      "updatedAt": "2026-10-23T13:34:56.093Z"
     },
     {
       "id": "mmvb06d3mb6wfq",
@@ -12872,11 +12872,11 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Manuel",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -12889,7 +12889,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T13:28:16.500Z"
+      "updatedAt": "2026-10-23T13:34:57.136Z"
     },
     {
       "id": "mmvb070rek92z0",

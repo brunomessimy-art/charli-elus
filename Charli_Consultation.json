@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T13:32:32.740Z",
+  "generatedAt": "2026-10-23T13:32:41.155Z",
   "agents": [
     {
       "id": "a0",
@@ -16673,11 +16673,11 @@
       "requester": "",
       "description": "Mainti4 000017641\nDemande du : 23/10/2026\nType de travaux : ADMINISTRATIF\nÉtat Mainti4 : Validé(e) par le responsable",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Bons de travaux",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -16690,7 +16690,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T13:32:03.091Z"
+      "updatedAt": "2026-10-23T13:32:37.050Z"
     },
     {
       "id": "mmvl0e9s1fjn64",
@@ -16709,11 +16709,11 @@
       "requester": "",
       "description": "Mainti4 000017640\nDemande du : 22/10/2026\nType de travaux : SUIVI PRESTA\nÉtat Mainti4 : En cours",
       "report": "",
-      "status": "En cours",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Bons de travaux",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -16726,7 +16726,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T13:32:03.091Z"
+      "updatedAt": "2026-10-23T13:32:38.474Z"
     },
     {
       "id": "mmvl0e9s2176xx",
@@ -16745,11 +16745,11 @@
       "requester": "Gilles COUGOUREUX",
       "description": "Mainti4 000017636\nDemande du : 22/10/2026\nDemandeur : Gilles COUGOUREUX\nType de travaux : REPARATION / CORRECTIF\nÉtat Mainti4 : En cours",
       "report": "",
-      "status": "En cours",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Bons de travaux",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -16762,7 +16762,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T13:32:03.091Z"
+      "updatedAt": "2026-10-23T13:32:39.649Z"
     },
     {
       "id": "mmvl0e9s2461lm",
@@ -16781,11 +16781,11 @@
       "requester": "",
       "description": "Mainti4 000017635\nDemande du : 22/10/2026\nType de travaux : SUIVI PRESTA\nÉtat Mainti4 : En cours",
       "report": "",
-      "status": "En cours",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Bons de travaux",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -16798,7 +16798,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T13:32:03.091Z"
+      "updatedAt": "2026-10-23T13:32:40.628Z"
     },
     {
       "id": "mmvl0e9s3wc5wa",

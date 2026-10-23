@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T12:51:43.662Z",
+  "generatedAt": "2026-10-23T12:51:59.820Z",
   "agents": [
     {
       "id": "a0",
@@ -14993,7 +14993,7 @@
       "title": "PLANTATION ARBRES COURT DES ECOLES",
       "bt": "",
       "team": "Espaces verts",
-      "activity": "Taille des haies et arbustes",
+      "activity": "Plantation et renouvellement végétal",
       "location": "GIGNAC",
       "date": "2026-10-23",
       "slot": "Personnalisé",
@@ -15026,7 +15026,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T11:53:15.214Z"
+      "updatedAt": "2026-10-23T12:51:59.568Z"
     },
     {
       "id": "mmvkwwk0w6euq0",

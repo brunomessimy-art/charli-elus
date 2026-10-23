@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T13:20:33.030Z",
+  "generatedAt": "2026-10-23T13:20:45.758Z",
   "agents": [
     {
       "id": "a0",
@@ -12399,7 +12399,7 @@
     },
     {
       "id": "mmvaziu8y8shuw",
-      "title": "INTERVENTIONS URGENTES TOUT CORPS D'ETAT + ELEC",
+      "title": "INTERVENTIONS URGENTES TOUT CORPS D'ETAT + ELEC TRAVAUX DANS LES ECOLES",
       "bt": "",
       "team": "Bâtiment",
       "activity": "Maintenance générale et interventions diverses",
@@ -12433,7 +12433,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T13:08:43.864Z"
+      "updatedAt": "2026-10-23T13:20:45.330Z"
     },
     {
       "id": "mmvazjhacshyaw",

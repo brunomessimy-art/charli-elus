@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T08:44:32.259Z",
+  "generatedAt": "2026-10-23T08:59:05.305Z",
   "agents": [
     {
       "id": "a0",
@@ -14748,11 +14748,11 @@
       "requester": "",
       "description": "Mainti4 000017531\nDemande du : 01/10/2026\nType de travaux : SUIVI PRESTA\nÉtat Mainti4 : Réalisé(e)",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Bons de travaux",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -14765,7 +14765,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T08:41:40.682Z"
+      "updatedAt": "2026-10-23T08:59:05.011Z"
     },
     {
       "id": "mmvkple0efif4i",

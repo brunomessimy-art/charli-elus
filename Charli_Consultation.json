@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T12:10:32.875Z",
+  "generatedAt": "2026-10-23T12:11:23.238Z",
   "agents": [
     {
       "id": "a0",
@@ -16043,6 +16043,45 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-23T11:57:12.886Z"
+    },
+    {
+      "id": "mmvkxi4zab06dz",
+      "title": "Entretien terrain de foot",
+      "bt": "",
+      "team": "Espaces verts",
+      "activity": "Autre",
+      "location": "Terrain de foot",
+      "date": "2026-10-30",
+      "slot": "Personnalisé",
+      "startTime": "08:00",
+      "duration": 3.5,
+      "agentCount": 2,
+      "agents": [
+        "a7",
+        "a6"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "Tonte et marquage au sol du terrain de foot.",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Copie S41 → S42",
+      "progress": 100,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-23T12:11:22.983Z"
     }
   ],
   "chantiers": [

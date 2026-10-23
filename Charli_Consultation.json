@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T08:41:40.965Z",
+  "generatedAt": "2026-10-23T08:42:56.261Z",
   "agents": [
     {
       "id": "a0",
@@ -14884,7 +14884,7 @@
       "team": "Bâtiment",
       "activity": "ORGANIGRAMME ELECTRONIQUE",
       "location": "GIGNAC",
-      "date": "2026-07-20",
+      "date": "2026-10-20",
       "slot": "Personnalisé",
       "startTime": "",
       "duration": 1.5,
@@ -14913,7 +14913,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T08:37:19.948Z"
+      "updatedAt": "2026-10-23T08:42:56.027Z"
     },
     {
       "id": "mmvkple0f2hn72",

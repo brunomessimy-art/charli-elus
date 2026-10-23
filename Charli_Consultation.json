@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T13:34:34.307Z",
+  "generatedAt": "2026-10-23T13:34:43.536Z",
   "agents": [
     {
       "id": "a0",
@@ -12606,7 +12606,7 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Manuel",
@@ -12623,7 +12623,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T13:19:04.307Z"
+      "updatedAt": "2026-10-23T13:34:36.876Z"
     },
     {
       "id": "mmvazv5iauu2we",
@@ -12644,7 +12644,7 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Manuel",
@@ -12661,7 +12661,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T13:19:34.275Z"
+      "updatedAt": "2026-10-23T13:34:40.730Z"
     },
     {
       "id": "mmvazvgren9sgn",
@@ -12682,7 +12682,7 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Manuel",
@@ -12699,7 +12699,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T13:19:50.811Z"
+      "updatedAt": "2026-10-23T13:34:42.513Z"
     },
     {
       "id": "mmvb030t6av131",
@@ -12910,7 +12910,7 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Manuel",
@@ -12927,7 +12927,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T13:28:47.715Z"
+      "updatedAt": "2026-10-23T13:34:38.977Z"
     },
     {
       "id": "mmvb07i4slownm",
@@ -12986,7 +12986,7 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Manuel",
@@ -13003,7 +13003,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T13:30:35.410Z"
+      "updatedAt": "2026-10-23T13:34:38.176Z"
     },
     {
       "id": "mmvb09qaa37uua",
@@ -13024,7 +13024,7 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Manuel",
@@ -13041,7 +13041,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T13:30:55.739Z"
+      "updatedAt": "2026-10-23T13:34:39.826Z"
     },
     {
       "id": "mmvb0a385jhcl8",
@@ -13062,7 +13062,7 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Manuel",
@@ -13079,7 +13079,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T13:31:09.915Z"
+      "updatedAt": "2026-10-23T13:34:41.728Z"
     },
     {
       "id": "mmvb0ai8v2f3kh",
@@ -13100,7 +13100,7 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Manuel",
@@ -13117,7 +13117,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T13:31:32.715Z"
+      "updatedAt": "2026-10-23T13:34:43.247Z"
     },
     {
       "id": "mmvf1j30vyx6tu",

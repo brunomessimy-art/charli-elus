@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T12:50:06.404Z",
+  "generatedAt": "2026-10-23T12:51:43.662Z",
   "agents": [
     {
       "id": "a0",
@@ -11734,7 +11734,7 @@
       "title": "Entretien terrain de foot",
       "bt": "",
       "team": "Espaces verts",
-      "activity": "Autre",
+      "activity": "Entretien des terrains et espaces naturels",
       "location": "Terrain de foot",
       "date": "2026-10-23",
       "slot": "Personnalisé",
@@ -11768,7 +11768,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T11:53:12.319Z"
+      "updatedAt": "2026-10-23T12:51:43.357Z"
     },
     {
       "id": "mmvanv7xkb1txv",

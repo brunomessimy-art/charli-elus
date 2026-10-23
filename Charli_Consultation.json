@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T11:57:55.656Z",
+  "generatedAt": "2026-10-23T11:58:03.827Z",
   "agents": [
     {
       "id": "a0",
@@ -10466,7 +10466,7 @@
       "requester": "",
       "description": "Tournée en binôme Simon / Philippe - AGENT: Simon - DATE: 09/02/2026 - DUREE: 7 h 30",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S42 → S43",
@@ -10483,7 +10483,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T09:47:59.678Z"
+      "updatedAt": "2026-10-23T11:57:58.543Z"
     },
     {
       "id": "mmval1s3fgi9st",
@@ -10839,7 +10839,7 @@
       "requester": "",
       "description": "WC publics - AGENT: Fabrice - DATE: 13/02/2026 - DUREE: 2 h 30",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S42 → S43",
@@ -10856,7 +10856,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T09:48:01.201Z"
+      "updatedAt": "2026-10-23T11:58:00.182Z"
     },
     {
       "id": "mmval1s3nav3bp",
@@ -10877,7 +10877,7 @@
       "requester": "",
       "description": "Grande balayeuse - préparation marché - AGENT: Bruno M. - DATE: 13/02/2026 - DUREE: 7 h",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S42 → S43",
@@ -10894,7 +10894,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T13:45:07.932Z"
+      "updatedAt": "2026-10-23T11:58:00.829Z"
     },
     {
       "id": "mmval1s3od99va",
@@ -10913,7 +10913,7 @@
       "requester": "ADMINISTRE",
       "description": "passage balayeuse 5 impasse des courlis 2 ème relance.\nBonjour, madame diaz, c'est madame Matthieu au loutissement adresse, 5 impasse des courlis   ça fait deux relances que je fais pour omvien  passer la balayeuse  devant chez moi dans l'chemin, c'est pourri, c'est vraiment pourri il ua debma boue voyer les\n\nMainti4 000006283\nDélai / urgence : SOUS 7 JOURS\nDemande du : 06/10/2026\nDemandeur : ADMINISTRE\nÉtat Mainti4 : En attente",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S42 → S43",
@@ -10930,7 +10930,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T09:48:04.646Z"
+      "updatedAt": "2026-10-23T11:58:01.494Z"
     },
     {
       "id": "mmval1s3pv5v2r",
@@ -11178,7 +11178,7 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S42 → S43",
@@ -11195,7 +11195,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-09T08:47:31.561Z"
+      "updatedAt": "2026-10-23T11:58:02.436Z"
     },
     {
       "id": "mmval1s3vwygee",
@@ -11290,11 +11290,11 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Urgente",
       "kind": "Ponctuelle",
       "source": "Copie S42 → S43",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -11307,7 +11307,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-15T12:43:08.666Z"
+      "updatedAt": "2026-10-23T11:58:03.343Z"
     },
     {
       "id": "mmvalrtg8qlkvu",

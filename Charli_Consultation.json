@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T11:56:58.127Z",
+  "generatedAt": "2026-10-23T11:57:08.326Z",
   "agents": [
     {
       "id": "a0",
@@ -14241,7 +14241,7 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "Terminée",
+      "status": "À faire",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Manuel",
@@ -14258,7 +14258,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T11:54:54.820Z"
+      "updatedAt": "2026-10-23T11:57:04.548Z"
     },
     {
       "id": "mmvkmwp2mqpzkj",
@@ -15346,7 +15346,7 @@
       "requester": "",
       "description": "Grande balayeuse en binôme Mickael / Bruno - AGENT: Mickael N. - DATE: 10/02/2026 -",
       "report": "",
-      "status": "Terminée",
+      "status": "À faire",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15363,7 +15363,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T11:54:50.364Z"
+      "updatedAt": "2026-10-23T11:57:00.528Z"
     },
     {
       "id": "mmvkwwk12ycklr",
@@ -15385,7 +15385,7 @@
       "requester": "",
       "description": "Mairie + cours des écoles - AGENT: Simon - DATE: 11/02/2026 - DUREE: 3 h 00",
       "report": "",
-      "status": "Terminée",
+      "status": "À faire",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15402,7 +15402,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T11:54:51.205Z"
+      "updatedAt": "2026-10-23T11:57:01.165Z"
     },
     {
       "id": "mmvkwwk13zitxh",
@@ -15423,7 +15423,7 @@
       "requester": "",
       "description": "Goupil en binôme Simon / Fabrice - AGENT: Simon - DATE: 12/02/2026 - DUREE: 4 h 00",
       "report": "",
-      "status": "Terminée",
+      "status": "À faire",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15440,7 +15440,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T11:54:55.990Z"
+      "updatedAt": "2026-10-23T11:57:05.365Z"
     },
     {
       "id": "mmvkwwk131sbqf",
@@ -15461,7 +15461,7 @@
       "requester": "",
       "description": "Cimetière - AGENT: Fabrice - DATE: 12/02/2026 - DUREE: 3 h 30",
       "report": "",
-      "status": "Terminée",
+      "status": "À faire",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15478,7 +15478,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T11:55:50.952Z"
+      "updatedAt": "2026-10-23T11:57:06.246Z"
     },
     {
       "id": "mmvkwwk13c992i",
@@ -15647,7 +15647,7 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "Terminée",
+      "status": "À faire",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15664,7 +15664,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T11:54:52.325Z"
+      "updatedAt": "2026-10-23T11:57:02.150Z"
     },
     {
       "id": "mmvkwwk15ft8vc",
@@ -15686,7 +15686,7 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "Terminée",
+      "status": "À faire",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15703,7 +15703,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T11:54:53.214Z"
+      "updatedAt": "2026-10-23T11:57:02.853Z"
     },
     {
       "id": "mmvkwwk1642w0t",
@@ -15724,7 +15724,7 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "Terminée",
+      "status": "À faire",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15741,7 +15741,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T11:54:54.141Z"
+      "updatedAt": "2026-10-23T11:57:03.804Z"
     },
     {
       "id": "mmvkwwk165i8u8",
@@ -15762,7 +15762,7 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "Terminée",
+      "status": "À faire",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15779,7 +15779,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T11:55:53.542Z"
+      "updatedAt": "2026-10-23T11:57:07.092Z"
     },
     {
       "id": "mmvkwwk17h9ypl",
@@ -15800,7 +15800,7 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "Terminée",
+      "status": "À faire",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15817,7 +15817,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T11:55:54.613Z"
+      "updatedAt": "2026-10-23T11:57:07.889Z"
     },
     {
       "id": "mmvkwwk17he7oz",

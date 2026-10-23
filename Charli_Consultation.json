@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T12:52:37.771Z",
+  "generatedAt": "2026-10-23T12:52:54.827Z",
   "agents": [
     {
       "id": "a0",
@@ -10490,7 +10490,7 @@
       "title": "Tournée Goupil seul",
       "bt": "",
       "team": "Propreté",
-      "activity": "Autre",
+      "activity": "Nettoyage des espaces publics et places",
       "location": "Non précisé",
       "date": "2026-10-19",
       "slot": "Personnalisé",
@@ -10519,7 +10519,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T11:57:36.200Z"
+      "updatedAt": "2026-10-23T12:52:54.544Z"
     },
     {
       "id": "mmval1s3g50ze8",

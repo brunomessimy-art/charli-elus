@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T08:29:47.183Z",
+  "generatedAt": "2026-10-23T08:33:19.273Z",
   "agents": [
     {
       "id": "a0",
@@ -14733,15 +14733,17 @@
       "id": "mmvkple0bb1mav",
       "title": "RDV Plans BAT",
       "bt": "000017531",
-      "team": "Moyens techniques",
-      "activity": "SUIVI PRESTA",
+      "team": "Bâtiment",
+      "activity": "Préparation et organisation de chantier",
       "location": "GYMNASE LE RIVERAL",
       "date": "2026-10-02",
-      "slot": "",
+      "slot": "Personnalisé",
       "startTime": "",
       "duration": 1,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a2"
+      ],
       "vehicles": [],
       "requester": "",
       "description": "Mainti4 000017531\nDemande du : 01/10/2026\nType de travaux : SUIVI PRESTA\nÉtat Mainti4 : Réalisé(e)",
@@ -14763,7 +14765,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T08:29:46.994Z"
+      "updatedAt": "2026-10-23T08:33:19.019Z"
     },
     {
       "id": "mmvkple0efif4i",

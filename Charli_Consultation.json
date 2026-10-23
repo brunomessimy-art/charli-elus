@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T12:52:54.827Z",
+  "generatedAt": "2026-10-23T12:53:07.233Z",
   "agents": [
     {
       "id": "a0",
@@ -10526,7 +10526,7 @@
       "title": "WC publics",
       "bt": "",
       "team": "Propreté",
-      "activity": "Autre",
+      "activity": "Nettoyage des sanitaires publics",
       "location": "WC publics",
       "date": "2026-10-19",
       "slot": "Personnalisé",
@@ -10555,7 +10555,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T11:57:36.898Z"
+      "updatedAt": "2026-10-23T12:53:06.854Z"
     },
     {
       "id": "mmval1s3hoezau",

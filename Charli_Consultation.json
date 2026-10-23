@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T07:15:26.482Z",
+  "generatedAt": "2026-10-23T07:17:17.015Z",
   "agents": [
     {
       "id": "a0",
@@ -14706,6 +14706,31 @@
           "actual": 0
         }
       ],
+      "phases": []
+    },
+    {
+      "id": "chmvkmyf9y0l09y",
+      "name": "INFILTRATIONS SUR LE BATIMENT DE LA POLICE MUNICIPALE",
+      "location": "POLICE MUNICIPALE",
+      "description": "PLUSIEURS INFILTRATION SUR LE BATIMENT",
+      "manager": "JORIS MIRA",
+      "status": "À préparer",
+      "priority": "Haute",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": true,
+      "codir": true,
+      "startDate": "",
+      "endDate": "",
+      "reportDate": "",
+      "observations": "",
+      "issues": "",
+      "nextAction": "",
+      "blockers": "",
+      "decision": "",
+      "updatedAt": "2026-10-23T07:17:16.879Z",
+      "companies": [],
       "phases": []
     }
   ],

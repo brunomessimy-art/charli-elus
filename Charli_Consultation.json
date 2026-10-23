@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T12:53:07.233Z",
+  "generatedAt": "2026-10-23T12:53:31.871Z",
   "agents": [
     {
       "id": "a0",
@@ -10562,7 +10562,7 @@
       "title": "Grande balayeuse - axes + lycée",
       "bt": "",
       "team": "Propreté",
-      "activity": "Autre",
+      "activity": "Lavage et nettoyage haute pression",
       "location": "Axes + lycée",
       "date": "2026-10-19",
       "slot": "Personnalisé",
@@ -10593,7 +10593,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T11:57:37.615Z"
+      "updatedAt": "2026-10-23T12:53:31.608Z"
     },
     {
       "id": "mmval1s3iw2lhb",

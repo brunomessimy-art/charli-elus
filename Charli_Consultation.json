@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T08:34:55.516Z",
+  "generatedAt": "2026-10-23T08:37:20.358Z",
   "agents": [
     {
       "id": "a0",
@@ -14881,15 +14881,17 @@
       "id": "mmvkple0ftt8o9",
       "title": "Problème accès Ecliq",
       "bt": "000016808",
-      "team": "Moyens techniques",
-      "activity": "ADMINISTRATIF",
+      "team": "Bâtiment",
+      "activity": "ORGANIGRAMME ELECTRONIQUE",
       "location": "GIGNAC",
-      "date": "2026-07-07",
-      "slot": "",
+      "date": "2026-07-20",
+      "slot": "Personnalisé",
       "startTime": "",
-      "duration": 1,
+      "duration": 1.5,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a2"
+      ],
       "vehicles": [],
       "requester": "",
       "description": "Mainti4 000016808\nDemande du : 07/07/2026\nType de travaux : ADMINISTRATIF\nÉtat Mainti4 : Réalisé(e)",
@@ -14911,7 +14913,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T08:29:46.994Z"
+      "updatedAt": "2026-10-23T08:37:19.948Z"
     },
     {
       "id": "mmvkple0f2hn72",

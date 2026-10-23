@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T13:16:51.279Z",
+  "generatedAt": "2026-10-23T13:18:44.538Z",
   "agents": [
     {
       "id": "a0",
@@ -16437,10 +16437,10 @@
       "team": "Bâtiment",
       "activity": "Maintenance générale et interventions diverses",
       "location": "",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "slot": "Personnalisé",
       "startTime": "",
-      "duration": 7.5,
+      "duration": 6.5,
       "agentCount": 1,
       "agents": [
         "a3"
@@ -16466,7 +16466,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T13:09:02.816Z"
+      "updatedAt": "2026-10-23T13:18:44.272Z"
     },
     {
       "id": "mmvkzkya83q2gs",

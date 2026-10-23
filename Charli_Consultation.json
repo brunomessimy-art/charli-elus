@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T11:57:08.326Z",
+  "generatedAt": "2026-10-23T11:57:21.336Z",
   "agents": [
     {
       "id": "a0",
@@ -15124,7 +15124,7 @@
       "requester": "",
       "description": "Tournée en binôme Simon / Philippe - AGENT: Simon - DATE: 09/02/2026 - DUREE: 7 h 30",
       "report": "",
-      "status": "Terminée",
+      "status": "À faire",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15141,7 +15141,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T11:56:02.169Z"
+      "updatedAt": "2026-10-23T11:57:14.400Z"
     },
     {
       "id": "mmvkwwk0z4d3i1",
@@ -15497,7 +15497,7 @@
       "requester": "",
       "description": "WC publics - AGENT: Fabrice - DATE: 13/02/2026 - DUREE: 2 h 30",
       "report": "",
-      "status": "Terminée",
+      "status": "À faire",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15514,7 +15514,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T11:56:03.007Z"
+      "updatedAt": "2026-10-23T11:57:15.261Z"
     },
     {
       "id": "mmvkwwk14vyuss",
@@ -15535,7 +15535,7 @@
       "requester": "",
       "description": "Grande balayeuse - préparation marché - AGENT: Bruno M. - DATE: 13/02/2026 - DUREE: 7 h",
       "report": "",
-      "status": "Terminée",
+      "status": "À faire",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15552,7 +15552,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T11:56:04.301Z"
+      "updatedAt": "2026-10-23T11:57:16.279Z"
     },
     {
       "id": "mmvkwwk14pwg4z",
@@ -15571,7 +15571,7 @@
       "requester": "ADMINISTRE",
       "description": "passage balayeuse 5 impasse des courlis 2 ème relance.\nBonjour, madame diaz, c'est madame Matthieu au loutissement adresse, 5 impasse des courlis   ça fait deux relances que je fais pour omvien  passer la balayeuse  devant chez moi dans l'chemin, c'est pourri, c'est vraiment pourri il ua debma boue voyer les\n\nMainti4 000006283\nDélai / urgence : SOUS 7 JOURS\nDemande du : 06/10/2026\nDemandeur : ADMINISTRE\nÉtat Mainti4 : En attente",
       "report": "",
-      "status": "Terminée",
+      "status": "À faire",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15588,7 +15588,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T11:56:05.038Z"
+      "updatedAt": "2026-10-23T11:57:17.592Z"
     },
     {
       "id": "mmvkwwk15vb4o9",
@@ -15836,7 +15836,7 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "Terminée",
+      "status": "À faire",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15853,7 +15853,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T11:56:05.877Z"
+      "updatedAt": "2026-10-23T11:57:18.862Z"
     },
     {
       "id": "mmvkwwk18k5he6",
@@ -15874,7 +15874,7 @@
       "requester": "ROISNET",
       "description": "Mainti4 000006306\nDélai / urgence : DANS LA JOURNÉE\nDemande du : 12/10/2026\nDemandeur : ROISNET\nÉtat Mainti4 : En attente",
       "report": "",
-      "status": "Terminée",
+      "status": "À faire",
       "priority": "Urgente",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15891,7 +15891,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T11:55:55.392Z"
+      "updatedAt": "2026-10-23T11:57:11.286Z"
     },
     {
       "id": "mmvkwwk18mvrr7",
@@ -15912,7 +15912,7 @@
       "requester": "Christelle CLAPIER",
       "description": "Mainti4 000006302\nDélai / urgence : SOUS 7 JOURS\nDemande du : 09/10/2026\nDemandeur : Christelle CLAPIER\nÉtat Mainti4 : En attente",
       "report": "",
-      "status": "Terminée",
+      "status": "À faire",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15929,7 +15929,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T11:55:56.445Z"
+      "updatedAt": "2026-10-23T11:57:12.045Z"
     },
     {
       "id": "mmvkwwk19fvr78",
@@ -15948,7 +15948,7 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "Terminée",
+      "status": "À faire",
       "priority": "Urgente",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15965,7 +15965,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T11:56:08.518Z"
+      "updatedAt": "2026-10-23T11:57:20.981Z"
     },
     {
       "id": "mmvkwwk19056x5",
@@ -16025,7 +16025,7 @@
       "requester": "DIAZ Estelle",
       "description": "Mainti4 000006346\nDélai / urgence : DANS LA JOURNÉE\nDemande du : 22/10/2026\nDemandeur : DIAZ Estelle\nÉtat Mainti4 : En attente",
       "report": "",
-      "status": "Terminée",
+      "status": "À faire",
       "priority": "Urgente",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -16042,7 +16042,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T11:55:57.245Z"
+      "updatedAt": "2026-10-23T11:57:12.886Z"
     }
   ],
   "chantiers": [

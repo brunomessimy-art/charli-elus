@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T11:57:42.758Z",
+  "generatedAt": "2026-10-23T11:57:48.465Z",
   "agents": [
     {
       "id": "a0",
@@ -10727,7 +10727,7 @@
       "requester": "",
       "description": "Mairie + cours des écoles - AGENT: Simon - DATE: 11/02/2026 - DUREE: 3 h 00",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S42 → S43",
@@ -10744,7 +10744,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-15T06:10:45.661Z"
+      "updatedAt": "2026-10-23T11:57:47.213Z"
     },
     {
       "id": "mmval1s3l0r96q",
@@ -10989,7 +10989,7 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S42 → S43",
@@ -11006,7 +11006,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-15T06:10:47.204Z"
+      "updatedAt": "2026-10-23T11:57:48.237Z"
     },
     {
       "id": "mmval1s3qs7tsr",
@@ -13429,7 +13429,7 @@
       "requester": "Sandrine GUSMAROLI",
       "description": "Enlever les encombrants de la cour de l'ALAE, rangement cartable.",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Demandes",
@@ -13446,7 +13446,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T11:57:41.575Z"
+      "updatedAt": "2026-10-23T11:57:45.015Z"
     },
     {
       "id": "mmvgar478a6wvl",

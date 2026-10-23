@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T13:16:18.926Z",
+  "generatedAt": "2026-10-23T13:16:51.279Z",
   "agents": [
     {
       "id": "a0",
@@ -16505,6 +16505,44 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-23T13:12:48.353Z"
+    },
+    {
+      "id": "mmvkzuer4frjzd",
+      "title": "PEINTURE DEGATS DES EAUX LOGEMENT 6",
+      "bt": "000006293",
+      "team": "Bâtiment",
+      "activity": "Maçonnerie et petites réparations",
+      "location": "GENDARMERIE",
+      "date": "2026-10-27",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 6.5,
+      "agentCount": 1,
+      "agents": [
+        "a1"
+      ],
+      "vehicles": [],
+      "requester": "ADJUDANT-CHEF SOUCHON Thierry",
+      "description": "MME LOISON GENDARME EST VENUE A L'ACUEIL POUR SIGNALER QUE LA PEINTURE AU LOGMENT 6 N' A PAS ETE FAITE SUITE AU DEGATS DES EAUX ELLE ATTEND TOUOURS SON NUMERO  MME LOISON 0667654113",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Import Mainti4 Demandes",
+      "progress": 100,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-23T13:16:50.922Z"
     }
   ],
   "chantiers": [

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T07:49:32.951Z",
+  "generatedAt": "2026-10-23T07:50:50.072Z",
   "agents": [
     {
       "id": "a0",
@@ -14537,6 +14537,44 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-23T07:49:32.816Z"
+    },
+    {
+      "id": "mmvko62lz1mqzn",
+      "title": "MAINTENANCE ATELIERS ET ENGINS",
+      "bt": "",
+      "team": "Voirie",
+      "activity": "Entretien des véhicules, engins et matériels",
+      "location": "ATELIERS",
+      "date": "2026-10-30",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 2.5,
+      "agentCount": 1,
+      "agents": [
+        "a17"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-23T07:50:49.935Z"
     }
   ],
   "chantiers": [

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T14:04:51.545Z",
+  "generatedAt": "2026-10-23T14:05:02.221Z",
   "agents": [
     {
       "id": "a0",
@@ -15597,7 +15597,7 @@
       "title": "tournee binome du mercredi",
       "bt": "",
       "team": "Propreté",
-      "activity": "Balayage",
+      "activity": "Vidage des corbeilles et ramassage des déchets",
       "location": "",
       "date": "2026-10-28",
       "slot": "Personnalisé",
@@ -15629,7 +15629,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T11:57:02.853Z"
+      "updatedAt": "2026-10-23T14:05:01.897Z"
     },
     {
       "id": "mmvkwwk1642w0t",

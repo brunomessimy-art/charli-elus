@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T14:06:31.718Z",
+  "generatedAt": "2026-10-23T14:09:02.031Z",
   "agents": [
     {
       "id": "a0",
@@ -15518,7 +15518,7 @@
     },
     {
       "id": "mmvkwwk15vb4o9",
-      "title": "Petite balayeuse",
+      "title": "BALAYEUSE AZURA",
       "bt": "",
       "team": "Propreté",
       "activity": "Balayage mécanisé",
@@ -15552,7 +15552,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T14:02:17.889Z"
+      "updatedAt": "2026-10-23T14:09:01.764Z"
     },
     {
       "id": "mmvkwwk15xgl8h",

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T11:52:02.990Z",
+  "generatedAt": "2026-10-23T11:52:49.743Z",
   "agents": [
     {
       "id": "a0",
@@ -13802,13 +13802,12 @@
       "team": "Espaces verts",
       "activity": "Taille des haies et arbustes",
       "location": "INTERSECTION BD DU MOULIN X GD BARQUE",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "slot": "Personnalisé",
       "startTime": "",
       "duration": 0.5,
-      "agentCount": 4,
+      "agentCount": 3,
       "agents": [
-        "a4",
         "a5",
         "a7",
         "a6"
@@ -13834,7 +13833,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T11:44:21.806Z"
+      "updatedAt": "2026-10-23T11:52:49.494Z"
     },
     {
       "id": "mmvi70nqt6yw19",

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T11:42:34.046Z",
+  "generatedAt": "2026-10-23T11:43:56.999Z",
   "agents": [
     {
       "id": "a0",
@@ -14988,6 +14988,44 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-23T08:44:32.018Z"
+    },
+    {
+      "id": "mmvkwi6xi8bc3b",
+      "title": "MARDI IMPERATIF DEBROUISSAILLAGE ABATTAGE ARBRE ANCIENNE STATION DE RELEVAGE",
+      "bt": "",
+      "team": "Espaces verts",
+      "activity": "Débroussaillage et fauchage",
+      "location": "ANCIENNE STATION DE RELEVAGE",
+      "date": "2026-10-20",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 3,
+      "agentCount": 1,
+      "agents": [
+        "a4"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": 100,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-23T11:43:56.758Z"
     }
   ],
   "chantiers": [

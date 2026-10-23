@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T08:37:20.358Z",
+  "generatedAt": "2026-10-23T08:39:21.593Z",
   "agents": [
     {
       "id": "a0",
@@ -14919,15 +14919,17 @@
       "id": "mmvkple0f2hn72",
       "title": "LISTING TRAVAUX ESPACE CULTUREL JORIS WILFRIED",
       "bt": "000015482",
-      "team": "Moyens techniques",
-      "activity": "REPARATION / CORRECTIF",
+      "team": "Bâtiment",
+      "activity": "Électricité et éclairage",
       "location": "ESPACE CULTUREL",
       "date": "2026-03-20",
-      "slot": "",
+      "slot": "Personnalisé",
       "startTime": "",
-      "duration": 1,
+      "duration": 1.5,
       "agentCount": 1,
-      "agents": [],
+      "agents": [
+        "a2"
+      ],
       "vehicles": [],
       "requester": "Bruno CIALDELLA",
       "description": "Mainti4 000015482\nDemande du : 18/03/2026\nDemandeur : Bruno CIALDELLA\nType de travaux : REPARATION / CORRECTIF\nÉtat Mainti4 : Réalisé(e)",
@@ -14949,7 +14951,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T08:29:46.995Z"
+      "updatedAt": "2026-10-23T08:39:21.347Z"
     }
   ],
   "chantiers": [

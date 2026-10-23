@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T07:28:22.919Z",
+  "generatedAt": "2026-10-23T07:29:56.688Z",
   "agents": [
     {
       "id": "a0",
@@ -11976,15 +11976,14 @@
       "team": "Voirie",
       "activity": "Travaux divers de voirie",
       "location": "VOIRIE",
-      "date": "2026-10-19",
+      "date": "2026-10-21",
       "slot": "Personnalisé",
       "startTime": "",
       "duration": 7.5,
-      "agentCount": 3,
+      "agentCount": 2,
       "agents": [
         "a17",
-        "a18",
-        "a16"
+        "a18"
       ],
       "vehicles": [],
       "requester": "",
@@ -12007,7 +12006,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T06:17:19.164Z"
+      "updatedAt": "2026-10-23T07:29:56.559Z"
     },
     {
       "id": "mmvaywmpvlqdqc",

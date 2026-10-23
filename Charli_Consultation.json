@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T07:11:55.916Z",
+  "generatedAt": "2026-10-23T07:15:26.482Z",
   "agents": [
     {
       "id": "a0",
@@ -14263,6 +14263,44 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-22T08:26:21.730Z"
+    },
+    {
+      "id": "mmvkmwp2mqpzkj",
+      "title": "A NOUVEAU PLUSIEURS INFILTRATIONS SUR LE BATIMENT DE LA POLICE MUNICIPALE",
+      "bt": "",
+      "team": "Bâtiment",
+      "activity": "Toitures, gouttières et étanchéité",
+      "location": "",
+      "date": "2026-10-26",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 1,
+      "agentCount": 1,
+      "agents": [
+        "a2"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-23T07:15:26.343Z"
     }
   ],
   "chantiers": [

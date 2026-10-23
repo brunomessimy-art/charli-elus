@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T08:17:12.805Z",
+  "generatedAt": "2026-10-23T08:17:21.702Z",
   "agents": [
     {
       "id": "a0",
@@ -9923,11 +9923,11 @@
       "requester": "ADJUDANT-CHEF SOUCHON Thierry",
       "description": "MME LOISON GENDARME EST VENUE A L'ACUEIL POUR SIGNALER QUE LA PEINTURE AU LOGMENT 6 N' A PAS ETE FAITE SUITE AU DEGATS DES EAUX ELLE ATTEND TOUOURS SON NUMERO  MME LOISON 0667654113",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Demandes",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -9940,7 +9940,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-14T12:09:11.250Z"
+      "updatedAt": "2026-10-23T08:17:21.395Z"
     },
     {
       "id": "mmv7u19cf33068",

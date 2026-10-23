@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T07:44:18.984Z",
+  "generatedAt": "2026-10-23T07:46:13.824Z",
   "agents": [
     {
       "id": "a0",
@@ -14460,6 +14460,45 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-23T07:42:00.359Z"
+    },
+    {
+      "id": "mmvknzvp35vwjq",
+      "title": "REPRISE CHEMIN QUARTIER MONTERAUX PELICAN CROIX DE CAMPAGNE",
+      "bt": "",
+      "team": "Voirie",
+      "activity": "Entretien des chemins et accotements",
+      "location": "QUARTIER MONTERAUX",
+      "date": "2026-10-28",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 6,
+      "agentCount": 2,
+      "agents": [
+        "a17",
+        "a18"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-23T07:46:13.688Z"
     }
   ],
   "chantiers": [

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T08:18:56.851Z",
+  "generatedAt": "2026-10-23T08:19:52.167Z",
   "agents": [
     {
       "id": "a0",
@@ -9947,12 +9947,12 @@
       "title": "Aménagement SAS entrée",
       "bt": "",
       "team": "Bâtiment",
-      "activity": "Menuiserie",
+      "activity": "Maçonnerie et petites réparations",
       "location": "",
       "date": "2026-10-19",
       "slot": "Personnalisé",
       "startTime": "",
-      "duration": 1,
+      "duration": 7.5,
       "agentCount": 1,
       "agents": [
         "a1"
@@ -9978,7 +9978,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T08:16:58.450Z"
+      "updatedAt": "2026-10-23T08:19:51.916Z"
     },
     {
       "id": "mmv862fmzzk5yg",

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T07:37:12.387Z",
+  "generatedAt": "2026-10-23T07:37:24.753Z",
   "agents": [
     {
       "id": "a0",
@@ -14362,11 +14362,11 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Manuel",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -14379,7 +14379,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T07:37:12.241Z"
+      "updatedAt": "2026-10-23T07:37:24.615Z"
     }
   ],
   "chantiers": [

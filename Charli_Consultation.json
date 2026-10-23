@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T14:04:03.988Z",
+  "generatedAt": "2026-10-23T14:04:17.687Z",
   "agents": [
     {
       "id": "a0",
@@ -15260,7 +15260,7 @@
       "title": "petite balayeuse",
       "bt": "",
       "team": "Propreté",
-      "activity": "Autre",
+      "activity": "Balayage mécanisé",
       "location": "Non précisé",
       "date": "2026-10-28",
       "slot": "Personnalisé",
@@ -15289,7 +15289,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T11:57:00.528Z"
+      "updatedAt": "2026-10-23T14:04:17.434Z"
     },
     {
       "id": "mmvkwwk12ycklr",

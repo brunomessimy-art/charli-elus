@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T08:21:44.834Z",
+  "generatedAt": "2026-10-23T08:22:01.316Z",
   "agents": [
     {
       "id": "a0",
@@ -12395,7 +12395,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T08:18:20.522Z"
+      "updatedAt": "2026-10-23T08:22:01.058Z"
     },
     {
       "id": "mmvaziu8y8shuw",

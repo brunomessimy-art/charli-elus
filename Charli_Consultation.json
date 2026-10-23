@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T08:39:21.593Z",
+  "generatedAt": "2026-10-23T08:40:12.532Z",
   "agents": [
     {
       "id": "a0",
@@ -14922,7 +14922,7 @@
       "team": "Bâtiment",
       "activity": "Électricité et éclairage",
       "location": "ESPACE CULTUREL",
-      "date": "2026-03-20",
+      "date": "2026-10-20",
       "slot": "Personnalisé",
       "startTime": "",
       "duration": 1.5,
@@ -14951,7 +14951,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T08:39:21.347Z"
+      "updatedAt": "2026-10-23T08:40:12.298Z"
     }
   ],
   "chantiers": [

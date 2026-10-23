@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T07:36:10.554Z",
+  "generatedAt": "2026-10-23T07:37:12.387Z",
   "agents": [
     {
       "id": "a0",
@@ -14340,6 +14340,46 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-23T07:32:47.431Z"
+    },
+    {
+      "id": "mmvknouenj1pv5",
+      "title": "PEINTURE ROUTIERE EHPAD + SIGNALISATION PEINTURE LOT PONS",
+      "bt": "",
+      "team": "Voirie",
+      "activity": "Signalisation horizontale et marquage au sol",
+      "location": "EHPAD + LOT PONS",
+      "date": "2026-10-23",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 4,
+      "agentCount": 3,
+      "agents": [
+        "a16",
+        "a17",
+        "a18"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-23T07:37:12.241Z"
     }
   ],
   "chantiers": [

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T08:18:01.184Z",
+  "generatedAt": "2026-10-23T08:18:12.055Z",
   "agents": [
     {
       "id": "a0",
@@ -12454,7 +12454,7 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Manuel",
@@ -12471,7 +12471,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T13:16:19.884Z"
+      "updatedAt": "2026-10-23T08:18:02.233Z"
     },
     {
       "id": "mmvazpnm24926r",
@@ -13858,11 +13858,11 @@
       "requester": "DIRECTION ECOLE PRIMAIRE",
       "description": "Classe / Enseignant:  03-CPC Mme VINCENTS Aurélie\nLieu de l'intervention: classe 3 CPC\nLieu de l'intervention: B005\nCatégorie de l'intervention: Autre\nType d'intervention: Travaux courants\nDescriptif de l'intervention demandée:\nBonjour,\n\nEst-il possible d'installer une plaque aimantée en haut du tableau de classe\n?",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Demandes",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -13875,7 +13875,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-21T14:25:54.651Z"
+      "updatedAt": "2026-10-23T08:18:06.008Z"
     },
     {
       "id": "mmvi70nqxlwh74",
@@ -13896,11 +13896,11 @@
       "requester": "DIRECTION ECOLE PRIMAIRE",
       "description": "Classe / Enseignant:  03-CPC Mme VINCENTS Aurélie\nLieu de l'intervention: classe 3 CPC\nLieu de l'intervention: B005\nCatégorie de l'intervention: Mobilier\nType d'intervention: Travaux courants\nDescriptif de l'intervention demandée:\nBonjour,\n\nEst-il possible de déplacer l'étagère à droite du bureau de maitresse au\ndessus de l'étagère identique au fond à gauche de la classe ?",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Demandes",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -13913,7 +13913,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-21T14:30:19.387Z"
+      "updatedAt": "2026-10-23T08:18:07.802Z"
     },
     {
       "id": "mmvi70nqzkc0du",
@@ -13934,11 +13934,11 @@
       "requester": "DIRECTION ECOLE PRIMAIRE",
       "description": "Classe / Enseignant:  03-CPC Mme VINCENTS Aurélie\nLieu de l'intervention: classe 3 CPC\nLieu de l'intervention: B005\nCatégorie de l'intervention: Mobilier\nType d'intervention: Travaux courants\nDescriptif de l'intervention demandée:\nBonjour,\n\nEst-il possible de déplacer l'armoire en travers au fond de la classe, à la\nplace de l'étagère qui aura été enlevée ? (demande précédente)",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Demandes",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -13951,7 +13951,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-21T14:23:42.548Z"
+      "updatedAt": "2026-10-23T08:18:09.448Z"
     },
     {
       "id": "mmvi70nqz5plmy",
@@ -14012,11 +14012,11 @@
       "requester": "DIRECTION ECOLE PRIMAIRE",
       "description": "Classe / Enseignant:  03-CPC Mme VINCENTS Aurélie\nLieu de l'intervention: classe 3 CPC\nLieu de l'intervention: B005\nCatégorie de l'intervention: Mobilier\nType d'intervention: Entretien/réparations\nDescriptif de l'intervention demandée:\nEst-il possible de réparer le tabouret posé sur les tables au fond de la\nclasse ?\nIl a été tordu et je n'arrive pas à le dévisser / revisser correctement.",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Demandes",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -14029,7 +14029,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-21T14:18:54.397Z"
+      "updatedAt": "2026-10-23T08:18:10.404Z"
     },
     {
       "id": "mmvi70nr0ssoaq",
@@ -14050,11 +14050,11 @@
       "requester": "DIRECTION ECOLE PRIMAIRE",
       "description": "Classe / Enseignant:  07-CE1B M AZNAR Jean-Christophe\nLieu de l'intervention: Mescladis\nLieu de l'intervention: A001\nCatégorie de l'intervention: Autre\nType d'intervention: Autre\nDescriptif de l'intervention demandée:\nRéalisation d'une planche maraichère au Mescladis, dans la pinède.\nAvec Charlène, nous avons marqué au rubalise l'emplacement de la planche\nil faudrait pendant les vacances:\nLabourer sur 30 cm\népandre du compost (10cm)\npasser le rotovator ou les disques pour avoir une surface semable\nÉtat Mainti4 : En attente",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Demandes",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -14067,7 +14067,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-21T14:28:17.468Z"
+      "updatedAt": "2026-10-23T08:18:11.824Z"
     },
     {
       "id": "mmvj941hnnb1v8",

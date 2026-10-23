@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T14:05:02.221Z",
+  "generatedAt": "2026-10-23T14:05:17.718Z",
   "agents": [
     {
       "id": "a0",
@@ -15636,7 +15636,7 @@
       "title": "tournee parc aire de sports",
       "bt": "",
       "team": "Propreté",
-      "activity": "Balayage",
+      "activity": "Nettoyage des espaces publics et places",
       "location": "",
       "date": "2026-10-28",
       "slot": "Personnalisé",
@@ -15667,7 +15667,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T11:57:03.804Z"
+      "updatedAt": "2026-10-23T14:05:17.458Z"
     },
     {
       "id": "mmvkwwk165i8u8",

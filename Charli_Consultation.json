@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T13:05:23.548Z",
+  "generatedAt": "2026-10-23T13:05:57.695Z",
   "agents": [
     {
       "id": "a0",
@@ -16351,6 +16351,44 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-23T13:05:23.297Z"
+    },
+    {
+      "id": "mmvkzgig8g64yy",
+      "title": "REALISATION PORTAIL TERRAIN DE FOOT PELOUSE",
+      "bt": "",
+      "team": "Bâtiment",
+      "activity": "FERRONNERIE",
+      "location": "STADE PELOUSE",
+      "date": "2026-10-29",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 7.5,
+      "agentCount": 1,
+      "agents": [
+        "a0"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-23T13:05:57.440Z"
     }
   ],
   "chantiers": [

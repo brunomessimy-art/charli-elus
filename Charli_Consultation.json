@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T07:17:56.751Z",
+  "generatedAt": "2026-10-23T07:19:26.654Z",
   "agents": [
     {
       "id": "a0",
@@ -12090,7 +12090,7 @@
     },
     {
       "id": "mmvaz720php76n",
-      "title": "PEINTURE LOTISSEMENT PONS... + POSE DE 2 QUILLES SUPPLEMENTAIRES",
+      "title": "OSE DE 2 QUILLES SUPPLEMENTAIRES",
       "bt": "",
       "team": "Voirie",
       "activity": "Signalisation horizontale et marquage au sol",
@@ -12098,7 +12098,7 @@
       "date": "2026-10-22",
       "slot": "Personnalisé",
       "startTime": "",
-      "duration": 7.5,
+      "duration": 2,
       "agentCount": 3,
       "agents": [
         "a16",
@@ -12126,7 +12126,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T06:18:04.967Z"
+      "updatedAt": "2026-10-23T07:19:26.518Z"
     },
     {
       "id": "mmvaz9lapygjw9",

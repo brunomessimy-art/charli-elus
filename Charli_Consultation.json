@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T07:20:10.401Z",
+  "generatedAt": "2026-10-23T07:21:00.739Z",
   "agents": [
     {
       "id": "a0",
@@ -12175,10 +12175,10 @@
       "team": "Voirie",
       "activity": "Terrassement et préparation de chantier",
       "location": "GIGNAC",
-      "date": "2026-10-23",
+      "date": "2026-10-22",
       "slot": "Personnalisé",
       "startTime": "",
-      "duration": 4,
+      "duration": 5.5,
       "agentCount": 3,
       "agents": [
         "a16",
@@ -12206,7 +12206,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T06:18:11.609Z"
+      "updatedAt": "2026-10-23T07:21:00.567Z"
     },
     {
       "id": "mmvazerkpljfeg",

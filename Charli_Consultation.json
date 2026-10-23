@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T12:54:21.954Z",
+  "generatedAt": "2026-10-23T12:54:49.724Z",
   "agents": [
     {
       "id": "a0",
@@ -10975,7 +10975,7 @@
       "title": "tournee goupil du mercredi",
       "bt": "",
       "team": "Propreté",
-      "activity": "Balayage",
+      "activity": "Vidage des corbeilles et ramassage des déchets",
       "location": "",
       "date": "2026-10-21",
       "slot": "Personnalisé",
@@ -11006,7 +11006,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T11:57:48.237Z"
+      "updatedAt": "2026-10-23T12:54:49.472Z"
     },
     {
       "id": "mmval1s3qs7tsr",

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T11:39:12.871Z",
+  "generatedAt": "2026-10-23T11:39:53.512Z",
   "agents": [
     {
       "id": "a0",
@@ -4750,14 +4750,14 @@
       "team": "Espaces verts",
       "activity": "Taille des haies et arbustes",
       "location": "parc du mas-faugère",
-      "date": "2026-10-19",
+      "date": "2026-10-26",
       "slot": "Matin",
       "startTime": "08:00",
-      "duration": 3.5,
+      "duration": 1,
       "agentCount": 2,
       "agents": [
-        "a6",
-        "a7"
+        "a7",
+        "a6"
       ],
       "vehicles": [],
       "requester": "",
@@ -4780,7 +4780,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T07:39:39.674Z"
+      "updatedAt": "2026-10-23T11:39:53.225Z"
     },
     {
       "id": "mmuzj8i4n04luz",

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T11:54:29.822Z",
+  "generatedAt": "2026-10-23T11:54:56.163Z",
   "agents": [
     {
       "id": "a0",
@@ -14241,11 +14241,11 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Manuel",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -14258,7 +14258,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-22T08:26:21.730Z"
+      "updatedAt": "2026-10-23T11:54:54.820Z"
     },
     {
       "id": "mmvkmwp2mqpzkj",
@@ -15346,7 +15346,7 @@
       "requester": "",
       "description": "Grande balayeuse en binôme Mickael / Bruno - AGENT: Mickael N. - DATE: 10/02/2026 -",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15363,7 +15363,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-15T06:10:44.568Z"
+      "updatedAt": "2026-10-23T11:54:50.364Z"
     },
     {
       "id": "mmvkwwk12ycklr",
@@ -15385,7 +15385,7 @@
       "requester": "",
       "description": "Mairie + cours des écoles - AGENT: Simon - DATE: 11/02/2026 - DUREE: 3 h 00",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15402,7 +15402,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-15T06:10:45.661Z"
+      "updatedAt": "2026-10-23T11:54:51.205Z"
     },
     {
       "id": "mmvkwwk13zitxh",
@@ -15423,7 +15423,7 @@
       "requester": "",
       "description": "Goupil en binôme Simon / Fabrice - AGENT: Simon - DATE: 12/02/2026 - DUREE: 4 h 00",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15440,7 +15440,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-08T09:47:55.626Z"
+      "updatedAt": "2026-10-23T11:54:55.990Z"
     },
     {
       "id": "mmvkwwk131sbqf",
@@ -15647,7 +15647,7 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15664,7 +15664,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-15T06:10:47.204Z"
+      "updatedAt": "2026-10-23T11:54:52.325Z"
     },
     {
       "id": "mmvkwwk15ft8vc",
@@ -15686,7 +15686,7 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15703,7 +15703,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-15T06:10:47.996Z"
+      "updatedAt": "2026-10-23T11:54:53.214Z"
     },
     {
       "id": "mmvkwwk1642w0t",
@@ -15724,7 +15724,7 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15741,7 +15741,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-15T06:10:48.780Z"
+      "updatedAt": "2026-10-23T11:54:54.141Z"
     },
     {
       "id": "mmvkwwk165i8u8",

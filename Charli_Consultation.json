@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T12:19:05.821Z",
+  "generatedAt": "2026-10-23T12:32:47.298Z",
   "agents": [
     {
       "id": "a0",
@@ -4745,7 +4745,7 @@
     },
     {
       "id": "mmuzcmamp1kqve",
-      "title": "taille des lauriers à l'entrée du parc du mas-faugère",
+      "title": "taille des lauriers à l'entrée du parc du mas-faugère + LOT DU PARC",
       "bt": "",
       "team": "Espaces verts",
       "activity": "Taille des haies et arbustes",
@@ -4780,7 +4780,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T12:10:32.591Z"
+      "updatedAt": "2026-10-23T12:32:47.024Z"
     },
     {
       "id": "mmuzj8i4n04luz",

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T09:50:15.653Z",
+  "generatedAt": "2026-10-23T09:50:19.445Z",
   "agents": [
     {
       "id": "a0",
@@ -11753,7 +11753,7 @@
       "requester": "",
       "description": "Tonte et marquage au sol du terrain de foot.",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S41 → S42",
@@ -11770,7 +11770,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T07:50:22.498Z"
+      "updatedAt": "2026-10-23T09:50:19.092Z"
     },
     {
       "id": "mmvanv7xkb1txv",

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T06:18:11.897Z",
+  "generatedAt": "2026-10-23T06:18:48.195Z",
   "agents": [
     {
       "id": "a0",
@@ -9094,7 +9094,7 @@
       "team": "Voirie",
       "activity": "Signalisation verticale et mobilier routier",
       "location": "STADE PELOUSE",
-      "date": "2026-10-21",
+      "date": "",
       "slot": "Personnalisé",
       "startTime": "08:00",
       "duration": 4,
@@ -9124,7 +9124,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T12:54:33.922Z"
+      "updatedAt": "2026-10-23T06:18:47.939Z"
     },
     {
       "id": "mmv6fiwsvl67aj",

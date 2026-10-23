@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T14:02:18.145Z",
+  "generatedAt": "2026-10-23T14:04:03.988Z",
   "agents": [
     {
       "id": "a0",
@@ -15898,7 +15898,7 @@
       "title": "Encombrants",
       "bt": "",
       "team": "Propreté",
-      "activity": "Nettoyage des équipements et mobiliers urbains",
+      "activity": "Vidage des corbeilles et ramassage des déchets",
       "location": "SCO-ALAE",
       "date": "2026-10-27",
       "slot": "Personnalisé",
@@ -15930,7 +15930,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T11:56:57.639Z"
+      "updatedAt": "2026-10-23T14:04:03.715Z"
     },
     {
       "id": "mmvkwwk1a5deid",

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T11:54:12.957Z",
+  "generatedAt": "2026-10-23T11:54:29.822Z",
   "agents": [
     {
       "id": "a0",
@@ -15086,7 +15086,7 @@
       "requester": "",
       "description": "Tournée en binôme Simon / Philippe - AGENT: Philippe - DATE: 09/02/2026 - DUREE: 7 h 30",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15103,7 +15103,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-15T06:10:21.182Z"
+      "updatedAt": "2026-10-23T11:54:19.742Z"
     },
     {
       "id": "mmvkwwk0y8f19j",
@@ -15160,7 +15160,7 @@
       "requester": "",
       "description": "Tournée Goupil seul - AGENT: Fabrice - DATE: 09/02/2026 - DUREE: 5 h 00",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15177,7 +15177,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-15T06:10:25.213Z"
+      "updatedAt": "2026-10-23T11:54:20.425Z"
     },
     {
       "id": "mmvkwwk10ts5yt",
@@ -15196,7 +15196,7 @@
       "requester": "",
       "description": "WC publics - AGENT: Fabrice - DATE: 09/02/2026 - DUREE: 2 h 30",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15213,7 +15213,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-15T06:10:26.372Z"
+      "updatedAt": "2026-10-23T11:54:21.429Z"
     },
     {
       "id": "mmvkwwk107hggg",
@@ -15234,7 +15234,7 @@
       "requester": "",
       "description": "Grande balayeuse - axes + lycée - AGENT: Bruno M. - DATE: 09/02/2026 - DUREE: 4 h 30",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15251,7 +15251,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T13:43:48.236Z"
+      "updatedAt": "2026-10-23T11:54:22.447Z"
     },
     {
       "id": "mmvkwwk11cqexm",
@@ -15272,7 +15272,7 @@
       "requester": "",
       "description": "Tournée 2 - AGENT: Philippe - DATE: 10/02/2026 - DUREE: 7 h 30",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15289,7 +15289,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-15T06:10:34.960Z"
+      "updatedAt": "2026-10-23T11:54:23.318Z"
     },
     {
       "id": "mmvkwwk115ij6n",
@@ -15310,7 +15310,7 @@
       "requester": "",
       "description": "Goupil en binôme Simon / Fabrice - AGENT: Fabrice - DATE: 10/02/2026 - DUREE: 4 h 00",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15327,7 +15327,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-20T06:37:08.658Z"
+      "updatedAt": "2026-10-23T11:54:24.017Z"
     },
     {
       "id": "mmvkwwk12x6mzy",
@@ -15609,7 +15609,7 @@
       "requester": "",
       "description": "Petite balayeuse - AGENT: Mickael N. - DATE: 09/02/2026 - DUREE: 3 h 00",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15626,7 +15626,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-15T06:10:39.044Z"
+      "updatedAt": "2026-10-23T11:54:29.652Z"
     },
     {
       "id": "mmvkwwk15xgl8h",
@@ -15987,7 +15987,7 @@
       "requester": "Sandrine GUSMAROLI",
       "description": "Enlever les encombrants de la cour de l'ALAE, rangement cartable.",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -16004,7 +16004,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-22T08:27:46.098Z"
+      "updatedAt": "2026-10-23T11:54:27.341Z"
     },
     {
       "id": "mmvkwwk1a5deid",

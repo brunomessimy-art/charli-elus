@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T14:01:04.230Z",
+  "generatedAt": "2026-10-23T14:01:20.576Z",
   "agents": [
     {
       "id": "a0",
@@ -15112,7 +15112,7 @@
       "title": "Tournée Goupil seul",
       "bt": "",
       "team": "Propreté",
-      "activity": "Autre",
+      "activity": "Balayage et nettoyage manuel",
       "location": "Non précisé",
       "date": "2026-10-26",
       "slot": "Personnalisé",
@@ -15141,7 +15141,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T13:53:41.081Z"
+      "updatedAt": "2026-10-23T14:01:20.322Z"
     },
     {
       "id": "mmvkwwk10ts5yt",

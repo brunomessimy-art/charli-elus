@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T12:35:58.338Z",
+  "generatedAt": "2026-10-23T12:48:58.522Z",
   "agents": [
     {
       "id": "a0",
@@ -14893,11 +14893,11 @@
       "requester": "",
       "description": "Mainti4 000016808\nDemande du : 07/07/2026\nType de travaux : ADMINISTRATIF\nÉtat Mainti4 : Réalisé(e)",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Bons de travaux",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -14910,7 +14910,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T08:42:56.027Z"
+      "updatedAt": "2026-10-23T12:48:58.224Z"
     },
     {
       "id": "mmvkple0f2hn72",

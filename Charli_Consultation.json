@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T09:47:59.276Z",
+  "generatedAt": "2026-10-23T09:49:06.656Z",
   "agents": [
     {
       "id": "a0",
@@ -4606,11 +4606,11 @@
       "requester": "ADMINISTRE",
       "description": "EN HAUT U CHEMIN DE NOTRE DAME A COTE DES ECOLES DEUX OU 3 TAS D'HERBES QUI GENENT . UNE VIGNE EST AU DESSUS .\n\nMainti4 000006275\nDélai / urgence : SOUS 7 JOURS\nDemande du : 05/10/2026\nDemandeur : ADMINISTRE\nÉtat Mainti4 : En attente",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Demandes",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -4623,7 +4623,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T07:40:30.322Z"
+      "updatedAt": "2026-10-23T09:49:06.386Z"
     },
     {
       "id": "mmuzcmampxzlk4",
@@ -14813,7 +14813,7 @@
       "activity": "BAT-MENUISERIE",
       "location": "SCO-ALAE",
       "date": "2026-09-25",
-      "slot": "",
+      "slot": "Personnalisé",
       "startTime": "",
       "duration": 1,
       "agentCount": 1,
@@ -14849,7 +14849,7 @@
       "activity": "BAT-MENUISERIE",
       "location": "SCO-ALAE",
       "date": "2026-08-26",
-      "slot": "",
+      "slot": "Personnalisé",
       "startTime": "",
       "duration": 1,
       "agentCount": 1,

@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T08:22:01.316Z",
+  "generatedAt": "2026-10-23T08:24:30.919Z",
   "agents": [
     {
       "id": "a0",
@@ -14614,6 +14614,44 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-23T08:07:13.792Z"
+    },
+    {
+      "id": "mmvkpdmagbhjzo",
+      "title": "ADMINISTRATIF",
+      "bt": "",
+      "team": "Bâtiment",
+      "activity": "Préparation et organisation de chantier",
+      "location": "ATELIERS",
+      "date": "2026-10-22",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 3.5,
+      "agentCount": 1,
+      "agents": [
+        "a2"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-23T08:24:30.619Z"
     }
   ],
   "chantiers": [

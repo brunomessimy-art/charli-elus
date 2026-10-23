@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T14:01:30.671Z",
+  "generatedAt": "2026-10-23T14:01:41.166Z",
   "agents": [
     {
       "id": "a0",
@@ -15184,7 +15184,7 @@
       "title": "Tournée 2",
       "bt": "",
       "team": "Propreté",
-      "activity": "Tournée 1",
+      "activity": "Vidage des corbeilles et ramassage des déchets",
       "location": "Non précisé",
       "date": "2026-10-27",
       "slot": "Personnalisé",
@@ -15215,7 +15215,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T11:56:54.806Z"
+      "updatedAt": "2026-10-23T14:01:40.819Z"
     },
     {
       "id": "mmvkwwk115ij6n",

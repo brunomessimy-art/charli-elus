@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T07:46:13.824Z",
+  "generatedAt": "2026-10-23T07:49:32.951Z",
   "agents": [
     {
       "id": "a0",
@@ -14499,6 +14499,44 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-23T07:46:13.688Z"
+    },
+    {
+      "id": "mmvko36ind9g15",
+      "title": "PREPARATION DES POTEAUX POUR LA POSE DES CENDRIERS",
+      "bt": "",
+      "team": "Voirie",
+      "activity": "Signalisation verticale et mobilier routier",
+      "location": "ATELIERS",
+      "date": "2026-10-30",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 5,
+      "agentCount": 1,
+      "agents": [
+        "a17"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-23T07:49:32.816Z"
     }
   ],
   "chantiers": [

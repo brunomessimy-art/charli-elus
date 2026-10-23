@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T13:28:17.465Z",
+  "generatedAt": "2026-10-23T13:28:24.864Z",
   "agents": [
     {
       "id": "a0",
@@ -16599,11 +16599,11 @@
       "requester": "",
       "description": "Mainti4 000017644\nDemande du : 23/10/2026\nType de travaux : ADMINISTRATIF\nÉtat Mainti4 : Réalisé(e)",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Bons de travaux",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -16616,7 +16616,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T13:28:17.065Z"
+      "updatedAt": "2026-10-23T13:28:22.953Z"
     },
     {
       "id": "mmvl06dlwif0iw",
@@ -16637,11 +16637,11 @@
       "requester": "Séverine PINTO",
       "description": "Mainti4 000017643\nDemande du : 23/10/2026\nDemandeur : Séverine PINTO\nType de travaux : BAT-PLOMBERIE\nÉtat Mainti4 : Réalisé(e)",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Bons de travaux",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -16654,7 +16654,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T13:27:17.363Z"
+      "updatedAt": "2026-10-23T13:28:24.361Z"
     }
   ],
   "chantiers": [

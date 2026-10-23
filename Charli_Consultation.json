@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T07:40:58.712Z",
+  "generatedAt": "2026-10-23T07:42:00.497Z",
   "agents": [
     {
       "id": "a0",
@@ -14420,6 +14420,46 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-23T07:40:58.576Z"
+    },
+    {
+      "id": "mmvknvo93ztbon",
+      "title": "MARQUAGE AU SOL STATIONNEMENT LOT PONS + FINIR EHPAD",
+      "bt": "",
+      "team": "Voirie",
+      "activity": "Signalisation horizontale et marquage au sol",
+      "location": "EHPAD ET LOTISSEMENT PONS",
+      "date": "2026-10-27",
+      "slot": "Personnalisé",
+      "startTime": "",
+      "duration": 7.5,
+      "agentCount": 3,
+      "agents": [
+        "a18",
+        "a16",
+        "a17"
+      ],
+      "vehicles": [],
+      "requester": "",
+      "description": "",
+      "report": "",
+      "status": "À faire",
+      "priority": "Normale",
+      "kind": "Ponctuelle",
+      "source": "Manuel",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "project": "",
+      "projectStatus": "",
+      "nextStep": "",
+      "decision": "",
+      "deadline": "",
+      "terrainProblem": false,
+      "terrainComment": "",
+      "terrainProblemReport": "",
+      "updatedAt": "2026-10-23T07:42:00.359Z"
     }
   ],
   "chantiers": [

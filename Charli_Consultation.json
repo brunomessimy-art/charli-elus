@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T07:34:22.634Z",
+  "generatedAt": "2026-10-23T07:35:05.741Z",
   "agents": [
     {
       "id": "a0",
@@ -14307,8 +14307,8 @@
       "bt": "",
       "team": "Voirie",
       "activity": "Signalisation horizontale et marquage au sol",
-      "location": "",
-      "date": "2026-10-22",
+      "location": "EHPAD + LOT PONS",
+      "date": "2026-10-23",
       "slot": "Personnalisé",
       "startTime": "",
       "duration": 4.5,
@@ -14335,7 +14335,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T07:34:22.495Z"
+      "updatedAt": "2026-10-23T07:35:05.615Z"
     },
     {
       "id": "mmvknilgf2rvjr",

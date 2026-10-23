@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T09:49:35.505Z",
+  "generatedAt": "2026-10-23T09:49:40.719Z",
   "agents": [
     {
       "id": "a0",
@@ -11793,11 +11793,11 @@
       "requester": "",
       "description": "entretien du lotissement du parc par les espaces verts",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Charli Terrain",
-      "progress": 40,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -11810,7 +11810,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-21T11:37:23.277Z"
+      "updatedAt": "2026-10-23T09:49:40.316Z"
     },
     {
       "id": "mmvanyzllgx9iq",

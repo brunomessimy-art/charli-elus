@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-10-23T14:46:51.464Z",
+  "generatedAt": "2026-11-02T16:01:51.803Z",
   "agents": [
     {
       "id": "a0",
@@ -13973,11 +13973,11 @@
       "requester": "DIRECTION ECOLE PRIMAIRE",
       "description": "Bonjour,\n\nConformément à la demande formulée par les représentants des parents d'élèves, je sollicite l'intervention des services techniques pour la réfection du marquage au sol des zones de sécurité situées aux abords des portails de l'école.\n\nIl s'agit de repeindre les zones matérialisées en jaune, en utilisant **une peinture antidérapante adaptée aux espaces extérieurs**, afin de limiter les risques de glissade, notamment par temps de pluie.\n\nCette demande fait suite aux observations des représentants des parents d'élèves concernant la sécurité des cheminements aux entrées de l'établissement.\n\nJe vous remercie par avance de l'attention portée à cette demande et de votre intervention.\n\nM Gibergues  \nDirecteur de l'école élémentaire Claude-Daniel de Laurès\nÉtat Mainti4 : En attente",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Demandes",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -13990,7 +13990,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-21T14:21:29.539Z"
+      "updatedAt": "2026-11-02T07:19:12.628Z"
     },
     {
       "id": "mmvi70nr03u86s",
@@ -14401,11 +14401,11 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Manuel",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -14418,7 +14418,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T12:19:05.496Z"
+      "updatedAt": "2026-11-02T07:19:18.931Z"
     },
     {
       "id": "mmvknvo93ztbon",
@@ -14441,11 +14441,11 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Manuel",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -14458,7 +14458,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T07:42:00.359Z"
+      "updatedAt": "2026-11-02T07:19:21.322Z"
     },
     {
       "id": "mmvknzvp35vwjq",
@@ -14480,11 +14480,11 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Manuel",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -14497,7 +14497,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T07:46:13.688Z"
+      "updatedAt": "2026-11-02T07:19:30.043Z"
     },
     {
       "id": "mmvko36ind9g15",
@@ -14518,11 +14518,11 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Manuel",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -14535,7 +14535,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T07:49:32.816Z"
+      "updatedAt": "2026-11-02T07:19:36.129Z"
     },
     {
       "id": "mmvko62lz1mqzn",
@@ -14556,11 +14556,11 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Manuel",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -14573,11 +14573,11 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T07:50:49.935Z"
+      "updatedAt": "2026-11-02T07:19:36.841Z"
     },
     {
       "id": "mmvkoqj9rjp9fq",
-      "title": "TRAVAUX NON PROGRAMMES",
+      "title": "TRAVAUX NON PROGRAMMES bennes espaces verts + chemin mas de navas",
       "bt": "",
       "team": "Voirie",
       "activity": "Travaux divers de voirie",
@@ -14595,11 +14595,11 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Manuel",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -14612,7 +14612,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T08:07:13.792Z"
+      "updatedAt": "2026-11-02T07:24:34.502Z"
     },
     {
       "id": "mmvkpdmagbhjzo",

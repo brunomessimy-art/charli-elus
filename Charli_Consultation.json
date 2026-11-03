@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-11-03T09:39:10.404Z",
+  "generatedAt": "2026-11-03T09:49:31.517Z",
   "agents": [
     {
       "id": "a0",
@@ -17615,9 +17615,33 @@
       "nextAction": "",
       "blockers": "",
       "decision": "",
-      "updatedAt": "2026-10-05T19:20:35.394Z",
-      "companies": [],
-      "phases": []
+      "updatedAt": "2026-11-03T09:49:31.143Z",
+      "companies": [
+        {
+          "id": "comw0i0f52wpy4d",
+          "name": "JERHOME BATI",
+          "contact": "",
+          "phone": "",
+          "email": "",
+          "specialty": "",
+          "forecast": 0,
+          "actual": 0
+        }
+      ],
+      "phases": [
+        {
+          "id": "phmw0i9y19uy4ym",
+          "name": "",
+          "date": "2026-11-03",
+          "companyId": "comw0i0f52wpy4d",
+          "mission": "POUTRE + PEINTURE",
+          "status": "À venir",
+          "duration": "",
+          "report": "",
+          "watchLevel": "",
+          "watchNote": ""
+        }
+      ]
     },
     {
       "id": "chmuv87am1spkmf",

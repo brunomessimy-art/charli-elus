@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-11-05T13:25:26.204Z",
+  "generatedAt": "2026-11-05T13:25:29.163Z",
   "agents": [
     {
       "id": "a0",
@@ -16974,44 +16974,6 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-16T13:19:50.811Z"
-    },
-    {
-      "id": "mmvl0h16gom0nr",
-      "title": "RECUPERATION MARCHE",
-      "bt": "",
-      "team": "Festivités",
-      "activity": "Suivi et accompagnement d’entreprise",
-      "location": "",
-      "date": "2026-10-28",
-      "slot": "Personnalisé",
-      "startTime": "",
-      "duration": 7.5,
-      "agentCount": 1,
-      "agents": [
-        "amupb01cp96x3c"
-      ],
-      "vehicles": [],
-      "requester": "",
-      "description": "",
-      "report": "",
-      "status": "À faire",
-      "priority": "Normale",
-      "kind": "Ponctuelle",
-      "source": "Copie S43 → S44",
-      "progress": 100,
-      "watchLevel": "",
-      "watchNote": "",
-      "pinned": false,
-      "codir": false,
-      "project": "",
-      "projectStatus": "",
-      "nextStep": "",
-      "decision": "",
-      "deadline": "",
-      "terrainProblem": false,
-      "terrainComment": "",
-      "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T13:28:47.715Z"
     },
     {
       "id": "mmvl0h16kib7rw",

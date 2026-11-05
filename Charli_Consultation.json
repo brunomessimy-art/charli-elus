@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-11-05T12:53:22.328Z",
+  "generatedAt": "2026-11-05T12:53:28.651Z",
   "agents": [
     {
       "id": "a0",
@@ -12047,45 +12047,6 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-23T06:17:22.027Z"
-    },
-    {
-      "id": "mmvaz4jcz23xl8",
-      "title": "REPRISE CHAUSSEE BETON SUITE INFILTRATIONS",
-      "bt": "",
-      "team": "Voirie",
-      "activity": "Travaux divers de voirie",
-      "location": "IMPASSE ST MICHEL",
-      "date": "2026-10-28",
-      "slot": "Personnalisé",
-      "startTime": "",
-      "duration": 1.5,
-      "agentCount": 2,
-      "agents": [
-        "a18",
-        "a17"
-      ],
-      "vehicles": [],
-      "requester": "",
-      "description": "",
-      "report": "",
-      "status": "À faire",
-      "priority": "Normale",
-      "kind": "Ponctuelle",
-      "source": "Manuel",
-      "progress": 50,
-      "watchLevel": "",
-      "watchNote": "",
-      "pinned": false,
-      "codir": false,
-      "project": "",
-      "projectStatus": "",
-      "nextStep": "",
-      "decision": "",
-      "deadline": "",
-      "terrainProblem": false,
-      "terrainComment": "",
-      "terrainProblemReport": "",
-      "updatedAt": "2026-11-05T12:53:21.881Z"
     },
     {
       "id": "mmvaz720php76n",

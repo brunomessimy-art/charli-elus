@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-11-05T10:06:51.755Z",
+  "generatedAt": "2026-11-05T10:41:19.064Z",
   "agents": [
     {
       "id": "a0",
@@ -17892,6 +17892,55 @@
           "date": "2026-10-29",
           "companyId": "comw0jgaximclzl",
           "mission": "INTERVENTION ENTREPRISE",
+          "status": "À venir",
+          "duration": "",
+          "report": "",
+          "watchLevel": "",
+          "watchNote": ""
+        }
+      ]
+    },
+    {
+      "id": "chmw3ex24i86wkp",
+      "name": "REPARATION CHAUDIERE URIOS",
+      "location": "ESPACE URIOS",
+      "description": "Dysfonctionnement de l'interrupteur de la chaudière\nAttente du devis Hervé thermique",
+      "manager": "BRUNO CIALDELLA",
+      "status": "En attente",
+      "priority": "Urgente",
+      "progress": 5,
+      "watchLevel": "Vigilance",
+      "watchNote": "",
+      "pinned": true,
+      "codir": false,
+      "startDate": "",
+      "endDate": "",
+      "reportDate": "",
+      "observations": "",
+      "issues": "",
+      "nextAction": "",
+      "blockers": "",
+      "decision": "",
+      "updatedAt": "2026-11-05T10:41:18.772Z",
+      "companies": [
+        {
+          "id": "comw3f043d170z0",
+          "name": "HERVE THERMIQUE",
+          "contact": "",
+          "phone": "",
+          "email": "",
+          "specialty": "",
+          "forecast": 0,
+          "actual": 0
+        }
+      ],
+      "phases": [
+        {
+          "id": "phmw3f0d0aovcd1",
+          "name": "",
+          "date": "2026-11-05",
+          "companyId": "comw3f043d170z0",
+          "mission": "ATTENTE DEVIS",
           "status": "À venir",
           "duration": "",
           "report": "",

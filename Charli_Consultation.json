@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-11-05T12:54:31.028Z",
+  "generatedAt": "2026-11-05T12:54:37.342Z",
   "agents": [
     {
       "id": "a0",
@@ -15193,7 +15193,7 @@
       "requester": "",
       "description": "Grande balayeuse en binôme Mickael / Bruno - AGENT: Mickael N. - DATE: 10/02/2026 -",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15210,7 +15210,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T14:04:17.434Z"
+      "updatedAt": "2026-11-05T12:54:36.189Z"
     },
     {
       "id": "mmvkwwk12ycklr",
@@ -15232,7 +15232,7 @@
       "requester": "",
       "description": "Mairie + cours des écoles - AGENT: Simon - DATE: 11/02/2026 - DUREE: 3 h 00",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15249,7 +15249,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T14:04:38.266Z"
+      "updatedAt": "2026-11-05T12:54:36.998Z"
     },
     {
       "id": "mmvkwwk13zitxh",

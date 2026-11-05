@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-11-05T10:41:19.064Z",
+  "generatedAt": "2026-11-05T10:42:31.485Z",
   "agents": [
     {
       "id": "a0",
@@ -17909,7 +17909,7 @@
       "status": "En attente",
       "priority": "Urgente",
       "progress": 5,
-      "watchLevel": "Vigilance",
+      "watchLevel": "Critique",
       "watchNote": "",
       "pinned": true,
       "codir": false,
@@ -17921,7 +17921,7 @@
       "nextAction": "",
       "blockers": "",
       "decision": "",
-      "updatedAt": "2026-11-05T10:41:18.772Z",
+      "updatedAt": "2026-11-05T10:42:31.186Z",
       "companies": [
         {
           "id": "comw3f043d170z0",

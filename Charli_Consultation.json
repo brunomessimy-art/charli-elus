@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-11-05T10:42:59.699Z",
+  "generatedAt": "2026-11-05T10:43:46.681Z",
   "agents": [
     {
       "id": "a0",
@@ -11950,11 +11950,11 @@
       "requester": "Charlène GAURICHON",
       "description": "Mainti4 000006323\nDélai / urgence : SOUS 7 JOURS\nDemande du : 15/10/2026\nDemandeur : Charlène GAURICHON\nÉtat Mainti4 : En attente",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Import Mainti4 Demandes",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "Critique",
       "watchNote": "",
       "pinned": true,
@@ -11967,7 +11967,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-11-05T10:42:59.397Z"
+      "updatedAt": "2026-11-05T10:43:46.331Z"
     },
     {
       "id": "mmvayvgsysaosm",

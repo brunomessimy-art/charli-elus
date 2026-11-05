@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-11-05T12:55:03.447Z",
+  "generatedAt": "2026-11-05T13:25:21.494Z",
   "agents": [
     {
       "id": "a0",
@@ -16898,44 +16898,6 @@
       "terrainComment": "",
       "terrainProblemReport": "",
       "updatedAt": "2026-10-23T13:32:32.044Z"
-    },
-    {
-      "id": "mmvl0h16d3md3d",
-      "title": "ACTIVITE FESTIVITES",
-      "bt": "",
-      "team": "Festivités",
-      "activity": "Installation de manifestations et événements",
-      "location": "",
-      "date": "2026-10-26",
-      "slot": "Personnalisé",
-      "startTime": "",
-      "duration": 7.5,
-      "agentCount": 1,
-      "agents": [
-        "amupb01cp96x3c"
-      ],
-      "vehicles": [],
-      "requester": "",
-      "description": "",
-      "report": "",
-      "status": "À faire",
-      "priority": "Normale",
-      "kind": "Ponctuelle",
-      "source": "Copie S43 → S44",
-      "progress": 100,
-      "watchLevel": "",
-      "watchNote": "",
-      "pinned": false,
-      "codir": false,
-      "project": "",
-      "projectStatus": "",
-      "nextStep": "",
-      "decision": "",
-      "deadline": "2026-10-12",
-      "terrainProblem": false,
-      "terrainComment": "",
-      "terrainProblemReport": "",
-      "updatedAt": "2026-10-16T13:18:34.236Z"
     },
     {
       "id": "mmvl0h16e9vjm7",

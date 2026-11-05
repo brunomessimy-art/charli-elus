@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-11-05T10:05:29.898Z",
+  "generatedAt": "2026-11-05T10:06:51.755Z",
   "agents": [
     {
       "id": "a0",
@@ -17830,7 +17830,7 @@
       "id": "chmvkmyf9y0l09y",
       "name": "INFILTRATIONS SUR LE BATIMENT DE LA POLICE MUNICIPALE",
       "location": "POLICE MUNICIPALE",
-      "description": "PLUSIEURS INFILTRATION SUR LE BATIMENT",
+      "description": "PLUSIEURS INFILTRATION SUR LE BATIMENT\n05/11/26 INFILTRATION BATIMENT POLICE MUNICIPALE PROVENANCE VRAISSEMBLABLE TERRASSE HAUTE",
       "manager": "JORIS MIRA",
       "status": "À préparer",
       "priority": "Haute",
@@ -17847,7 +17847,7 @@
       "nextAction": "",
       "blockers": "",
       "decision": "",
-      "updatedAt": "2026-10-23T07:17:16.879Z",
+      "updatedAt": "2026-11-05T10:06:51.407Z",
       "companies": [],
       "phases": []
     },

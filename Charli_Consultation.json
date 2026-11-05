@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-11-05T12:53:28.651Z",
+  "generatedAt": "2026-11-05T12:53:41.548Z",
   "agents": [
     {
       "id": "a0",
@@ -4763,11 +4763,11 @@
       "requester": "",
       "description": "taille des lauriers à l'entrée du parc du mas-faugère",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Charli Terrain",
-      "progress": null,
+      "progress": 100,
       "watchLevel": "",
       "watchNote": "",
       "pinned": false,
@@ -4780,7 +4780,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T12:32:47.024Z"
+      "updatedAt": "2026-11-05T12:53:41.184Z"
     },
     {
       "id": "mmuzj8i4n04luz",

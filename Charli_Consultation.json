@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-11-05T12:54:54.552Z",
+  "generatedAt": "2026-11-05T12:55:00.794Z",
   "agents": [
     {
       "id": "a0",
@@ -15344,7 +15344,7 @@
       "requester": "",
       "description": "WC publics - AGENT: Fabrice - DATE: 13/02/2026 - DUREE: 2 h 30",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15361,7 +15361,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T11:57:15.261Z"
+      "updatedAt": "2026-11-05T12:54:57.300Z"
     },
     {
       "id": "mmvkwwk14vyuss",
@@ -15382,7 +15382,7 @@
       "requester": "",
       "description": "Grande balayeuse - préparation marché - AGENT: Bruno M. - DATE: 13/02/2026 - DUREE: 7 h",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15399,7 +15399,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T11:57:16.279Z"
+      "updatedAt": "2026-11-05T12:54:58.588Z"
     },
     {
       "id": "mmvkwwk14pwg4z",
@@ -15418,7 +15418,7 @@
       "requester": "ADMINISTRE",
       "description": "passage balayeuse 5 impasse des courlis 2 ème relance.\nBonjour, madame diaz, c'est madame Matthieu au loutissement adresse, 5 impasse des courlis   ça fait deux relances que je fais pour omvien  passer la balayeuse  devant chez moi dans l'chemin, c'est pourri, c'est vraiment pourri il ua debma boue voyer les\n\nMainti4 000006283\nDélai / urgence : SOUS 7 JOURS\nDemande du : 06/10/2026\nDemandeur : ADMINISTRE\nÉtat Mainti4 : En attente",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15435,7 +15435,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T11:57:17.592Z"
+      "updatedAt": "2026-11-05T12:54:59.421Z"
     },
     {
       "id": "mmvkwwk15vb4o9",
@@ -15683,7 +15683,7 @@
       "requester": "",
       "description": "",
       "report": "",
-      "status": "À faire",
+      "status": "Terminée",
       "priority": "Normale",
       "kind": "Ponctuelle",
       "source": "Copie S43 → S44",
@@ -15700,7 +15700,7 @@
       "terrainProblem": false,
       "terrainComment": "",
       "terrainProblemReport": "",
-      "updatedAt": "2026-10-23T11:57:18.862Z"
+      "updatedAt": "2026-11-05T12:55:00.357Z"
     },
     {
       "id": "mmvkwwk18k5he6",

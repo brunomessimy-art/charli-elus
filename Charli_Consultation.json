@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-11-05T10:43:46.681Z",
+  "generatedAt": "2026-11-05T10:44:21.946Z",
   "agents": [
     {
       "id": "a0",
@@ -17414,12 +17414,12 @@
       "startDate": "",
       "endDate": "",
       "reportDate": "",
-      "observations": "•\tConstat des infiltrations : Le 1er octobre dernier, des problèmes d'infiltrations d'eau ont été signalés au sein de la médiathèque, pendant les intempéries d'une forte intensité. Notamment autour des Velux au dessus des collections. \n \n•\tSuivi et prestataire : Un rendez-vous a rapidement été pris avec le prestataire extérieur O Toit Occitan, le 20/10/26, afin d'expertiser l'origine des fuites et procéder aux réparations nécessaires sur la toiture. \n•\tExpertise et suite : Le responsable technico-commercial de l'entreprise conclut a des problèmes sur l'entourage zinc des velux ( chevauchement faible, et soudure fragile ou mal réalisé ). Il va rapidement faire une proposition de mesures conservatoires avec reprise des points cités.",
+      "observations": "•\tConstat des infiltrations : Le 1er octobre dernier, des problèmes d'infiltrations d'eau ont été signalés au sein de la médiathèque, pendant les intempéries d'une forte intensité. Notamment autour des Velux au dessus des collections. \n \n•\tSuivi et prestataire : Un rendez-vous a rapidement été pris avec le prestataire extérieur O Toit Occitan, le 20/10/26, afin d'expertiser l'origine des fuites et procéder aux réparations nécessaires sur la toiture. \n•\tExpertise et suite : Le responsable technico-commercial de l'entreprise conclut a des problèmes sur l'entourage zinc des velux ( chevauchement faible, et soudure fragile ou mal réalisé ). Il va rapidement faire une proposition de mesures conservatoires avec reprise des points cités.\nDEVIS VALIDE",
       "issues": "",
       "nextAction": "",
       "blockers": "",
       "decision": "",
-      "updatedAt": "2026-11-03T10:23:38.788Z",
+      "updatedAt": "2026-11-05T10:44:21.610Z",
       "companies": [
         {
           "id": "comuwnq87zyz1mw",

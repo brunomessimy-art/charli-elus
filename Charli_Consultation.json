@@ -1,6 +1,6 @@
 {
   "schema": "charli-consultation-v2",
-  "generatedAt": "2026-11-05T10:49:30.966Z",
+  "generatedAt": "2026-11-05T10:52:32.455Z",
   "agents": [
     {
       "id": "a0",
@@ -17901,6 +17901,55 @@
           "date": "2026-11-05",
           "companyId": "comw3f043d170z0",
           "mission": "ATTENTE DEVIS",
+          "status": "À venir",
+          "duration": "",
+          "report": "",
+          "watchLevel": "",
+          "watchNote": ""
+        }
+      ]
+    },
+    {
+      "id": "chmw3fbuhshyaiq",
+      "name": "HYDROCURAGE MAIRIE PM GENDARMERIE ECOLE",
+      "location": "MAIRIE PM GENDARMERIE ECOLE",
+      "description": "",
+      "manager": "RENE MOUGINOT",
+      "status": "À préparer",
+      "priority": "Haute",
+      "progress": null,
+      "watchLevel": "",
+      "watchNote": "",
+      "pinned": false,
+      "codir": false,
+      "startDate": "",
+      "endDate": "",
+      "reportDate": "",
+      "observations": "",
+      "issues": "",
+      "nextAction": "",
+      "blockers": "",
+      "decision": "",
+      "updatedAt": "2026-11-05T10:52:32.050Z",
+      "companies": [
+        {
+          "id": "comw3feda9mtdga",
+          "name": "CITEC",
+          "contact": "",
+          "phone": "",
+          "email": "",
+          "specialty": "",
+          "forecast": 0,
+          "actual": 0
+        }
+      ],
+      "phases": [
+        {
+          "id": "phmw3fengze1d79",
+          "name": "",
+          "date": "2026-11-05",
+          "companyId": "comw3feda9mtdga",
+          "mission": "CONTACT AU TELEPHONE ATTENTE PRISE DE RDV",
           "status": "À venir",
           "duration": "",
           "report": "",
